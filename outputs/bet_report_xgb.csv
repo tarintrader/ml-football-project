@@ -1,0 +1,2202 @@
+MatchIdx,Date,League,HomeTeam,AwayTeam,BetType,Odds,FairOdds,Stake,Result,Win,Profit
+0,,0,Freiburg,Bayern Munich,Away,1.5,1.2103428840637207,1,1,0,-1.0
+1,,0,Dortmund,Heidenheim,Draw,7.0,5.913138389587402,1,1,1,6.0
+1,,0,Dortmund,Heidenheim,Away,9.5,6.174356937408447,1,1,0,-1.0
+2,,0,Darmstadt,Werder Bremen,Away,2.3,1.2571923732757568,1,0,0,-1.0
+3,,0,Freiburg,Augsburg,Draw,4.0,3.940439224243164,1,0,0,-1.0
+4,,0,Darmstadt,FC Koln,Away,2.6,1.3812859058380127,1,2,1,1.6
+5,,0,Heidenheim,Dortmund,Away,1.8,1.2609190940856934,1,1,0,-1.0
+6,,0,Bochum,RB Leipzig,Draw,4.2,3.3243489265441895,1,2,0,-1.0
+7,,0,Darmstadt,Augsburg,Home,2.9,2.144700765609741,1,2,0,-1.0
+8,,0,Heidenheim,Ein Frankfurt,Away,2.5,1.3760603666305542,1,2,1,1.5
+9,,0,Mainz,M'gladbach,Draw,3.75,2.9499974250793457,1,1,1,2.75
+9,,0,Mainz,M'gladbach,Away,3.75,2.6934049129486084,1,1,0,-1.0
+10,,0,Union Berlin,Dortmund,Away,2.05,1.4524774551391602,1,2,1,1.0499999999999998
+11,,0,Wolfsburg,Stuttgart,Draw,3.5,2.667612314224243,1,2,0,-1.0
+11,,0,Wolfsburg,Stuttgart,Away,2.15,1.9099140167236328,1,2,1,1.15
+12,,0,Augsburg,Bochum,Away,3.75,1.85935640335083,1,1,0,-1.0
+13,,0,Hoffenheim,Wolfsburg,Away,2.63,2.10070538520813,1,0,0,-1.0
+14,,0,Leverkusen,Darmstadt,Home,1.2,1.05931556224823,1,0,1,0.19999999999999996
+15,,0,Stuttgart,Freiburg,Home,2.2,1.9169480800628662,1,0,1,1.2000000000000002
+16,,0,Werder Bremen,Mainz,Home,2.63,2.170621395111084,1,0,1,1.63
+16,,0,Werder Bremen,Mainz,Draw,3.5,3.4161181449890137,1,0,0,-1.0
+17,,0,M'gladbach,Bayern Munich,Draw,5.75,3.85005259513855,1,2,0,-1.0
+18,,0,Bochum,Wolfsburg,Home,2.63,2.149181365966797,1,0,1,1.63
+19,,0,M'gladbach,Hoffenheim,Draw,4.0,3.1505825519561768,1,0,0,-1.0
+20,,0,RB Leipzig,Heidenheim,Home,1.25,1.2150394916534424,1,0,1,0.25
+20,,0,RB Leipzig,Heidenheim,Draw,7.0,6.663797378540039,1,0,0,-1.0
+21,,0,Stuttgart,Werder Bremen,Home,1.4,1.3503217697143555,1,0,1,0.3999999999999999
+22,,0,Bayern Munich,M'gladbach,Draw,9.5,2.628084421157837,1,0,0,-1.0
+23,,0,Bochum,Augsburg,Away,3.4,2.719846487045288,1,1,0,-1.0
+24,,0,Darmstadt,Leverkusen,Home,9.5,4.460757255554199,1,2,0,-1.0
+24,,0,Darmstadt,Leverkusen,Draw,6.5,5.766940116882324,1,2,0,-1.0
+25,,0,Freiburg,Stuttgart,Away,2.2,1.750714898109436,1,2,1,1.2000000000000002
+26,,0,Mainz,Werder Bremen,Home,2.1,1.4383375644683838,1,2,0,-1.0
+27,,0,FC Koln,Ein Frankfurt,Draw,3.4,2.4527108669281006,1,0,0,-1.0
+28,,0,FC Koln,Leverkusen,Away,1.36,1.1861189603805542,1,2,1,0.3600000000000001
+29,,0,Hoffenheim,Werder Bremen,Away,3.6,2.8536062240600586,1,0,0,-1.0
+30,,0,Hoffenheim,RB Leipzig,Home,5.25,3.427698850631714,1,1,0,-1.0
+31,,0,Ein Frankfurt,FC Koln,Home,2.1,1.773630142211914,1,1,0,-1.0
+31,,0,Ein Frankfurt,FC Koln,Draw,3.4,2.766511917114258,1,1,1,2.4
+32,,0,Union Berlin,RB Leipzig,Away,2.2,1.1845821142196655,1,2,1,1.2000000000000002
+33,,0,Darmstadt,Bochum,Draw,3.75,3.729118824005127,1,2,0,-1.0
+33,,0,Darmstadt,Bochum,Away,2.88,1.7491801977157593,1,2,1,1.88
+34,,0,Mainz,Freiburg,Draw,3.4,2.935018301010132,1,2,0,-1.0
+34,,0,Mainz,Freiburg,Away,3.1,2.790442943572998,1,2,1,2.1
+35,,0,Leverkusen,Dortmund,Draw,4.5,3.1216793060302734,1,1,1,3.5
+36,,0,Augsburg,Ein Frankfurt,Draw,3.6,3.4506447315216064,1,0,0,-1.0
+36,,0,Augsburg,Ein Frankfurt,Away,2.55,2.298771381378174,1,0,0,-1.0
+37,,0,Wolfsburg,Hoffenheim,Home,2.1,1.4524877071380615,1,1,0,-1.0
+38,,0,RB Leipzig,Union Berlin,Home,1.4,1.228570818901062,1,0,1,0.3999999999999999
+39,,0,Dortmund,Augsburg,Home,1.85,1.154538869857788,1,0,1,0.8500000000000001
+40,,0,Stuttgart,Bayern Munich,Home,2.1,1.1612868309020996,1,0,1,1.1
+41,,0,Werder Bremen,M'gladbach,Away,3.0,2.347782611846924,1,1,0,-1.0
+42,,0,Wolfsburg,Darmstadt,Home,1.4,1.2615306377410889,1,0,1,0.3999999999999999
+43,,0,FC Koln,Freiburg,Home,2.3,1.25748872756958,1,1,0,-1.0
+44,,0,FC Koln,Augsburg,Home,2.3,1.3247159719467163,1,1,0,-1.0
+45,,0,Freiburg,M'gladbach,Home,2.1,1.577376127243042,1,1,0,-1.0
+46,,0,Hoffenheim,Leverkusen,Home,5.0,1.8734405040740967,1,2,0,-1.0
+47,,0,Mainz,RB Leipzig,Home,5.75,5.508045196533203,1,0,1,4.75
+47,,0,Mainz,RB Leipzig,Draw,4.2,2.735607862472534,1,0,0,-1.0
+48,,0,Union Berlin,Ein Frankfurt,Draw,3.1,2.996297836303711,1,2,0,-1.0
+48,,0,Union Berlin,Ein Frankfurt,Away,2.9,2.3914194107055664,1,2,1,1.9
+49,,0,Dortmund,Bayern Munich,Away,1.75,1.1236846446990967,1,2,1,0.75
+50,,0,Ein Frankfurt,Werder Bremen,Away,4.5,1.658259630203247,1,1,0,-1.0
+51,,0,Union Berlin,Bochum,Home,1.95,1.4540599584579468,1,2,0,-1.0
+52,,0,Ein Frankfurt,Leverkusen,Away,2.2,1.5717564821243286,1,2,1,1.2000000000000002
+53,,0,Heidenheim,Mainz,Home,3.0,2.7456812858581543,1,1,0,-1.0
+53,,0,Heidenheim,Mainz,Draw,3.5,2.986370325088501,1,1,1,2.5
+54,,0,Wolfsburg,Werder Bremen,Draw,4.33,3.643524169921875,1,1,1,3.33
+54,,0,Wolfsburg,Werder Bremen,Away,4.33,4.283368110656738,1,1,0,-1.0
+55,,0,Heidenheim,Stuttgart,Draw,4.33,1.9234055280685425,1,0,0,-1.0
+56,,0,FC Koln,Bochum,Home,2.25,1.9934263229370117,1,0,1,1.25
+56,,0,FC Koln,Bochum,Draw,3.5,2.8700928688049316,1,0,0,-1.0
+57,,0,Freiburg,RB Leipzig,Draw,4.33,4.279356956481934,1,2,0,-1.0
+57,,0,Freiburg,RB Leipzig,Away,1.65,1.5153145790100098,1,2,1,0.6499999999999999
+58,,0,Heidenheim,Bayern Munich,Away,1.36,1.256227970123291,1,0,0,-1.0
+59,,0,Mainz,Darmstadt,Home,1.4,1.1693010330200195,1,0,1,0.3999999999999999
+60,,0,Union Berlin,Leverkusen,Away,1.55,1.2216185331344604,1,2,1,0.55
+61,,0,Dortmund,Stuttgart,Home,2.25,1.2646105289459229,1,2,0,-1.0
+62,,0,M'gladbach,Mainz,Home,2.05,1.9175196886062622,1,1,0,-1.0
+62,,0,M'gladbach,Mainz,Away,3.4,3.2519233226776123,1,1,0,-1.0
+63,,0,Mainz,Union Berlin,Home,2.15,1.5937763452529907,1,1,0,-1.0
+64,,0,Hoffenheim,Augsburg,Draw,4.0,3.976740598678589,1,0,0,-1.0
+64,,0,Hoffenheim,Augsburg,Away,2.9,2.110170364379883,1,0,0,-1.0
+65,,0,Wolfsburg,M'gladbach,Draw,4.0,3.0712618827819824,1,2,0,-1.0
+65,,0,Wolfsburg,M'gladbach,Away,3.8,2.0780272483825684,1,2,1,2.8
+66,,0,Augsburg,Darmstadt,Draw,3.75,2.5666871070861816,1,2,0,-1.0
+66,,0,Augsburg,Darmstadt,Away,4.0,2.634150743484497,1,2,1,3.0
+67,,0,Dortmund,Union Berlin,Home,1.57,1.415932059288025,1,0,1,0.5700000000000001
+68,,0,RB Leipzig,Bochum,Draw,6.0,5.992717266082764,1,1,1,5.0
+69,,0,Stuttgart,Wolfsburg,Home,2.0,1.634397268295288,1,0,1,1.0
+70,,0,Werder Bremen,Hoffenheim,Draw,3.75,2.716712236404419,1,2,0,-1.0
+72,,0,Leverkusen,FC Koln,Home,1.33,1.179996132850647,1,0,1,0.33000000000000007
+73,,0,Bayern Munich,Freiburg,Draw,8.5,5.125812530517578,1,0,0,-1.0
+74,,0,Ein Frankfurt,Heidenheim,Home,1.7,1.3173524141311646,1,0,1,0.7
+76,,0,Dortmund,Freiburg,Home,1.45,1.2355576753616333,1,0,1,0.44999999999999996
+77,,0,Augsburg,Heidenheim,Home,1.85,1.2844219207763672,1,0,1,0.8500000000000001
+78,,0,Bayern Munich,Mainz,Home,1.25,1.0577248334884644,1,0,1,0.25
+79,,0,M'gladbach,FC Koln,Draw,4.0,3.032256841659546,1,1,1,3.0
+79,,0,M'gladbach,FC Koln,Away,4.0,2.8932032585144043,1,1,0,-1.0
+80,,0,RB Leipzig,Darmstadt,Draw,8.5,4.6981964111328125,1,0,0,-1.0
+80,,0,RB Leipzig,Darmstadt,Away,15.0,13.670464515686035,1,0,0,-1.0
+81,,0,Werder Bremen,Dortmund,Away,1.85,1.4344786405563354,1,2,1,0.8500000000000001
+82,,0,Ein Frankfurt,Bayern Munich,Home,9.0,7.297224998474121,1,0,1,8.0
+82,,0,Ein Frankfurt,Bayern Munich,Draw,5.5,2.724191665649414,1,0,0,-1.0
+83,,0,Heidenheim,Darmstadt,Away,3.5,2.8163001537323,1,0,0,-1.0
+84,,0,Union Berlin,M'gladbach,Draw,3.5,2.669597864151001,1,0,0,-1.0
+85,,0,Werder Bremen,Augsburg,Home,2.38,1.3840861320495605,1,0,1,1.38
+86,,0,Wolfsburg,Freiburg,Home,2.25,2.106241464614868,1,2,0,-1.0
+86,,0,Wolfsburg,Freiburg,Draw,3.5,2.351055145263672,1,2,0,-1.0
+87,,0,Dortmund,RB Leipzig,Away,2.55,2.034480571746826,1,2,1,1.5499999999999998
+88,,0,Augsburg,RB Leipzig,Away,1.75,1.4025481939315796,1,1,0,-1.0
+89,,0,Ein Frankfurt,Bochum,Draw,3.8,3.071251392364502,1,1,1,2.8
+89,,0,Ein Frankfurt,Bochum,Away,4.75,2.0197207927703857,1,1,0,-1.0
+90,,0,M'gladbach,Darmstadt,Home,1.6,1.1884965896606445,1,1,0,-1.0
+91,,0,Union Berlin,Wolfsburg,Draw,3.4,2.5775723457336426,1,0,0,-1.0
+92,,0,Werder Bremen,Heidenheim,Draw,3.8,2.612196683883667,1,2,0,-1.0
+93,,0,Leverkusen,Bayern Munich,Home,2.63,1.2927751541137695,1,0,1,1.63
+94,,0,Bochum,Freiburg,Away,3.0,2.3801848888397217,1,2,1,2.0
+95,,0,Ein Frankfurt,Hoffenheim,Home,2.0,1.4962033033370972,1,0,1,1.0
+95,,0,Ein Frankfurt,Hoffenheim,Draw,4.0,3.688326835632324,1,0,0,-1.0
+96,,0,Leverkusen,Wolfsburg,Home,1.33,1.1506725549697876,1,0,1,0.33000000000000007
+97,,0,Augsburg,Stuttgart,Away,1.75,1.2644622325897217,1,2,1,0.75
+98,,0,M'gladbach,Wolfsburg,Home,2.3,2.170490264892578,1,0,1,1.2999999999999998
+99,,0,Stuttgart,Leverkusen,Home,2.9,1.4603426456451416,1,1,0,-1.0
+100,,0,FC Koln,Mainz,Away,3.0,2.2139792442321777,1,1,0,-1.0
+101,,0,Stuttgart,Mainz,Home,1.44,1.2403594255447388,1,0,1,0.43999999999999995
+102,,0,Hoffenheim,FC Koln,Home,1.8,1.2612080574035645,1,1,0,-1.0
+103,,0,FC Koln,Union Berlin,Away,2.55,1.7670214176177979,1,0,0,-1.0
+104,,0,Freiburg,Heidenheim,Draw,4.0,2.6372923851013184,1,1,1,3.0
+104,,0,Freiburg,Heidenheim,Away,4.5,3.481762170791626,1,1,0,-1.0
+105,,0,M'gladbach,Ein Frankfurt,Home,2.45,1.1517006158828735,1,1,0,-1.0
+106,,0,RB Leipzig,Werder Bremen,Home,1.29,1.1260888576507568,1,1,0,-1.0
+107,,0,Mainz,Dortmund,Home,2.2,1.374436378479004,1,0,1,1.2000000000000002
+108,,0,Augsburg,Hoffenheim,Home,2.63,2.388093948364258,1,1,0,-1.0
+109,,0,Bayern Munich,Heidenheim,Draw,17.0,15.110979080200195,1,0,0,-1.0
+110,,0,Darmstadt,Mainz,Home,3.1,1.4299921989440918,1,1,0,-1.0
+111,,0,Stuttgart,Dortmund,Home,2.55,1.2611525058746338,1,0,1,1.5499999999999998
+112,,0,Bochum,FC Koln,Home,2.45,2.0756494998931885,1,1,0,-1.0
+113,,0,Bayern Munich,Hoffenheim,Home,1.14,1.1398978233337402,1,0,1,0.1399999999999999
+114,,0,Augsburg,Union Berlin,Home,2.1,1.9048240184783936,1,0,1,1.1
+115,,0,Darmstadt,Hoffenheim,Away,1.62,1.163190245628357,1,2,1,0.6200000000000001
+116,,0,Bayern Munich,Wolfsburg,Draw,6.0,3.235225200653076,1,0,0,-1.0
+117,,0,Bochum,Leverkusen,Away,1.7,1.1939082145690918,1,2,1,0.7
+118,,0,Leverkusen,Union Berlin,Home,1.29,1.072329044342041,1,0,1,0.29000000000000004
+119,,0,Werder Bremen,Ein Frankfurt,Home,3.1,2.0366499423980713,1,1,0,-1.0
+120,,0,RB Leipzig,Freiburg,Draw,5.0,3.871636390686035,1,0,0,-1.0
+121,,0,Augsburg,Leverkusen,Draw,4.75,3.9782907962799072,1,2,0,-1.0
+121,,0,Augsburg,Leverkusen,Away,1.5,1.412624478340149,1,2,1,0.5
+122,,0,FC Koln,Heidenheim,Home,2.05,1.4297566413879395,1,1,0,-1.0
+123,,0,Freiburg,Union Berlin,Away,3.5,2.509528875350952,1,1,0,-1.0
+124,,0,Mainz,Wolfsburg,Away,3.25,2.07495379447937,1,1,0,-1.0
+125,,0,RB Leipzig,Ein Frankfurt,Home,1.45,1.3614113330841064,1,2,0,-1.0
+126,,0,Darmstadt,Dortmund,Away,1.53,1.1452301740646362,1,2,1,0.53
+127,,0,Bayern Munich,FC Koln,Draw,7.5,4.837480068206787,1,0,0,-1.0
+127,,0,Bayern Munich,FC Koln,Away,11.0,6.608161449432373,1,0,0,-1.0
+128,,0,Bochum,Heidenheim,Draw,3.75,2.3235690593719482,1,1,1,2.75
+129,,0,Mainz,Hoffenheim,Home,1.95,1.2457715272903442,1,0,1,0.95
+130,,0,M'gladbach,Dortmund,Draw,4.0,3.199392795562744,1,2,0,-1.0
+131,,0,RB Leipzig,Wolfsburg,Home,1.36,1.2574236392974854,1,0,1,0.3600000000000001
+132,,0,Stuttgart,Ein Frankfurt,Home,1.53,1.2767493724822998,1,0,1,0.53
+133,,0,Bochum,Werder Bremen,Draw,3.6,3.1646454334259033,1,1,1,2.6
+134,,0,M'gladbach,Stuttgart,Home,3.5,1.7236846685409546,1,0,1,2.5
+134,,0,M'gladbach,Stuttgart,Draw,4.0,3.217026710510254,1,0,0,-1.0
+135,,0,Darmstadt,Freiburg,Home,4.0,3.957003116607666,1,2,0,-1.0
+135,,0,Darmstadt,Freiburg,Draw,3.8,3.0298688411712646,1,2,0,-1.0
+136,,0,Leverkusen,Werder Bremen,Home,1.2,1.1371222734451294,1,0,1,0.19999999999999996
+137,,0,FC Koln,RB Leipzig,Away,1.45,1.3067837953567505,1,2,1,0.44999999999999996
+138,,0,Bayern Munich,Leverkusen,Home,1.65,1.1993657350540161,1,1,0,-1.0
+139,,0,M'gladbach,Werder Bremen,Draw,4.0,3.8748152256011963,1,1,1,3.0
+139,,0,M'gladbach,Werder Bremen,Away,3.3,1.9292387962341309,1,1,0,-1.0
+140,,0,FC Koln,Werder Bremen,Draw,3.4,2.8837168216705322,1,2,0,-1.0
+140,,0,FC Koln,Werder Bremen,Away,2.88,2.4953091144561768,1,2,1,1.88
+141,,0,Darmstadt,Bayern Munich,Home,17.0,3.5788955688476562,1,2,0,-1.0
+141,,0,Darmstadt,Bayern Munich,Draw,8.0,5.202962875366211,1,2,0,-1.0
+142,,0,Heidenheim,M'gladbach,Home,2.45,2.195895195007324,1,1,0,-1.0
+142,,0,Heidenheim,M'gladbach,Draw,3.6,2.461744785308838,1,1,1,2.6
+143,,0,Mainz,Bochum,Draw,3.8,3.041687250137329,1,0,0,-1.0
+144,,0,Union Berlin,Werder Bremen,Home,2.05,1.4863163232803345,1,0,1,1.0499999999999998
+145,,0,Wolfsburg,Augsburg,Draw,3.5,2.332927942276001,1,2,0,-1.0
+145,,0,Wolfsburg,Augsburg,Away,3.5,2.69148325920105,1,2,1,2.5
+146,,0,Hoffenheim,Stuttgart,Away,1.83,1.0426982641220093,1,2,1,0.8300000000000001
+147,,0,FC Koln,Hoffenheim,Home,2.25,1.6917611360549927,1,2,0,-1.0
+148,,0,Freiburg,Dortmund,Away,2.1,1.6648554801940918,1,2,1,1.1
+149,,0,Mainz,Stuttgart,Draw,3.4,2.4574151039123535,1,2,0,-1.0
+149,,0,Mainz,Stuttgart,Away,2.7,2.464888095855713,1,2,1,1.7000000000000002
+150,,0,RB Leipzig,Augsburg,Home,1.25,1.1451634168624878,1,0,1,0.25
+151,,0,Wolfsburg,Union Berlin,Home,2.25,2.1461424827575684,1,0,1,1.25
+152,,0,Bochum,Ein Frankfurt,Home,2.88,2.1322736740112305,1,1,0,-1.0
+153,,0,Augsburg,Dortmund,Draw,4.2,2.536494731903076,1,1,1,3.2
+154,,0,Bochum,Union Berlin,Home,2.7,2.13800311088562,1,0,1,1.7000000000000002
+154,,0,Bochum,Union Berlin,Draw,3.4,2.422049045562744,1,0,0,-1.0
+155,,0,Darmstadt,Wolfsburg,Home,3.1,2.4037957191467285,1,2,0,-1.0
+155,,0,Darmstadt,Wolfsburg,Draw,3.6,3.2024986743927,1,2,0,-1.0
+156,,0,Mainz,Heidenheim,Draw,4.2,2.4806759357452393,1,2,0,-1.0
+157,,0,RB Leipzig,Hoffenheim,Home,1.45,1.1213444471359253,1,0,1,0.44999999999999996
+158,,0,Darmstadt,Stuttgart,Home,6.5,2.1384100914001465,1,2,0,-1.0
+159,,0,Heidenheim,Leverkusen,Home,8.0,3.1841816902160645,1,2,0,-1.0
+159,,0,Heidenheim,Leverkusen,Draw,5.75,3.915292501449585,1,2,0,-1.0
+160,,0,Hoffenheim,Union Berlin,Draw,3.6,3.2032318115234375,1,2,0,-1.0
+161,,0,Mainz,Augsburg,Draw,3.5,2.5714995861053467,1,0,0,-1.0
+161,,0,Mainz,Augsburg,Away,3.8,2.53085994720459,1,0,0,-1.0
+162,,0,Wolfsburg,Dortmund,Away,2.1,1.8892821073532104,1,1,0,-1.0
+163,,0,RB Leipzig,M'gladbach,Home,1.36,1.0346513986587524,1,0,1,0.3600000000000001
+164,,0,Freiburg,Leverkusen,Away,1.53,1.3498636484146118,1,2,1,0.53
+165,,0,Dortmund,Ein Frankfurt,Away,5.0,2.269742250442505,1,0,0,-1.0
+166,,0,Heidenheim,Werder Bremen,Draw,4.0,3.267862319946289,1,0,0,-1.0
+166,,0,Heidenheim,Werder Bremen,Away,2.7,2.3198633193969727,1,0,0,-1.0
+167,,0,Darmstadt,M'gladbach,Away,2.38,1.7394431829452515,1,1,0,-1.0
+168,,0,Freiburg,FC Koln,Home,1.8,1.5136209726333618,1,0,1,0.8
+168,,0,Freiburg,FC Koln,Draw,3.8,3.361994981765747,1,0,0,-1.0
+169,,0,Leverkusen,Ein Frankfurt,Home,1.36,1.1589910984039307,1,0,1,0.3600000000000001
+170,,0,Bayern Munich,Stuttgart,Home,1.45,1.2022929191589355,1,0,1,0.44999999999999996
+171,,0,Freiburg,Ein Frankfurt,Home,2.3,2.2747466564178467,1,1,0,-1.0
+172,,0,Bochum,Bayern Munich,Draw,5.75,5.453123569488525,1,0,0,-1.0
+173,,0,Dortmund,Darmstadt,Home,1.17,1.0951974391937256,1,0,1,0.16999999999999993
+174,,0,Ein Frankfurt,RB Leipzig,Draw,3.8,3.57027268409729,1,1,1,2.8
+174,,0,Ein Frankfurt,RB Leipzig,Away,2.3,1.7810289859771729,1,1,0,-1.0
+175,,0,Heidenheim,FC Koln,Home,2.3,1.8551563024520874,1,0,1,1.2999999999999998
+176,,0,Hoffenheim,Bayern Munich,Home,2.88,1.5307857990264893,1,0,1,1.88
+177,,0,Leverkusen,Augsburg,Home,1.3,1.1816751956939697,1,0,1,0.30000000000000004
+178,,0,Stuttgart,M'gladbach,Home,1.29,1.1037836074829102,1,0,1,0.29000000000000004
+179,,0,Union Berlin,Freiburg,Draw,3.4,2.813551902770996,1,0,0,-1.0
+180,,0,Werder Bremen,Bochum,Home,2.38,1.404405117034912,1,0,1,1.38
+181,,0,Wolfsburg,Mainz,Away,2.2,1.6094073057174683,1,2,1,1.2000000000000002
+182,,0,Werder Bremen,Bayern Munich,Away,1.3,1.1588597297668457,1,2,1,0.30000000000000004
+183,,0,Ein Frankfurt,Augsburg,Home,2.0,1.2079097032546997,1,0,1,1.0
+184,,0,Augsburg,M'gladbach,Away,2.45,1.614051103591919,1,1,0,-1.0
+185,,0,Hoffenheim,Freiburg,Away,2.9,1.618513822555542,1,2,1,1.9
+186,,0,Leverkusen,RB Leipzig,Home,2.45,1.830382227897644,1,0,1,1.4500000000000002
+187,,0,Stuttgart,Bochum,Home,1.65,1.0718406438827515,1,0,1,0.6499999999999999
+188,,0,Dortmund,FC Koln,Draw,5.0,2.5031731128692627,1,0,0,-1.0
+188,,0,Dortmund,FC Koln,Away,7.0,3.615678310394287,1,0,0,-1.0
+189,,0,Werder Bremen,RB Leipzig,Away,1.57,1.299042820930481,1,1,0,-1.0
+190,,0,Dortmund,Mainz,Away,5.25,2.7839112281799316,1,1,0,-1.0
+191,,0,Hoffenheim,Darmstadt,Home,1.44,1.4153202772140503,1,1,0,-1.0
+191,,0,Hoffenheim,Darmstadt,Draw,5.0,4.479541301727295,1,1,1,4.0
+192,,0,Bochum,Stuttgart,Draw,3.8,2.0380778312683105,1,0,0,-1.0
+193,,0,Darmstadt,Ein Frankfurt,Draw,3.75,3.3005800247192383,1,1,1,2.75
+193,,0,Darmstadt,Ein Frankfurt,Away,1.91,1.852433443069458,1,1,0,-1.0
+194,,0,FC Koln,Dortmund,Away,1.73,1.2582679986953735,1,2,1,0.73
+195,,0,Freiburg,Hoffenheim,Home,2.0,1.4332666397094727,1,0,1,1.0
+196,,0,Heidenheim,Wolfsburg,Away,2.55,2.5164847373962402,1,1,0,-1.0
+197,,0,RB Leipzig,Leverkusen,Home,2.4,1.3780393600463867,1,2,0,-1.0
+198,,0,FC Koln,Darmstadt,Draw,4.75,3.952145576477051,1,2,0,-1.0
+198,,0,FC Koln,Darmstadt,Away,5.75,1.9668958187103271,1,2,1,4.75
+199,,0,Heidenheim,RB Leipzig,Draw,5.25,4.9750776290893555,1,2,0,-1.0
+200,,0,Hoffenheim,M'gladbach,Away,3.1,2.4549436569213867,1,0,0,-1.0
+201,,0,Wolfsburg,Bochum,Home,1.75,1.2426528930664062,1,0,1,0.75
+202,,0,Union Berlin,Bayern Munich,Away,1.62,1.335731863975525,1,2,1,0.6200000000000001
+203,,0,Union Berlin,Mainz,Home,1.95,1.3573046922683716,1,0,1,0.95
+204,,0,Dortmund,Werder Bremen,Draw,6.5,4.381389141082764,1,0,0,-1.0
+205,,0,Union Berlin,FC Koln,Home,1.95,1.8062320947647095,1,0,1,0.95
+205,,0,Union Berlin,FC Koln,Draw,3.6,3.447235584259033,1,0,0,-1.0
+206,,0,Ein Frankfurt,M'gladbach,Home,1.83,1.2317471504211426,1,0,1,0.8300000000000001
+207,,0,Heidenheim,Freiburg,Draw,3.6,2.749425172805786,1,0,0,-1.0
+208,,0,Leverkusen,Bochum,Home,1.17,1.0283173322677612,1,0,1,0.16999999999999993
+209,,0,Stuttgart,Augsburg,Away,7.5,4.088999271392822,1,0,0,-1.0
+210,,0,Wolfsburg,Bayern Munich,Home,6.5,6.01058292388916,1,2,0,-1.0
+211,,0,Bayern Munich,Werder Bremen,Draw,11.0,2.494455575942993,1,2,0,-1.0
+212,,0,M'gladbach,Augsburg,Away,3.8,1.7239989042282104,1,2,1,2.8
+213,,0,Werder Bremen,Stuttgart,Away,1.57,1.2723363637924194,1,0,0,-1.0
+214,,0,Dortmund,Leverkusen,Away,2.55,1.4893935918807983,1,1,0,-1.0
+215,,0,Freiburg,Mainz,Home,2.6,1.751934289932251,1,1,0,-1.0
+216,,0,Darmstadt,RB Leipzig,Away,1.44,1.1236717700958252,1,2,1,0.43999999999999995
+217,,0,Freiburg,Bochum,Away,5.0,3.1613242626190186,1,0,0,-1.0
+218,,0,Hoffenheim,Ein Frankfurt,Away,3.4,2.8743412494659424,1,2,1,2.4
+219,,0,Union Berlin,Stuttgart,Draw,3.5,2.313307523727417,1,2,0,-1.0
+219,,0,Union Berlin,Stuttgart,Away,2.7,2.260178327560425,1,2,1,1.7000000000000002
+220,,0,Wolfsburg,Leverkusen,Away,1.75,1.3967533111572266,1,2,1,0.75
+221,,0,Mainz,Bayern Munich,Draw,6.0,5.361393451690674,1,2,0,-1.0
+222,,0,Stuttgart,Darmstadt,Home,1.36,1.0784186124801636,1,0,1,0.3600000000000001
+223,,0,FC Koln,M'gladbach,Home,2.4,1.9137346744537354,1,0,1,1.4
+223,,0,FC Koln,M'gladbach,Draw,3.6,3.144739866256714,1,0,0,-1.0
+224,,0,Heidenheim,Augsburg,Away,2.8,1.6892155408859253,1,2,1,1.7999999999999998
+225,,0,Leverkusen,Mainz,Draw,6.5,5.103879451751709,1,0,0,-1.0
+225,,0,Leverkusen,Mainz,Away,13.0,11.339982032775879,1,0,0,-1.0
+226,,0,Augsburg,Mainz,Home,2.55,2.2970809936523438,1,0,1,1.5499999999999998
+226,,0,Augsburg,Mainz,Draw,3.5,3.098493814468384,1,0,0,-1.0
+227,,0,Bayern Munich,Bochum,Home,1.11,1.0405369997024536,1,0,1,0.1100000000000001
+228,,0,Dortmund,Wolfsburg,Home,1.65,1.649086356163025,1,0,1,0.6499999999999999
+228,,0,Dortmund,Wolfsburg,Draw,4.0,3.07014536857605,1,0,0,-1.0
+229,,0,M'gladbach,RB Leipzig,Away,1.57,1.1917177438735962,1,2,1,0.5700000000000001
+230,,0,Union Berlin,Hoffenheim,Draw,3.6,2.166158676147461,1,2,0,-1.0
+231,,0,Werder Bremen,FC Koln,Away,2.6,2.4015660285949707,1,0,0,-1.0
+232,,0,Bayern Munich,Union Berlin,Home,1.18,1.0676995515823364,1,0,1,0.17999999999999994
+233,,0,M'gladbach,Bochum,Draw,3.8,3.046456813812256,1,0,0,-1.0
+234,,0,Stuttgart,FC Koln,Away,10.0,4.673013210296631,1,1,0,-1.0
+235,,0,Union Berlin,Heidenheim,Draw,3.5,2.8195786476135254,1,1,1,2.5
+235,,0,Union Berlin,Heidenheim,Away,3.75,3.5951626300811768,1,1,0,-1.0
+236,,0,Werder Bremen,Darmstadt,Home,1.65,1.5952556133270264,1,1,0,-1.0
+236,,0,Werder Bremen,Darmstadt,Draw,4.2,4.012936115264893,1,1,1,3.2
+237,,0,Bayern Munich,RB Leipzig,Draw,4.33,3.5563902854919434,1,0,0,-1.0
+237,,0,Bayern Munich,RB Leipzig,Away,4.5,2.3722879886627197,1,0,0,-1.0
+238,,0,Leverkusen,Heidenheim,Home,1.22,1.0673987865447998,1,0,1,0.21999999999999997
+239,,0,Ein Frankfurt,Freiburg,Home,2.05,1.5345147848129272,1,1,0,-1.0
+239,,0,Ein Frankfurt,Freiburg,Draw,3.6,3.4878876209259033,1,1,1,2.6
+240,,0,FC Koln,Bayern Munich,Draw,7.0,3.8245174884796143,1,2,0,-1.0
+241,,0,Ein Frankfurt,Wolfsburg,Away,3.2,1.8655792474746704,1,1,0,-1.0
+242,,0,Dortmund,Hoffenheim,Draw,5.0,4.9621357917785645,1,2,0,-1.0
+242,,0,Dortmund,Hoffenheim,Away,5.5,3.7547545433044434,1,2,1,4.5
+243,,0,Augsburg,Freiburg,Home,2.2,1.2753876447677612,1,0,1,1.2000000000000002
+244,,0,RB Leipzig,Stuttgart,Home,1.5,1.1127535104751587,1,0,1,0.5
+245,,0,Dortmund,M'gladbach,Home,1.45,1.083296298980713,1,0,1,0.44999999999999996
+246,,0,Freiburg,Darmstadt,Draw,4.33,3.3687636852264404,1,1,1,3.33
+247,,0,Union Berlin,Augsburg,Home,1.95,1.6419199705123901,1,1,0,-1.0
+247,,0,Union Berlin,Augsburg,Draw,3.6,2.9753758907318115,1,1,1,2.6
+248,,0,Werder Bremen,Leverkusen,Away,1.45,1.2047275304794312,1,2,1,0.44999999999999996
+249,,0,Wolfsburg,RB Leipzig,Away,1.91,1.5895057916641235,1,0,0,-1.0
+250,,0,Ein Frankfurt,Stuttgart,Away,2.6,1.3780055046081543,1,2,1,1.6
+251,,0,Ein Frankfurt,Mainz,Home,2.15,1.303650975227356,1,0,1,1.15
+252,,0,Bochum,Hoffenheim,Home,2.15,1.355994701385498,1,0,1,1.15
+253,,0,Bochum,Dortmund,Home,7.0,2.931593418121338,1,1,0,-1.0
+253,,0,Bochum,Dortmund,Draw,5.0,4.942234992980957,1,1,1,4.0
+254,,0,Darmstadt,Union Berlin,Away,1.95,1.5688602924346924,1,2,1,0.95
+255,,0,FC Koln,Wolfsburg,Away,3.0,1.3359441757202148,1,2,1,2.0
+256,,0,Freiburg,Werder Bremen,Draw,3.75,2.6064343452453613,1,0,0,-1.0
+257,,0,Heidenheim,Hoffenheim,Home,3.0,1.7391948699951172,1,2,0,-1.0
+258,,0,M'gladbach,Leverkusen,Away,1.85,1.3468670845031738,1,2,1,0.8500000000000001
+259,,0,Heidenheim,Bochum,Home,2.2,1.7353248596191406,1,1,0,-1.0
+259,,0,Heidenheim,Bochum,Draw,3.6,3.391308307647705,1,1,1,2.6
+260,,0,Hoffenheim,Mainz,Draw,3.8,3.643003225326538,1,1,1,2.8
+260,,0,Hoffenheim,Mainz,Away,3.8,3.4380931854248047,1,1,0,-1.0
+261,,0,Augsburg,Bayern Munich,Home,8.5,2.3412668704986572,1,2,0,-1.0
+262,,0,Hoffenheim,Heidenheim,Home,1.67,1.363311767578125,1,1,0,-1.0
+263,,0,Stuttgart,RB Leipzig,Home,2.63,1.1664963960647583,1,0,1,1.63
+264,,0,Werder Bremen,Freiburg,Draw,3.5,2.9249117374420166,1,0,0,-1.0
+264,,0,Werder Bremen,Freiburg,Away,2.88,2.5578627586364746,1,0,0,-1.0
+265,,0,Wolfsburg,FC Koln,Home,1.83,1.3910173177719116,1,1,0,-1.0
+266,,0,Leverkusen,M'gladbach,Draw,5.5,5.4040327072143555,1,1,1,4.5
+266,,0,Leverkusen,M'gladbach,Away,10.0,3.9068479537963867,1,1,0,-1.0
+267,,0,Augsburg,Werder Bremen,Away,4.0,1.1671777963638306,1,2,1,3.0
+268,,0,Bayern Munich,Ein Frankfurt,Home,1.4,1.1715565919876099,1,0,1,0.3999999999999999
+269,,0,Freiburg,Wolfsburg,Away,2.88,1.6647788286209106,1,2,1,1.88
+270,,0,RB Leipzig,Dortmund,Draw,4.33,4.0957770347595215,1,0,0,-1.0
+270,,0,RB Leipzig,Dortmund,Away,4.5,3.496546745300293,1,0,0,-1.0
+271,,0,Leverkusen,Stuttgart,Home,1.75,1.465401530265808,1,1,0,-1.0
+272,,0,Mainz,Ein Frankfurt,Home,2.38,1.5356651544570923,1,1,0,-1.0
+273,,0,Bayern Munich,Augsburg,Draw,12.0,3.872915029525757,1,0,0,-1.0
+273,,0,Bayern Munich,Augsburg,Away,19.0,18.822017669677734,1,0,0,-1.0
+274,,0,Bochum,Mainz,Home,2.7,2.5735819339752197,1,1,0,-1.0
+275,,0,Union Berlin,Darmstadt,Home,1.62,1.329668641090393,1,0,1,0.6200000000000001
+276,,0,Dortmund,Bochum,Draw,5.5,5.36337423324585,1,0,0,-1.0
+277,,0,M'gladbach,Union Berlin,Away,3.0,1.6962685585021973,1,1,0,-1.0
+278,,0,Mainz,FC Koln,Draw,4.33,3.7435781955718994,1,1,1,3.33
+278,,0,Mainz,FC Koln,Away,6.0,3.177138328552246,1,1,0,-1.0
+279,,0,Darmstadt,Heidenheim,Home,3.3,3.2651517391204834,1,2,0,-1.0
+279,,0,Darmstadt,Heidenheim,Draw,3.75,3.56436824798584,1,2,0,-1.0
+280,,0,Augsburg,Wolfsburg,Away,2.38,2.140972137451172,1,0,0,-1.0
+281,,0,Bayern Munich,Darmstadt,Draw,12.0,10.06656265258789,1,0,0,-1.0
+282,,0,M'gladbach,Heidenheim,Home,1.8,1.448309302330017,1,0,1,0.8
+283,,0,Stuttgart,Hoffenheim,Home,1.85,1.5041155815124512,1,2,0,-1.0
+284,,0,Werder Bremen,Union Berlin,Home,2.7,1.9667637348175049,1,0,1,1.7000000000000002
+284,,0,Werder Bremen,Union Berlin,Draw,3.3,3.103329658508301,1,0,0,-1.0
+285,,0,RB Leipzig,FC Koln,Home,1.44,1.0909637212753296,1,0,1,0.43999999999999995
+286,,0,Hoffenheim,Dortmund,Away,2.05,1.5065903663635254,1,2,1,1.0499999999999998
+287,,0,Ein Frankfurt,Dortmund,Home,3.4,1.5142663717269897,1,1,0,-1.0
+288,,0,Leverkusen,Freiburg,Draw,5.5,3.8173880577087402,1,0,0,-1.0
+288,,0,Leverkusen,Freiburg,Away,11.0,3.7882332801818848,1,0,0,-1.0
+289,,0,Ein Frankfurt,Union Berlin,Home,2.0,1.958446979522705,1,1,0,-1.0
+289,,0,Ein Frankfurt,Union Berlin,Draw,3.5,2.6053826808929443,1,1,1,2.5
+290,,0,Leverkusen,Hoffenheim,Draw,7.5,6.938566207885742,1,0,0,-1.0
+291,,0,M'gladbach,Freiburg,Away,3.2,1.3493764400482178,1,2,1,2.2
+292,,0,RB Leipzig,Mainz,Home,1.4,1.13796865940094,1,1,0,-1.0
+293,,0,Werder Bremen,Wolfsburg,Away,2.4,1.4529924392700195,1,2,1,1.4
+294,,0,Bayern Munich,Dortmund,Draw,5.75,2.8038673400878906,1,2,0,-1.0
+294,,0,Bayern Munich,Dortmund,Away,6.0,2.6502139568328857,1,2,1,5.0
+295,,0,Bochum,M'gladbach,Draw,3.75,3.6296257972717285,1,2,0,-1.0
+295,,0,Bochum,M'gladbach,Away,2.9,1.703250765800476,1,2,1,1.9
+296,,0,FC Koln,Stuttgart,Home,2.88,2.3055214881896973,1,2,0,-1.0
+296,,0,FC Koln,Stuttgart,Draw,3.5,2.631847381591797,1,2,0,-1.0
+297,,0,Heidenheim,Union Berlin,Away,2.25,1.642150640487671,1,0,0,-1.0
+298,,0,Mainz,Leverkusen,Draw,4.5,3.794466257095337,1,2,0,-1.0
+299,,0,Wolfsburg,Ein Frankfurt,Draw,3.5,2.935364007949829,1,0,0,-1.0
+300,,0,RB Leipzig,Bayern Munich,Draw,4.2,3.4645283222198486,1,1,1,3.2
+300,,0,RB Leipzig,Bayern Munich,Away,1.91,1.641013741493225,1,1,0,-1.0
+301,,0,Augsburg,FC Koln,Draw,4.0,2.099233865737915,1,1,1,3.0
+302,,0,Stuttgart,Heidenheim,Draw,6.0,4.128483772277832,1,1,1,5.0
+302,,0,Stuttgart,Heidenheim,Away,10.0,6.777534008026123,1,1,0,-1.0
+304,,1,Liverpool,Newcastle,Draw,4.5,3.6791491508483887,1,0,0,-1.0
+305,,1,West Ham,Bournemouth,Draw,3.75,3.7434189319610596,1,1,1,2.75
+306,,1,Wolves,Man United,Home,2.63,2.4819445610046387,1,2,0,-1.0
+306,,1,Wolves,Man United,Away,2.55,2.2494375705718994,1,2,1,1.5499999999999998
+307,,1,Luton,West Ham,Draw,3.8,3.2594525814056396,1,2,0,-1.0
+307,,1,Luton,West Ham,Away,1.73,1.624064564704895,1,2,1,0.73
+308,,1,Nott'm Forest,Brentford,Draw,3.1,2.658510446548462,1,1,1,2.1
+308,,1,Nott'm Forest,Brentford,Away,2.7,1.7114243507385254,1,1,0,-1.0
+309,,1,West Ham,Brighton,Draw,3.75,2.5302624702453613,1,1,1,2.75
+309,,1,West Ham,Brighton,Away,2.75,2.62353253364563,1,1,0,-1.0
+310,,1,Brentford,Chelsea,Home,3.1,2.8634512424468994,1,1,0,-1.0
+311,,1,Everton,West Ham,Home,2.05,1.182368278503418,1,2,0,-1.0
+312,,1,Fulham,Brighton,Draw,3.6,3.3784711360931396,1,0,0,-1.0
+313,,1,Newcastle,Wolves,Home,1.91,1.294028878211975,1,0,1,0.9099999999999999
+314,,1,Nott'm Forest,Liverpool,Home,6.0,3.417980670928955,1,2,0,-1.0
+314,,1,Nott'm Forest,Liverpool,Draw,4.33,3.0256283283233643,1,2,0,-1.0
+315,,1,Tottenham,Crystal Palace,Home,1.5,1.1653891801834106,1,0,1,0.5
+316,,1,Luton,Aston Villa,Away,1.73,1.1890240907669067,1,2,1,0.73
+317,,1,Newcastle,Everton,Draw,3.75,2.8543167114257812,1,1,1,2.75
+318,,1,Nott'm Forest,Fulham,Draw,3.4,2.0716261863708496,1,0,0,-1.0
+319,,1,Bournemouth,Crystal Palace,Home,1.95,1.550139307975769,1,0,1,0.95
+320,,1,Burnley,Wolves,Home,2.45,1.7315771579742432,1,1,0,-1.0
+321,,1,West Ham,Tottenham,Home,3.3,3.084254264831543,1,1,0,-1.0
+321,,1,West Ham,Tottenham,Draw,4.2,3.301684617996216,1,1,1,3.2
+322,,1,Chelsea,Tottenham,Home,2.15,1.8381973505020142,1,0,1,1.15
+322,,1,Chelsea,Tottenham,Draw,3.8,3.5681533813476562,1,0,0,-1.0
+323,,1,Sheffield United,Everton,Home,2.9,1.375220537185669,1,1,0,-1.0
+324,,1,Brentford,Bournemouth,Draw,3.8,3.5192689895629883,1,1,1,2.8
+324,,1,Brentford,Bournemouth,Away,4.75,3.471057176589966,1,1,0,-1.0
+325,,1,Burnley,Tottenham,Away,1.85,1.2543814182281494,1,2,1,0.8500000000000001
+326,,1,Chelsea,Nott'm Forest,Draw,4.5,1.8603146076202393,1,2,0,-1.0
+326,,1,Chelsea,Nott'm Forest,Away,8.5,3.835158109664917,1,2,1,7.5
+327,,1,Man City,Fulham,Away,15.0,5.048770427703857,1,0,0,-1.0
+328,,1,Brighton,Newcastle,Home,2.5,1.8358781337738037,1,0,1,1.5
+328,,1,Brighton,Newcastle,Draw,3.8,2.9400320053100586,1,0,0,-1.0
+329,,1,Fulham,Chelsea,Away,2.05,1.9766653776168823,1,2,1,1.0499999999999998
+330,,1,Arsenal,Wolves,Home,1.25,1.2389545440673828,1,0,1,0.25
+331,,1,Brentford,Luton,Draw,4.5,3.0371901988983154,1,0,0,-1.0
+333,,1,Nott'm Forest,Everton,Draw,3.25,2.525330066680908,1,2,0,-1.0
+333,,1,Nott'm Forest,Everton,Away,2.6,2.265875816345215,1,2,1,1.6
+334,,1,Newcastle,Man United,Draw,3.75,1.929046630859375,1,0,0,-1.0
+335,,1,Everton,Tottenham,Away,2.25,1.573524832725525,1,1,0,-1.0
+336,,1,Brighton,Crystal Palace,Away,4.75,3.5880074501037598,1,0,0,-1.0
+337,,1,Burnley,Fulham,Away,2.38,1.7268202304840088,1,1,0,-1.0
+338,,1,Newcastle,Luton,Draw,4.75,3.9057955741882324,1,1,1,3.75
+338,,1,Newcastle,Luton,Away,6.5,2.235529899597168,1,1,0,-1.0
+339,,1,Sheffield United,Aston Villa,Away,1.62,1.2435226440429688,1,2,1,0.6200000000000001
+340,,1,Burnley,Bournemouth,Home,3.75,2.5770187377929688,1,2,0,-1.0
+341,,1,Man City,Man United,Away,11.0,7.681329250335693,1,0,0,-1.0
+342,,1,Arsenal,Luton,Draw,10.0,8.31020736694336,1,0,0,-1.0
+343,,1,Brentford,Brighton,Draw,3.8,2.2741897106170654,1,1,1,2.8
+344,,1,Man City,Aston Villa,Home,1.3,1.0713390111923218,1,0,1,0.30000000000000004
+345,,1,Luton,Everton,Draw,3.6,2.6348729133605957,1,1,1,2.6
+346,,1,Crystal Palace,Wolves,Home,1.91,1.1802324056625366,1,0,1,0.9099999999999999
+347,,1,Liverpool,Aston Villa,Draw,4.5,3.731077194213867,1,0,0,-1.0
+348,,1,Arsenal,Man United,Home,1.75,1.6130691766738892,1,0,1,0.75
+348,,1,Arsenal,Man United,Draw,3.8,3.388583183288574,1,0,0,-1.0
+349,,1,Luton,Burnley,Away,2.63,2.0101776123046875,1,2,1,1.63
+350,,1,Bournemouth,Aston Villa,Home,3.4,1.8303191661834717,1,1,0,-1.0
+351,,1,Chelsea,Brighton,Away,4.2,3.285667657852173,1,0,0,-1.0
+352,,1,Liverpool,Fulham,Home,1.25,1.1068611145019531,1,0,1,0.25
+353,,1,West Ham,Crystal Palace,Home,2.0,1.7182726860046387,1,1,0,-1.0
+353,,1,West Ham,Crystal Palace,Draw,3.5,3.4279305934906006,1,1,1,2.5
+354,,1,Man City,Tottenham,Draw,6.0,4.693404674530029,1,1,1,5.0
+354,,1,Man City,Tottenham,Away,9.0,4.093647003173828,1,1,0,-1.0
+355,,1,Bournemouth,Nott'm Forest,Draw,4.2,3.748717784881592,1,1,1,3.2
+355,,1,Bournemouth,Nott'm Forest,Away,4.5,1.7056549787521362,1,1,0,-1.0
+356,,1,Chelsea,Wolves,Away,5.5,2.997075319290161,1,2,1,4.5
+357,,1,Man United,West Ham,Home,1.62,1.3647571802139282,1,0,1,0.6200000000000001
+358,,1,Arsenal,Liverpool,Home,2.2,1.187626600265503,1,0,1,1.2000000000000002
+359,,1,Sheffield United,Arsenal,Away,1.18,1.038995385169983,1,2,1,0.17999999999999994
+360,,1,Liverpool,Sheffield United,Home,1.09,1.0735650062561035,1,0,1,0.09000000000000008
+361,,1,Chelsea,Man United,Home,2.0,1.4880751371383667,1,0,1,1.0
+362,,1,Arsenal,Bournemouth,Home,1.22,1.082200288772583,1,0,1,0.21999999999999997
+363,,1,Brentford,Fulham,Home,2.1,1.807610273361206,1,1,0,-1.0
+363,,1,Brentford,Fulham,Draw,3.8,3.77649188041687,1,1,1,2.8
+364,,1,Burnley,Newcastle,Away,1.95,1.120063066482544,1,2,1,0.95
+365,,1,Sheffield United,Nott'm Forest,Home,4.75,2.7122838497161865,1,2,0,-1.0
+366,,1,Man City,Wolves,Home,1.08,1.0183380842208862,1,0,1,0.08000000000000007
+367,,1,Fulham,Man United,Away,2.2,1.408299207687378,1,2,1,1.2000000000000002
+368,,1,Brentford,West Ham,Home,2.05,1.7811578512191772,1,0,1,1.0499999999999998
+368,,1,Brentford,West Ham,Draw,3.6,3.1662068367004395,1,0,0,-1.0
+369,,1,Burnley,Crystal Palace,Away,2.6,2.1547062397003174,1,2,1,1.6
+370,,1,Everton,Brighton,Home,3.1,1.955850601196289,1,1,0,-1.0
+370,,1,Everton,Brighton,Draw,3.6,3.3697991371154785,1,1,1,2.6
+371,,1,Man City,Bournemouth,Home,1.1,1.0812300443649292,1,0,1,0.10000000000000009
+372,,1,Sheffield United,Wolves,Away,2.0,1.4043256044387817,1,0,0,-1.0
+373,,1,Newcastle,Arsenal,Home,2.8,1.9281162023544312,1,0,1,1.7999999999999998
+374,,1,Brentford,Man City,Away,1.4,1.1550519466400146,1,2,1,0.3999999999999999
+375,,1,Brighton,Aston Villa,Home,2.75,1.2886240482330322,1,0,1,1.75
+376,,1,Chelsea,West Ham,Home,1.65,1.0843490362167358,1,0,1,0.6499999999999999
+377,,1,Liverpool,Tottenham,Home,1.5,1.2014755010604858,1,0,1,0.5
+378,,1,Nott'm Forest,Aston Villa,Home,4.2,3.818936347961426,1,0,1,3.2
+378,,1,Nott'm Forest,Aston Villa,Draw,3.75,3.22546648979187,1,0,0,-1.0
+379,,1,Luton,Liverpool,Home,12.0,3.7522730827331543,1,1,0,-1.0
+379,,1,Luton,Liverpool,Draw,6.5,4.04008150100708,1,1,1,5.5
+380,,1,Wolves,Burnley,Home,1.85,1.4733885526657104,1,0,1,0.8500000000000001
+381,,1,Luton,Arsenal,Home,17.0,7.0368452072143555,1,2,0,-1.0
+382,,1,Crystal Palace,Man City,Home,9.5,9.1234712600708,1,2,0,-1.0
+382,,1,Crystal Palace,Man City,Away,1.33,1.2927526235580444,1,2,1,0.33000000000000007
+383,,1,Aston Villa,Brentford,Draw,4.0,3.4903478622436523,1,1,1,3.0
+383,,1,Aston Villa,Brentford,Away,4.75,4.551588535308838,1,1,0,-1.0
+384,,1,Everton,Burnley,Home,1.65,1.4072601795196533,1,0,1,0.6499999999999999
+385,,1,Fulham,Newcastle,Draw,3.8,3.658435106277466,1,2,0,-1.0
+385,,1,Fulham,Newcastle,Away,2.8,2.057767391204834,1,2,1,1.7999999999999998
+386,,1,Luton,Bournemouth,Home,3.75,1.1736705303192139,1,0,1,2.75
+387,,1,Wolves,West Ham,Home,2.5,1.5111466646194458,1,2,0,-1.0
+388,,1,Brighton,Arsenal,Away,1.62,1.1767100095748901,1,2,1,0.6200000000000001
+389,,1,Crystal Palace,Man United,Home,2.38,1.212923288345337,1,0,1,1.38
+390,,1,Tottenham,Chelsea,Away,3.5,2.9923593997955322,1,2,1,2.5
+391,,1,Brighton,Brentford,Home,1.91,1.6865710020065308,1,0,1,0.9099999999999999
+391,,1,Brighton,Brentford,Draw,3.8,3.1664340496063232,1,0,0,-1.0
+392,,1,Crystal Palace,Bournemouth,Away,3.1,1.8070576190948486,1,2,1,2.1
+393,,1,Fulham,Nott'm Forest,Home,2.0,1.2751879692077637,1,0,1,1.0
+394,,1,Sheffield United,Liverpool,Away,1.2,1.03297758102417,1,2,1,0.19999999999999996
+395,,1,Aston Villa,Man City,Home,4.75,3.0210001468658447,1,0,1,3.75
+395,,1,Aston Villa,Man City,Draw,4.2,3.5959646701812744,1,0,0,-1.0
+396,,1,Man United,Chelsea,Home,2.88,1.401921033859253,1,0,1,1.88
+397,,1,Man United,Liverpool,Home,4.75,3.4132444858551025,1,1,0,-1.0
+398,,1,Sheffield United,Chelsea,Home,7.0,3.850954294204712,1,1,0,-1.0
+399,,1,Tottenham,Nott'm Forest,Draw,5.5,5.487395286560059,1,0,0,-1.0
+399,,1,Tottenham,Nott'm Forest,Away,6.5,4.2647905349731445,1,0,0,-1.0
+400,,1,Luton,Tottenham,Away,1.45,1.2826002836227417,1,2,1,0.44999999999999996
+401,,1,Burnley,Chelsea,Away,1.73,1.5540025234222412,1,2,1,0.73
+402,,1,Everton,Bournemouth,Home,1.91,1.7109919786453247,1,0,1,0.9099999999999999
+403,,1,Fulham,Sheffield United,Draw,3.8,2.965066909790039,1,0,0,-1.0
+404,,1,Man United,Brentford,Home,1.67,1.4702191352844238,1,0,1,0.6699999999999999
+405,,1,Crystal Palace,Nott'm Forest,Draw,3.1,2.464056968688965,1,1,1,2.1
+405,,1,Crystal Palace,Nott'm Forest,Away,3.6,2.7964396476745605,1,1,0,-1.0
+406,,1,Everton,Newcastle,Draw,3.25,2.0959181785583496,1,0,0,-1.0
+407,,1,Tottenham,West Ham,Away,4.2,2.537909746170044,1,2,1,3.2
+408,,1,Brighton,Liverpool,Draw,3.8,2.5703372955322266,1,1,1,2.8
+409,,1,West Ham,Newcastle,Home,3.2,2.4620509147644043,1,1,0,-1.0
+409,,1,West Ham,Newcastle,Draw,3.75,2.952148675918579,1,1,1,2.75
+410,,1,Wolves,Aston Villa,Home,3.5,2.4689443111419678,1,1,0,-1.0
+411,,1,Arsenal,Man City,Draw,3.3,2.1877708435058594,1,0,0,-1.0
+412,,1,Man United,Everton,Home,1.83,1.312223196029663,1,0,1,0.8300000000000001
+413,,1,Bournemouth,Sheffield United,Away,8.0,6.76727819442749,1,1,0,-1.0
+414,,1,Crystal Palace,Luton,Draw,3.8,1.7997242212295532,1,1,1,2.8
+415,,1,Wolves,Fulham,Home,2.5,2.3806312084198,1,0,1,1.5
+415,,1,Wolves,Fulham,Draw,3.4,2.7918365001678467,1,0,0,-1.0
+416,,1,Arsenal,Brentford,Draw,7.0,2.6685144901275635,1,0,0,-1.0
+417,,1,Crystal Palace,Liverpool,Home,6.0,2.330841541290283,1,2,0,-1.0
+417,,1,Crystal Palace,Liverpool,Draw,4.5,2.9712867736816406,1,2,0,-1.0
+418,,1,Brighton,Burnley,Home,1.5,1.3090293407440186,1,1,0,-1.0
+419,,1,Man United,Bournemouth,Draw,4.33,2.518712043762207,1,2,0,-1.0
+419,,1,Man United,Bournemouth,Away,5.75,3.6514904499053955,1,2,1,4.75
+420,,1,Sheffield United,Brentford,Home,4.2,3.0276427268981934,1,0,1,3.2
+420,,1,Sheffield United,Brentford,Draw,3.8,3.7369344234466553,1,0,0,-1.0
+421,,1,Wolves,Nott'm Forest,Home,1.85,1.539785623550415,1,1,0,-1.0
+422,,1,Aston Villa,Arsenal,Away,2.1,1.3647832870483398,1,0,0,-1.0
+423,,1,Man City,Everton,Draw,8.0,3.623466730117798,1,0,0,-1.0
+423,,1,Man City,Everton,Away,13.0,5.480528354644775,1,0,0,-1.0
+424,,1,Fulham,Bournemouth,Home,2.38,1.3911200761795044,1,0,1,1.38
+425,,1,Liverpool,Burnley,Home,1.17,1.1223984956741333,1,0,1,0.16999999999999993
+426,,1,Luton,Sheffield United,Draw,3.75,3.3299715518951416,1,2,0,-1.0
+426,,1,Luton,Sheffield United,Away,4.75,3.388432025909424,1,2,1,3.75
+427,,1,Tottenham,Brighton,Home,1.8,1.7152550220489502,1,0,1,0.8
+428,,1,Wolves,Brentford,Away,3.4,1.6013351678848267,1,2,1,2.4
+429,,1,Nott'm Forest,Newcastle,Away,2.05,1.4677499532699585,1,2,1,1.0499999999999998
+430,,1,Aston Villa,Tottenham,Away,2.6,1.1719136238098145,1,2,1,1.6
+431,,1,Brighton,Nott'm Forest,Draw,4.0,3.054290533065796,1,0,0,-1.0
+432,,1,West Ham,Burnley,Draw,4.0,1.9086490869522095,1,1,1,3.0
+432,,1,West Ham,Burnley,Away,4.75,3.613743543624878,1,1,0,-1.0
+433,,1,Liverpool,Man City,Away,2.2,1.6012176275253296,1,1,0,-1.0
+434,,1,Everton,Chelsea,Home,3.1,1.4890626668930054,1,0,1,2.1
+435,,1,Fulham,West Ham,Home,2.38,1.8795322179794312,1,0,1,1.38
+436,,1,Luton,Man City,Home,17.0,7.596563816070557,1,2,0,-1.0
+437,,1,Tottenham,Newcastle,Home,2.15,1.243710994720459,1,0,1,1.15
+438,,1,West Ham,Arsenal,Away,1.53,1.1283868551254272,1,2,1,0.53
+439,,1,Aston Villa,Man United,Home,2.15,1.27755868434906,1,2,0,-1.0
+440,,1,Chelsea,Newcastle,Home,1.91,1.230339765548706,1,0,1,0.9099999999999999
+441,,1,Fulham,Man City,Away,1.2,1.073983907699585,1,2,1,0.19999999999999996
+442,,1,Bournemouth,Brentford,Draw,4.0,2.881964683532715,1,2,0,-1.0
+442,,1,Bournemouth,Brentford,Away,3.5,2.5816800594329834,1,2,1,2.5
+443,,1,Everton,Sheffield United,Home,1.4,1.1735382080078125,1,0,1,0.3999999999999999
+444,,1,Newcastle,Brighton,Home,1.57,1.457512617111206,1,1,0,-1.0
+444,,1,Newcastle,Brighton,Draw,4.75,4.50266695022583,1,1,1,3.75
+445,,1,Tottenham,Burnley,Home,1.36,1.256015419960022,1,0,1,0.3600000000000001
+446,,1,West Ham,Luton,Home,1.8,1.3491971492767334,1,0,1,0.8
+447,,1,Wolves,Crystal Palace,Home,2.88,1.532822847366333,1,2,0,-1.0
+448,,1,Nott'm Forest,Chelsea,Draw,3.8,3.328397274017334,1,2,0,-1.0
+448,,1,Nott'm Forest,Chelsea,Away,2.0,1.6886576414108276,1,2,1,1.0
+449,,1,Burnley,Man City,Away,1.33,1.0674560070037842,1,2,1,0.33000000000000007
+450,,1,Wolves,Tottenham,Home,3.1,2.106837272644043,1,0,1,2.1
+450,,1,Wolves,Tottenham,Draw,3.75,3.3689980506896973,1,0,0,-1.0
+451,,1,Arsenal,Burnley,Away,17.0,4.349013328552246,1,0,0,-1.0
+452,,1,Crystal Palace,Everton,Draw,3.2,2.5478971004486084,1,2,0,-1.0
+452,,1,Crystal Palace,Everton,Away,3.0,2.9513728618621826,1,2,1,2.0
+453,,1,Man United,Luton,Draw,5.25,3.204180955886841,1,0,0,-1.0
+453,,1,Man United,Luton,Away,9.5,4.744521141052246,1,0,0,-1.0
+454,,1,Bournemouth,Newcastle,Home,4.75,2.3938660621643066,1,0,1,3.75
+455,,1,Burnley,Luton,Home,2.0,1.3539793491363525,1,1,0,-1.0
+456,,1,Crystal Palace,Chelsea,Away,1.85,1.6095298528671265,1,2,1,0.8500000000000001
+457,,1,Man United,Arsenal,Away,1.36,1.0803487300872803,1,2,1,0.3600000000000001
+458,,1,Arsenal,Nott'm Forest,Home,1.18,1.0492970943450928,1,0,1,0.17999999999999994
+459,,1,Bournemouth,West Ham,Home,2.7,1.6571388244628906,1,1,0,-1.0
+460,,1,Everton,Fulham,Home,2.2,1.2417094707489014,1,2,0,-1.0
+461,,1,Sheffield United,Crystal Palace,Away,2.38,1.1299102306365967,1,2,1,1.38
+462,,1,Newcastle,Aston Villa,Home,1.75,1.206585168838501,1,0,1,0.75
+463,,1,Aston Villa,Fulham,Home,1.57,1.5589491128921509,1,0,1,0.5700000000000001
+464,,1,Brighton,Sheffield United,Home,1.25,1.1057252883911133,1,1,0,-1.0
+465,,1,Liverpool,Brentford,Home,1.4,1.0724483728408813,1,0,1,0.3999999999999999
+466,,1,West Ham,Nott'm Forest,Draw,3.6,3.346803665161133,1,0,0,-1.0
+466,,1,West Ham,Nott'm Forest,Away,4.0,3.1925528049468994,1,0,0,-1.0
+467,,1,Chelsea,Man City,Home,5.0,4.184962749481201,1,1,0,-1.0
+468,,1,Chelsea,Fulham,Draw,4.2,2.346853733062744,1,0,0,-1.0
+468,,1,Chelsea,Fulham,Away,5.25,2.876919746398926,1,0,0,-1.0
+469,,1,Newcastle,Man City,Away,1.55,1.3541975021362305,1,2,1,0.55
+470,,1,Bournemouth,Luton,Home,1.5,1.2267382144927979,1,0,1,0.5
+471,,1,Newcastle,Tottenham,Home,2.7,2.399179220199585,1,0,1,1.7000000000000002
+471,,1,Newcastle,Tottenham,Draw,4.0,2.2870771884918213,1,0,0,-1.0
+472,,1,Brentford,Sheffield United,Home,1.44,1.249170184135437,1,0,1,0.43999999999999995
+473,,1,Burnley,Brighton,Away,2.0,1.5066555738449097,1,1,0,-1.0
+474,,1,Man City,Luton,Draw,11.0,3.774021863937378,1,0,0,-1.0
+475,,1,Nott'm Forest,Wolves,Home,2.1,1.3898427486419678,1,1,0,-1.0
+476,,1,Bournemouth,Man United,Draw,3.9,2.546996593475342,1,1,1,2.9
+477,,1,Aston Villa,Liverpool,Away,1.7,1.2305800914764404,1,1,0,-1.0
+478,,1,Brentford,Tottenham,Home,2.75,1.8284448385238647,1,1,0,-1.0
+479,,1,Chelsea,Liverpool,Home,2.9,1.4095643758773804,1,1,0,-1.0
+480,,1,Everton,Aston Villa,Draw,3.5,2.8858683109283447,1,1,1,2.5
+480,,1,Everton,Aston Villa,Away,2.45,1.8102788925170898,1,1,0,-1.0
+481,,1,Man United,Tottenham,Draw,3.75,2.4178404808044434,1,1,1,2.75
+481,,1,Man United,Tottenham,Away,3.0,2.5431079864501953,1,1,0,-1.0
+482,,1,Liverpool,Crystal Palace,Draw,7.0,4.919401168823242,1,2,0,-1.0
+482,,1,Liverpool,Crystal Palace,Away,12.0,3.011977434158325,1,2,1,11.0
+483,,1,West Ham,Fulham,Away,2.8,1.5143365859985352,1,2,1,1.7999999999999998
+484,,1,Arsenal,Aston Villa,Draw,5.75,2.9465229511260986,1,2,0,-1.0
+484,,1,Arsenal,Aston Villa,Away,10.0,9.0123291015625,1,2,1,9.0
+485,,1,Tottenham,Man City,Away,1.36,1.1904655694961548,1,2,1,0.3600000000000001
+486,,1,Man United,Wolves,Draw,5.5,4.007862567901611,1,0,0,-1.0
+486,,1,Man United,Wolves,Away,9.0,2.9945178031921387,1,0,0,-1.0
+487,,1,Chelsea,Everton,Home,1.7,1.0833492279052734,1,0,1,0.7
+488,,1,Brighton,Chelsea,Draw,4.0,3.4103381633758545,1,2,0,-1.0
+488,,1,Brighton,Chelsea,Away,1.95,1.4774311780929565,1,2,1,0.95
+489,,1,Man United,Newcastle,Away,2.3,1.8680274486541748,1,0,0,-1.0
+490,,1,Nott'm Forest,Tottenham,Away,1.73,1.1513181924819946,1,2,1,0.73
+491,,1,Burnley,Brentford,Away,2.15,1.6830040216445923,1,0,0,-1.0
+492,,1,Luton,Nott'm Forest,Draw,3.5,2.906996965408325,1,1,1,2.5
+493,,1,Fulham,Tottenham,Home,3.5,2.8084516525268555,1,0,1,2.5
+494,,1,Wolves,Liverpool,Away,1.45,1.3025410175323486,1,2,1,0.44999999999999996
+495,,1,Aston Villa,Crystal Palace,Home,1.91,1.800283432006836,1,0,1,0.9099999999999999
+496,,1,Fulham,Luton,Draw,3.75,2.6380107402801514,1,0,0,-1.0
+496,,1,Fulham,Luton,Away,5.5,3.030548334121704,1,0,0,-1.0
+497,,1,Man United,Brighton,Away,2.88,1.4596028327941895,1,2,1,1.88
+498,,1,Tottenham,Sheffield United,Away,11.0,4.117668628692627,1,0,0,-1.0
+499,,1,West Ham,Man City,Away,1.45,1.191773772239685,1,2,1,0.44999999999999996
+500,,1,Newcastle,Brentford,Draw,4.2,2.803896427154541,1,0,0,-1.0
+501,,1,Chelsea,Sheffield United,Home,1.22,1.182661533355713,1,0,1,0.21999999999999997
+502,,1,Man City,Crystal Palace,Home,1.18,1.0736124515533447,1,1,0,-1.0
+503,,1,Newcastle,Fulham,Home,1.8,1.425411581993103,1,0,1,0.8
+504,,1,Burnley,Everton,Away,2.1,1.276460886001587,1,2,1,1.1
+505,,1,Brentford,Liverpool,Away,1.57,1.4909732341766357,1,2,1,0.5700000000000001
+506,,1,Burnley,Arsenal,Away,1.29,1.0593961477279663,1,2,1,0.29000000000000004
+507,,1,Fulham,Aston Villa,Draw,3.75,2.6327853202819824,1,2,0,-1.0
+508,,1,Newcastle,Bournemouth,Away,3.75,1.691226840019226,1,1,0,-1.0
+509,,1,Nott'm Forest,West Ham,Home,2.38,1.5666691064834595,1,0,1,1.38
+510,,1,Tottenham,Wolves,Away,5.25,1.8006542921066284,1,2,1,4.25
+511,,1,Man City,Chelsea,Away,8.0,1.6728909015655518,1,1,0,-1.0
+512,,1,West Ham,Aston Villa,Draw,3.75,3.3414134979248047,1,1,1,2.75
+513,,1,Bournemouth,Chelsea,Away,1.8,1.5029287338256836,1,1,0,-1.0
+514,,1,Everton,Arsenal,Away,1.5,1.3658519983291626,1,2,1,0.5
+515,,1,Arsenal,Brighton,Home,1.44,1.0922904014587402,1,0,1,0.43999999999999995
+516,,1,Brentford,Aston Villa,Away,2.1,1.8247950077056885,1,2,1,1.1
+517,,1,West Ham,Wolves,Home,2.15,1.7943321466445923,1,0,1,1.15
+518,,1,Liverpool,Man United,Draw,6.0,5.469548225402832,1,1,1,5.0
+519,,1,Sheffield United,Brighton,Away,1.62,1.0709415674209595,1,2,1,0.6200000000000001
+520,,1,Luton,Man United,Away,1.8,1.195264458656311,1,2,1,0.8
+521,,1,Nott'm Forest,Sheffield United,Away,4.0,3.818567991256714,1,0,0,-1.0
+522,,1,Nott'm Forest,Burnley,Draw,3.5,2.861426591873169,1,1,1,2.5
+523,,1,Everton,Crystal Palace,Draw,3.6,2.7333083152770996,1,1,1,2.6
+523,,1,Everton,Crystal Palace,Away,5.25,2.921966075897217,1,1,0,-1.0
+524,,1,Arsenal,Everton,Draw,8.0,6.475896835327148,1,0,0,-1.0
+524,,1,Arsenal,Everton,Away,12.0,8.548938751220703,1,0,0,-1.0
+525,,1,Brentford,Newcastle,Away,2.2,1.5479545593261719,1,2,1,1.2000000000000002
+526,,1,Brighton,Man United,Draw,4.0,2.8131964206695557,1,2,0,-1.0
+526,,1,Brighton,Man United,Away,2.9,2.1473402976989746,1,2,1,1.9
+527,,1,Burnley,Nott'm Forest,Away,2.3,1.4482944011688232,1,2,1,1.2999999999999998
+528,,1,Chelsea,Bournemouth,Away,6.0,5.452685832977295,1,0,0,-1.0
+529,,1,Crystal Palace,Aston Villa,Home,1.85,1.1305702924728394,1,0,1,0.8500000000000001
+530,,1,Liverpool,Wolves,Away,15.0,8.774023056030273,1,0,0,-1.0
+531,,1,Luton,Fulham,Away,2.2,1.625830888748169,1,2,1,1.2000000000000002
+532,,1,Man City,West Ham,Home,1.08,1.068835973739624,1,0,1,0.08000000000000007
+533,,1,Sheffield United,Tottenham,Away,1.33,1.0635097026824951,1,2,1,0.33000000000000007
+534,,1,Fulham,Brentford,Away,2.63,1.2867238521575928,1,2,1,1.63
+535,,1,Liverpool,Bournemouth,Away,13.0,9.177413940429688,1,0,0,-1.0
+536,,1,Wolves,Brighton,Away,1.85,1.2393065690994263,1,2,1,0.8500000000000001
+537,,1,Tottenham,Man United,Draw,3.6,2.6714115142822266,1,0,0,-1.0
+538,,1,Man City,Newcastle,Home,1.67,1.534339427947998,1,0,1,0.6699999999999999
+538,,1,Man City,Newcastle,Draw,4.0,3.7075347900390625,1,0,0,-1.0
+539,,1,Arsenal,Crystal Palace,Draw,5.75,3.4231221675872803,1,0,0,-1.0
+539,,1,Arsenal,Crystal Palace,Away,9.0,3.6727538108825684,1,0,0,-1.0
+540,,1,Brentford,Nott'm Forest,Home,1.91,1.663969874382019,1,0,1,0.9099999999999999
+541,,1,Man City,Brentford,Home,1.18,1.0628424882888794,1,0,1,0.17999999999999994
+542,,1,Luton,Brentford,Away,2.15,1.583369255065918,1,2,1,1.15
+543,,1,Sheffield United,Burnley,Home,2.75,1.354405164718628,1,2,0,-1.0
+544,,1,Wolves,Arsenal,Home,8.5,6.965899467468262,1,2,0,-1.0
+544,,1,Wolves,Arsenal,Away,1.4,1.3176660537719727,1,2,1,0.3999999999999999
+545,,1,Aston Villa,Everton,Home,1.7,1.1592463254928589,1,0,1,0.7
+546,,1,West Ham,Chelsea,Home,3.75,1.6894338130950928,1,0,1,2.75
+547,,1,Sheffield United,West Ham,Home,3.4,2.640713930130005,1,1,0,-1.0
+548,,1,Bournemouth,Liverpool,Away,1.7,1.1304662227630615,1,2,1,0.7
+549,,1,Liverpool,Luton,Home,1.2,1.0836594104766846,1,0,1,0.19999999999999996
+550,,1,Everton,Nott'm Forest,Draw,3.5,3.244558811187744,1,0,0,-1.0
+551,,1,Aston Villa,Bournemouth,Away,3.6,1.9184048175811768,1,0,0,-1.0
+552,,1,Crystal Palace,West Ham,Home,2.1,1.3321077823638916,1,0,1,1.1
+553,,1,Fulham,Liverpool,Away,1.57,1.329626202583313,1,2,1,0.5700000000000001
+554,,1,Crystal Palace,Arsenal,Draw,4.0,3.967278003692627,1,2,0,-1.0
+554,,1,Crystal Palace,Arsenal,Away,1.6,1.4195820093154907,1,2,1,0.6000000000000001
+555,,1,Liverpool,Everton,Draw,5.75,4.837381839752197,1,0,0,-1.0
+556,,1,Bournemouth,Wolves,Home,2.38,2.1688408851623535,1,2,0,-1.0
+557,,1,Brentford,Burnley,Home,1.83,1.1581617593765259,1,0,1,0.8300000000000001
+558,,1,Man City,Brighton,Home,1.4,1.251260757446289,1,0,1,0.3999999999999999
+559,,1,Newcastle,Crystal Palace,Home,1.45,1.1492760181427002,1,0,1,0.44999999999999996
+560,,1,Nott'm Forest,Luton,Home,1.67,1.4797072410583496,1,1,0,-1.0
+561,,1,Chelsea,Arsenal,Home,3.2,2.0855343341827393,1,1,0,-1.0
+562,,1,Sheffield United,Man United,Home,6.5,4.736193656921387,1,2,0,-1.0
+562,,1,Sheffield United,Man United,Draw,5.25,3.3351588249206543,1,2,0,-1.0
+563,,1,Crystal Palace,Brighton,Draw,3.3,2.9565370082855225,1,1,1,2.3
+564,,1,Brighton,Wolves,Home,1.65,1.5927870273590088,1,1,0,-1.0
+565,,1,Aston Villa,West Ham,Home,1.85,1.275639295578003,1,0,1,0.8500000000000001
+566,,1,Aston Villa,Sheffield United,Home,1.22,1.2032976150512695,1,1,0,-1.0
+567,,1,Arsenal,Chelsea,Home,1.44,1.1145164966583252,1,0,1,0.43999999999999995
+568,,1,Crystal Palace,Fulham,Draw,3.4,3.3751041889190674,1,1,1,2.4
+568,,1,Crystal Palace,Fulham,Away,4.2,2.7130134105682373,1,1,0,-1.0
+569,,1,Luton,Wolves,Away,2.2,1.4421985149383545,1,1,0,-1.0
+570,,1,Man City,Nott'm Forest,Home,1.14,1.107249140739441,1,0,1,0.1399999999999999
+571,,1,Brentford,Everton,Draw,3.8,2.419330596923828,1,2,0,-1.0
+571,,1,Brentford,Everton,Away,4.2,2.665959358215332,1,2,1,3.2
+572,,1,Burnley,Man United,Home,4.2,3.5385468006134033,1,2,0,-1.0
+572,,1,Burnley,Man United,Draw,4.2,3.529517650604248,1,2,0,-1.0
+573,,1,Tottenham,Fulham,Home,1.5,1.4095573425292969,1,0,1,0.5
+574,,1,West Ham,Man United,Home,2.6,2.015580177307129,1,0,1,1.6
+574,,1,West Ham,Man United,Draw,3.6,3.0109055042266846,1,0,0,-1.0
+575,,1,Fulham,Burnley,Draw,3.75,2.720991611480713,1,2,0,-1.0
+576,,1,Luton,Newcastle,Home,4.75,2.1004366874694824,1,0,1,3.75
+576,,1,Luton,Newcastle,Draw,4.2,3.1485586166381836,1,0,0,-1.0
+577,,1,Nott'm Forest,Bournemouth,Home,2.75,2.592677354812622,1,2,0,-1.0
+578,,1,Tottenham,Everton,Home,1.75,1.7443689107894897,1,0,1,0.75
+579,,1,Liverpool,Arsenal,Home,2.38,1.877772569656372,1,1,0,-1.0
+579,,1,Liverpool,Arsenal,Draw,3.6,3.2655513286590576,1,1,1,2.6
+580,,1,Aston Villa,Nott'm Forest,Home,1.53,1.3465946912765503,1,0,1,0.53
+581,,1,Brighton,Everton,Draw,3.8,2.1709940433502197,1,1,1,2.8
+582,,1,Crystal Palace,Burnley,Home,1.95,1.2688838243484497,1,0,1,0.95
+583,,1,Man United,Fulham,Home,1.57,1.278265118598938,1,2,0,-1.0
+584,,1,Bournemouth,Man City,Draw,5.25,4.546124458312988,1,2,0,-1.0
+585,,1,Arsenal,Newcastle,Home,1.36,1.1572563648223877,1,0,1,0.3600000000000001
+586,,1,Wolves,Bournemouth,Away,2.5,2.0361428260803223,1,2,1,1.5
+587,,1,Crystal Palace,Newcastle,Draw,3.6,2.078394889831543,1,0,0,-1.0
+588,,1,Everton,Liverpool,Home,7.0,4.694117069244385,1,0,1,6.0
+588,,1,Everton,Liverpool,Draw,5.0,3.3028759956359863,1,0,0,-1.0
+589,,1,Man United,Sheffield United,Home,1.3,1.092983365058899,1,0,1,0.30000000000000004
+590,,1,Arsenal,Tottenham,Home,1.67,1.3971612453460693,1,1,0,-1.0
+591,,1,Brighton,Bournemouth,Away,7.5,7.16301965713501,1,0,0,-1.0
+592,,1,Chelsea,Aston Villa,Draw,3.75,3.503148078918457,1,2,0,-1.0
+592,,1,Chelsea,Aston Villa,Away,3.8,2.264495611190796,1,2,1,2.8
+593,,1,Liverpool,West Ham,Draw,5.0,3.7057838439941406,1,0,0,-1.0
+594,,1,Sheffield United,Newcastle,Away,1.44,1.0143176317214966,1,2,1,0.43999999999999995
+595,,1,Wolves,Chelsea,Home,3.75,2.0333566665649414,1,0,1,2.75
+596,,1,Wolves,Sheffield United,Draw,4.75,2.5327723026275635,1,0,0,-1.0
+596,,1,Wolves,Sheffield United,Away,7.0,2.5394115447998047,1,0,0,-1.0
+597,,1,Brighton,Man City,Away,1.4,1.2935254573822021,1,2,1,0.3999999999999999
+598,,1,Chelsea,Luton,Home,1.29,1.1313680410385132,1,0,1,0.29000000000000004
+599,,1,Man City,Liverpool,Draw,4.2,4.102036476135254,1,1,1,3.2
+600,,1,Burnley,West Ham,Home,3.4,2.116760015487671,1,2,0,-1.0
+601,,1,Luton,Crystal Palace,Away,2.1,1.3188637495040894,1,0,0,-1.0
+602,,1,Newcastle,Chelsea,Draw,3.5,2.929666042327881,1,0,0,-1.0
+603,,1,Nott'm Forest,Brighton,Away,2.15,1.6571002006530762,1,2,1,1.15
+604,,1,Sheffield United,Bournemouth,Away,2.2,1.1738483905792236,1,2,1,1.2000000000000002
+605,,1,Brentford,Arsenal,Home,4.5,3.718268394470215,1,2,0,-1.0
+605,,1,Brentford,Arsenal,Draw,3.75,3.5131638050079346,1,2,0,-1.0
+606,,1,West Ham,Brentford,Away,2.75,1.61820650100708,1,0,0,-1.0
+607,,1,Bournemouth,Tottenham,Draw,3.75,2.8732755184173584,1,2,0,-1.0
+608,,1,Arsenal,Fulham,Home,1.2,1.076711654663086,1,1,0,-1.0
+609,,1,Brentford,Crystal Palace,Draw,3.4,2.9375455379486084,1,1,1,2.4
+609,,1,Brentford,Crystal Palace,Away,3.5,1.684802770614624,1,1,0,-1.0
+610,,1,Everton,Wolves,Home,2.3,1.3837770223617554,1,2,0,-1.0
+611,,1,Man United,Nott'm Forest,Home,1.3,1.1670641899108887,1,0,1,0.30000000000000004
+612,,1,Brighton,West Ham,Home,1.53,1.1317639350891113,1,2,0,-1.0
+613,,1,Tottenham,Aston Villa,Home,2.3,2.190701484680176,1,2,0,-1.0
+614,,1,Everton,Man United,Draw,3.4,2.305872917175293,1,2,0,-1.0
+615,,1,Newcastle,Nott'm Forest,Away,5.75,3.199706554412842,1,2,1,4.75
+616,,1,Bournemouth,Fulham,Draw,3.6,2.588395118713379,1,0,0,-1.0
+616,,1,Bournemouth,Fulham,Away,3.2,2.966486692428589,1,0,0,-1.0
+617,,1,Sheffield United,Luton,Draw,3.3,2.888275384902954,1,2,0,-1.0
+617,,1,Sheffield United,Luton,Away,3.1,2.9769976139068604,1,2,1,2.1
+618,,1,Burnley,Liverpool,Away,1.4,1.0346324443817139,1,2,1,0.3999999999999999
+619,,1,Man United,Aston Villa,Home,2.6,1.8640655279159546,1,0,1,1.6
+620,,1,West Ham,Liverpool,Home,5.5,3.861894369125366,1,1,0,-1.0
+620,,1,West Ham,Liverpool,Draw,5.0,2.6511003971099854,1,1,1,4.0
+621,,1,Fulham,Crystal Palace,Draw,3.5,2.6296229362487793,1,1,1,2.5
+621,,1,Fulham,Crystal Palace,Away,3.5,2.957261800765991,1,1,0,-1.0
+622,,1,Man United,Burnley,Home,1.5,1.3436479568481445,1,1,0,-1.0
+623,,1,Newcastle,Sheffield United,Draw,7.0,6.613537788391113,1,0,0,-1.0
+623,,1,Newcastle,Sheffield United,Away,11.0,4.934502124786377,1,0,0,-1.0
+624,,1,Wolves,Luton,Away,3.6,1.960758924484253,1,0,0,-1.0
+625,,1,Everton,Brentford,Away,3.0,1.4643917083740234,1,0,0,-1.0
+626,,1,Aston Villa,Chelsea,Home,2.15,1.6357157230377197,1,1,0,-1.0
+627,,1,Burnley,Aston Villa,Away,2.15,1.5596387386322021,1,2,1,1.15
+628,,1,Sheffield United,Man City,Home,13.0,7.921998500823975,1,2,0,-1.0
+629,,1,Newcastle,Liverpool,Home,2.2,1.9840943813323975,1,2,0,-1.0
+629,,1,Newcastle,Liverpool,Draw,3.75,3.6563007831573486,1,2,0,-1.0
+630,,1,Crystal Palace,Tottenham,Home,4.5,1.7022730112075806,1,2,0,-1.0
+630,,1,Crystal Palace,Tottenham,Draw,3.75,3.166520357131958,1,2,0,-1.0
+631,,1,Fulham,Wolves,Away,3.0,2.8441572189331055,1,0,0,-1.0
+632,,1,Brentford,Wolves,Draw,3.5,3.4491689205169678,1,2,0,-1.0
+632,,1,Brentford,Wolves,Away,4.2,3.3544697761535645,1,2,1,3.2
+633,,1,Chelsea,Crystal Palace,Draw,4.0,3.7289376258850098,1,0,0,-1.0
+633,,1,Chelsea,Crystal Palace,Away,5.0,3.650556802749634,1,0,0,-1.0
+634,,1,Everton,Man City,Away,1.57,1.4553953409194946,1,2,1,0.5700000000000001
+635,,1,Bournemouth,Brighton,Home,2.25,1.3341058492660522,1,0,1,1.25
+636,,1,Tottenham,Arsenal,Away,1.75,1.3609098196029663,1,2,1,0.75
+637,,1,Nott'm Forest,Man City,Away,1.3,1.1406900882720947,1,2,1,0.30000000000000004
+638,,1,Chelsea,Brentford,Away,5.25,1.4472401142120361,1,2,1,4.25
+639,,1,Arsenal,Sheffield United,Home,1.13,1.0468642711639404,1,0,1,0.1299999999999999
+640,,1,Bournemouth,Burnley,Home,2.15,2.0393686294555664,1,0,1,1.15
+641,,1,Wolves,Newcastle,Home,4.2,3.5423173904418945,1,1,0,-1.0
+642,,1,Brighton,Tottenham,Home,2.5,1.1425273418426514,1,0,1,1.5
+643,,1,Arsenal,West Ham,Away,7.5,4.709591865539551,1,2,1,6.5
+644,,1,West Ham,Everton,Draw,3.5,2.541736125946045,1,2,0,-1.0
+644,,1,West Ham,Everton,Away,3.3,2.174689292907715,1,2,1,2.3
+645,,1,Aston Villa,Luton,Home,1.25,1.1945860385894775,1,0,1,0.25
+646,,1,Brighton,Fulham,Draw,4.2,3.871840715408325,1,1,1,3.2
+646,,1,Brighton,Fulham,Away,5.5,3.973161220550537,1,1,0,-1.0
+647,,1,Liverpool,Nott'm Forest,Home,1.29,1.1042490005493164,1,0,1,0.29000000000000004
+648,,1,Man United,Man City,Away,1.67,1.394987940788269,1,2,1,0.6699999999999999
+649,,1,Nott'm Forest,Arsenal,Home,7.5,4.253824710845947,1,2,0,-1.0
+650,,1,Fulham,Everton,Home,2.45,2.1976168155670166,1,1,0,-1.0
+650,,1,Fulham,Everton,Draw,3.2,2.696598529815674,1,1,1,2.2
+651,,1,Luton,Brighton,Home,4.2,1.4566470384597778,1,0,1,3.2
+652,,1,Crystal Palace,Sheffield United,Draw,3.6,3.1399409770965576,1,0,0,-1.0
+652,,1,Crystal Palace,Sheffield United,Away,6.5,2.813934564590454,1,0,0,-1.0
+653,,1,Aston Villa,Newcastle,Home,1.85,1.5056703090667725,1,2,0,-1.0
+654,,1,Newcastle,West Ham,Home,1.83,1.3216233253479004,1,0,1,0.8300000000000001
+655,,1,Bournemouth,Everton,Draw,3.6,3.344721794128418,1,0,0,-1.0
+657,,1,Nott'm Forest,Crystal Palace,Home,2.2,1.8954641819000244,1,1,0,-1.0
+658,,1,Sheffield United,Fulham,Home,4.5,4.335747718811035,1,1,0,-1.0
+658,,1,Sheffield United,Fulham,Draw,4.0,2.764030933380127,1,1,1,3.0
+659,,1,Tottenham,Luton,Draw,8.0,6.406331539154053,1,0,0,-1.0
+659,,1,Tottenham,Luton,Away,11.0,4.835081577301025,1,0,0,-1.0
+660,,1,Aston Villa,Wolves,Home,1.6,1.3483831882476807,1,0,1,0.6000000000000001
+661,,1,Brentford,Man United,Draw,3.8,2.8286571502685547,1,1,1,2.8
+661,,1,Brentford,Man United,Away,2.2,1.8668212890625,1,1,0,-1.0
+662,,1,Aston Villa,Brighton,Home,2.55,1.2829203605651855,1,0,1,1.5499999999999998
+663,,1,Bournemouth,Arsenal,Away,1.53,1.101516604423523,1,2,1,0.53
+664,,1,Everton,Luton,Draw,3.8,2.0613675117492676,1,2,0,-1.0
+664,,1,Everton,Luton,Away,6.5,4.96636962890625,1,2,1,5.5
+665,,1,Man United,Crystal Palace,Draw,4.2,2.1371889114379883,1,2,0,-1.0
+666,,1,Newcastle,Burnley,Home,1.3,1.281685471534729,1,0,1,0.30000000000000004
+667,,1,West Ham,Sheffield United,Home,1.45,1.1420294046401978,1,0,1,0.44999999999999996
+668,,1,Wolves,Man City,Away,1.33,1.2327028512954712,1,0,0,-1.0
+669,,1,Tottenham,Liverpool,Home,2.9,2.3937430381774902,1,0,1,1.9
+669,,1,Tottenham,Liverpool,Draw,4.0,3.540912389755249,1,0,0,-1.0
+670,,1,Luton,Chelsea,Away,1.5,1.3108447790145874,1,2,1,0.5
+671,,1,Aston Villa,Burnley,Draw,5.25,3.5369932651519775,1,0,0,-1.0
+671,,1,Aston Villa,Burnley,Away,7.5,3.833432674407959,1,0,0,-1.0
+672,,1,Crystal Palace,Brentford,Home,2.2,1.9115415811538696,1,0,1,1.2000000000000002
+673,,1,Man City,Sheffield United,Draw,11.0,4.261255741119385,1,0,0,-1.0
+673,,1,Man City,Sheffield United,Away,29.0,15.041080474853516,1,0,0,-1.0
+674,,1,Wolves,Everton,Home,2.63,1.302499532699585,1,0,1,1.63
+675,,1,Nott'm Forest,Man United,Away,2.15,1.426697015762329,1,0,0,-1.0
+676,,1,Man City,Burnley,Away,21.0,19.795989990234375,1,0,0,-1.0
+677,,1,Tottenham,Brentford,Away,4.75,2.4097304344177246,1,0,0,-1.0
+678,,1,Liverpool,Chelsea,Home,1.57,1.209572434425354,1,0,1,0.5700000000000001
+679,,1,Liverpool,Brighton,Draw,5.5,4.537722110748291,1,0,0,-1.0
+679,,1,Liverpool,Brighton,Away,7.5,5.27544641494751,1,0,0,-1.0
+680,,1,Man City,Arsenal,Draw,3.8,2.169188976287842,1,1,1,2.8
+680,,1,Man City,Arsenal,Away,3.8,3.170969247817993,1,1,0,-1.0
+681,,1,Fulham,Arsenal,Home,5.25,2.7702646255493164,1,0,1,4.25
+682,,1,Tottenham,Bournemouth,Home,1.75,1.257653832435608,1,0,1,0.75
+683,,2,Monaco,Paris SG,Away,2.0,1.5487561225891113,1,1,0,-1.0
+684,,2,Nantes,Marseille,Away,1.7,1.331691026687622,1,1,0,-1.0
+685,,2,Reims,Lyon,Draw,3.8,3.6036441326141357,1,0,0,-1.0
+685,,2,Reims,Lyon,Away,3.4,2.1223807334899902,1,0,0,-1.0
+686,,2,Le Havre,Lille,Away,1.95,1.3374441862106323,1,2,1,0.95
+687,,2,Nice,Brest,Draw,3.8,1.7002426385879517,1,1,1,2.8
+687,,2,Nice,Brest,Away,4.5,3.3830816745758057,1,1,0,-1.0
+688,,2,Toulouse,Metz,Home,2.1,1.1690747737884521,1,0,1,1.1
+689,,2,Lorient,Montpellier,Away,2.38,1.1893353462219238,1,2,1,1.38
+690,,2,Rennes,Nantes,Home,1.53,1.447334885597229,1,0,1,0.53
+691,,2,Reims,Strasbourg,Draw,3.75,3.5974528789520264,1,0,0,-1.0
+692,,2,Strasbourg,Paris SG,Home,6.0,3.5263173580169678,1,2,0,-1.0
+693,,2,Reims,Lille,Draw,3.3,3.139108657836914,1,2,0,-1.0
+694,,2,Clermont,Marseille,Away,1.85,1.1192905902862549,1,2,1,0.8500000000000001
+695,,2,Brest,Rennes,Away,2.15,1.3656331300735474,1,1,0,-1.0
+696,,2,Monaco,Lens,Home,2.05,1.1804869174957275,1,0,1,1.0499999999999998
+697,,2,Lens,Lyon,Home,1.7,1.4777743816375732,1,0,1,0.7
+698,,2,Nantes,Nice,Draw,3.5,3.1939337253570557,1,0,0,-1.0
+698,,2,Nantes,Nice,Away,2.0,1.7269532680511475,1,0,0,-1.0
+699,,2,Rennes,Montpellier,Away,5.5,1.769710659980774,1,0,0,-1.0
+700,,2,Nantes,Lens,Draw,3.3,3.115521192550659,1,2,0,-1.0
+701,,2,Toulouse,Nice,Away,2.25,1.5948498249053955,1,0,0,-1.0
+702,,2,Brest,Le Havre,Home,1.6,1.230807900428772,1,0,1,0.6000000000000001
+703,,2,Montpellier,Strasbourg,Draw,3.5,2.8856520652770996,1,1,1,2.5
+704,,2,Nantes,Metz,Draw,3.5,3.3307602405548096,1,2,0,-1.0
+704,,2,Nantes,Metz,Away,4.75,2.418084144592285,1,2,1,3.75
+705,,2,Rennes,Lorient,Draw,4.75,3.0007505416870117,1,2,0,-1.0
+705,,2,Rennes,Lorient,Away,8.0,2.5211033821105957,1,2,1,7.0
+706,,2,Lyon,Lens,Away,2.75,1.6924240589141846,1,2,1,1.75
+707,,2,Toulouse,Montpellier,Draw,3.8,3.1075730323791504,1,2,0,-1.0
+707,,2,Toulouse,Montpellier,Away,3.3,2.9161934852600098,1,2,1,2.3
+708,,2,Lens,Lorient,Draw,5.0,3.268483877182007,1,0,0,-1.0
+708,,2,Lens,Lorient,Away,6.5,4.419679641723633,1,0,0,-1.0
+709,,2,Toulouse,Clermont,Home,2.0,1.6141188144683838,1,1,0,-1.0
+710,,2,Le Havre,Lorient,Home,2.7,2.0297203063964844,1,0,1,1.7000000000000002
+710,,2,Le Havre,Lorient,Draw,3.25,2.673374652862549,1,0,0,-1.0
+711,,2,Lille,Montpellier,Draw,4.0,3.8655152320861816,1,0,0,-1.0
+712,,2,Metz,Reims,Home,4.2,2.604914426803589,1,1,0,-1.0
+712,,2,Metz,Reims,Draw,3.5,2.7465121746063232,1,1,1,2.5
+713,,2,Nice,Strasbourg,Home,1.91,1.1602857112884521,1,0,1,0.9099999999999999
+714,,2,Lyon,Paris SG,Draw,4.75,4.222234725952148,1,2,0,-1.0
+715,,2,Paris SG,Montpellier,Home,1.25,1.0631933212280273,1,0,1,0.25
+716,,2,Le Havre,Paris SG,Home,11.0,9.3529634475708,1,2,0,-1.0
+716,,2,Le Havre,Paris SG,Draw,5.25,5.198934078216553,1,2,0,-1.0
+717,,2,Brest,Clermont,Home,1.75,1.139235019683838,1,0,1,0.75
+718,,2,Monaco,Montpellier,Home,1.62,1.4087086915969849,1,0,1,0.6200000000000001
+719,,2,Toulouse,Lorient,Home,2.0,1.9756977558135986,1,1,0,-1.0
+720,,2,Lille,Metz,Draw,4.5,4.174640655517578,1,0,0,-1.0
+720,,2,Lille,Metz,Away,7.5,7.076986789703369,1,0,0,-1.0
+721,,2,Marseille,Rennes,Home,1.91,1.5533677339553833,1,0,1,0.9099999999999999
+721,,2,Marseille,Rennes,Draw,3.8,2.980222225189209,1,0,0,-1.0
+722,,2,Monaco,Le Havre,Home,1.45,1.1969720125198364,1,1,0,-1.0
+723,,2,Lille,Clermont,Home,1.4,1.093925952911377,1,0,1,0.3999999999999999
+724,,2,Metz,Lorient,Draw,3.1,2.813899517059326,1,2,0,-1.0
+724,,2,Metz,Lorient,Away,3.5,3.013582706451416,1,2,1,2.5
+725,,2,Reims,Toulouse,Draw,3.5,3.2634968757629395,1,2,0,-1.0
+725,,2,Reims,Toulouse,Away,4.75,4.061032772064209,1,2,1,3.75
+726,,2,Brest,Nice,Draw,3.25,2.000875473022461,1,1,1,2.25
+727,,2,Lyon,Marseille,Home,2.9,1.500027060508728,1,0,1,1.9
+728,,2,Le Havre,Strasbourg,Home,2.38,1.7932465076446533,1,0,1,1.38
+729,,2,Monaco,Clermont,Home,1.3,1.1638084650039673,1,0,1,0.30000000000000004
+730,,2,Metz,Rennes,Away,2.05,1.738588571548462,1,2,1,1.0499999999999998
+731,,2,Brest,Nantes,Draw,3.8,3.0442733764648438,1,1,1,2.8
+732,,2,Lorient,Lens,Away,1.7,1.190313458442688,1,1,0,-1.0
+733,,2,Marseille,Lille,Home,2.25,1.4913443326950073,1,1,0,-1.0
+734,,2,Lille,Marseille,Home,2.0,1.728426218032837,1,0,1,1.0
+735,,2,Lyon,Metz,Draw,3.8,3.161656379699707,1,1,1,2.8
+735,,2,Lyon,Metz,Away,5.5,2.4061524868011475,1,1,0,-1.0
+736,,2,Nantes,Reims,Draw,3.2,2.3835110664367676,1,2,0,-1.0
+736,,2,Nantes,Reims,Away,2.55,2.446305274963379,1,2,1,1.5499999999999998
+737,,2,Strasbourg,Clermont,Home,2.38,2.233489751815796,1,1,0,-1.0
+737,,2,Strasbourg,Clermont,Draw,3.2,2.562574863433838,1,1,1,2.2
+738,,2,Toulouse,Le Havre,Away,3.4,1.8656601905822754,1,2,1,2.4
+739,,2,Monaco,Brest,Home,1.7,1.1809728145599365,1,0,1,0.7
+740,,2,Nice,Rennes,Draw,3.4,2.3879075050354004,1,0,0,-1.0
+740,,2,Nice,Rennes,Away,3.6,2.76531720161438,1,0,0,-1.0
+741,,2,Lens,Le Havre,Home,1.53,1.286439061164856,1,1,0,-1.0
+742,,2,Paris SG,Clermont,Draw,8.0,6.749088764190674,1,1,1,7.0
+742,,2,Paris SG,Clermont,Away,12.0,7.310110569000244,1,1,0,-1.0
+743,,2,Lille,Lyon,Away,3.8,2.6407761573791504,1,2,1,2.8
+744,,2,Strasbourg,Nantes,Away,3.4,1.987470030784607,1,2,1,2.4
+745,,2,Marseille,Lyon,Home,1.67,1.2468370199203491,1,0,1,0.6699999999999999
+746,,2,Brest,Metz,Away,7.5,2.514143466949463,1,0,0,-1.0
+747,,2,Montpellier,Lorient,Home,1.75,1.7024376392364502,1,0,1,0.75
+748,,2,Reims,Nice,Home,2.5,2.2412405014038086,1,1,0,-1.0
+748,,2,Reims,Nice,Draw,3.2,2.569917917251587,1,1,1,2.2
+749,,2,Toulouse,Strasbourg,Draw,3.6,2.1184706687927246,1,1,1,2.6
+750,,2,Monaco,Rennes,Away,4.0,1.962309718132019,1,0,0,-1.0
+751,,2,Nantes,Lyon,Away,2.25,1.74147629737854,1,2,1,1.25
+752,,2,Metz,Nice,Draw,3.8,3.1889657974243164,1,2,0,-1.0
+753,,2,Reims,Monaco,Draw,3.6,2.8624560832977295,1,2,0,-1.0
+754,,2,Brest,Strasbourg,Away,4.33,1.8352782726287842,1,1,0,-1.0
+755,,2,Nice,Montpellier,Draw,3.6,3.4034597873687744,1,2,0,-1.0
+756,,2,Marseille,Le Havre,Home,1.45,1.1456998586654663,1,0,1,0.44999999999999996
+757,,2,Brest,Toulouse,Draw,3.8,3.3464548587799072,1,1,1,2.8
+757,,2,Brest,Toulouse,Away,4.33,2.0291731357574463,1,1,0,-1.0
+758,,2,Lyon,Lorient,Away,4.75,3.3183867931365967,1,1,0,-1.0
+759,,2,Lens,Lille,Home,2.25,2.0852556228637695,1,1,0,-1.0
+760,,2,Rennes,Paris SG,Away,2.05,1.4933562278747559,1,2,1,1.0499999999999998
+761,,2,Montpellier,Lens,Draw,3.4,3.3890135288238525,1,1,1,2.4
+761,,2,Montpellier,Lens,Away,2.15,1.7495143413543701,1,1,0,-1.0
+762,,2,Marseille,Metz,Draw,4.75,4.685601711273193,1,1,1,3.75
+763,,2,Lorient,Lyon,Away,2.2,1.1649638414382935,1,2,1,1.2000000000000002
+765,,2,Rennes,Monaco,Draw,3.5,3.4567062854766846,1,2,0,-1.0
+765,,2,Rennes,Monaco,Away,2.7,2.3414955139160156,1,2,1,1.7000000000000002
+766,,2,Paris SG,Nantes,Draw,7.5,3.4150290489196777,1,0,0,-1.0
+766,,2,Paris SG,Nantes,Away,12.0,9.3824462890625,1,0,0,-1.0
+767,,2,Lens,Strasbourg,Home,1.62,1.3658108711242676,1,0,1,0.6200000000000001
+768,,2,Paris SG,Lille,Home,1.62,1.2543003559112549,1,0,1,0.6200000000000001
+769,,2,Paris SG,Reims,Draw,5.0,4.597143650054932,1,1,1,4.0
+770,,2,Le Havre,Toulouse,Home,2.8,1.7123292684555054,1,0,1,1.7999999999999998
+770,,2,Le Havre,Toulouse,Draw,3.1,2.490525484085083,1,0,0,-1.0
+771,,2,Metz,Clermont,Away,3.25,1.7136448621749878,1,0,0,-1.0
+772,,2,Strasbourg,Monaco,Draw,3.75,2.6885080337524414,1,2,0,-1.0
+772,,2,Strasbourg,Monaco,Away,1.95,1.6696311235427856,1,2,1,0.95
+773,,2,Lille,Rennes,Home,2.05,1.2976988554000854,1,1,0,-1.0
+774,,2,Marseille,Nantes,Home,1.5,1.360595941543579,1,0,1,0.5
+775,,2,Brest,Reims,Draw,4.0,3.054163932800293,1,1,1,3.0
+776,,2,Nice,Le Havre,Home,1.53,1.2428576946258545,1,0,1,0.53
+777,,2,Montpellier,Nice,Draw,3.3,2.0234508514404297,1,1,1,2.3
+778,,2,Nice,Reims,Home,1.85,1.6293017864227295,1,0,1,0.8500000000000001
+779,,2,Clermont,Lille,Home,5.25,2.761908531188965,1,1,0,-1.0
+779,,2,Clermont,Lille,Draw,3.5,2.9174535274505615,1,1,1,2.5
+780,,2,Metz,Brest,Draw,3.2,2.67846417427063,1,2,0,-1.0
+782,,2,Lyon,Toulouse,Home,2.0,1.7002289295196533,1,0,1,1.0
+783,,2,Lorient,Marseille,Home,4.75,3.4109926223754883,1,2,0,-1.0
+784,,2,Le Havre,Rennes,Home,3.6,2.1050078868865967,1,2,0,-1.0
+784,,2,Le Havre,Rennes,Draw,3.3,2.4886868000030518,1,2,0,-1.0
+785,,2,Clermont,Brest,Away,2.05,1.2259806394577026,1,1,0,-1.0
+786,,2,Lorient,Reims,Draw,3.5,2.2144410610198975,1,0,0,-1.0
+787,,2,Toulouse,Nantes,Draw,3.3,2.237541913986206,1,2,0,-1.0
+788,,2,Montpellier,Lyon,Home,3.1,1.5554723739624023,1,2,0,-1.0
+789,,2,Nice,Monaco,Away,3.1,1.9877054691314697,1,2,1,2.1
+790,,2,Nice,Lille,Draw,3.5,3.2871880531311035,1,1,1,2.5
+790,,2,Nice,Lille,Away,2.7,2.065542697906494,1,1,0,-1.0
+791,,2,Reims,Paris SG,Draw,4.33,3.9744064807891846,1,2,0,-1.0
+791,,2,Reims,Paris SG,Away,1.6,1.5566775798797607,1,2,1,0.6000000000000001
+792,,2,Le Havre,Monaco,Home,4.5,3.136608839035034,1,1,0,-1.0
+792,,2,Le Havre,Monaco,Draw,4.0,3.166372776031494,1,1,1,3.0
+793,,2,Marseille,Strasbourg,Draw,4.0,2.669625997543335,1,1,1,3.0
+793,,2,Marseille,Strasbourg,Away,5.5,4.323651313781738,1,1,0,-1.0
+794,,2,Metz,Lens,Home,5.0,1.7133595943450928,1,0,1,4.0
+794,,2,Metz,Lens,Draw,3.75,3.6284704208374023,1,0,0,-1.0
+795,,2,Clermont,Lyon,Home,5.25,2.953518867492676,1,2,0,-1.0
+795,,2,Clermont,Lyon,Draw,4.5,2.5863094329833984,1,2,0,-1.0
+796,,2,Marseille,Lorient,Draw,5.0,3.5538694858551025,1,0,0,-1.0
+797,,2,Montpellier,Monaco,Away,1.83,1.1778279542922974,1,2,1,0.8300000000000001
+798,,2,Nantes,Lille,Home,4.0,2.223466396331787,1,2,0,-1.0
+798,,2,Nantes,Lille,Draw,3.5,3.180349588394165,1,2,0,-1.0
+799,,2,Paris SG,Toulouse,Draw,6.0,4.229883193969727,1,2,0,-1.0
+799,,2,Paris SG,Toulouse,Away,5.75,3.1521997451782227,1,2,1,4.75
+800,,2,Rennes,Lens,Away,2.8,2.7911489009857178,1,1,0,-1.0
+801,,2,Strasbourg,Metz,Draw,3.6,2.3490312099456787,1,0,0,-1.0
+802,,2,Marseille,Reims,Draw,4.0,2.713301420211792,1,0,0,-1.0
+803,,2,Paris SG,Lorient,Draw,5.5,4.221766948699951,1,1,1,4.5
+804,,2,Clermont,Lorient,Home,2.1,2.0126945972442627,1,0,1,1.1
+804,,2,Clermont,Lorient,Draw,3.3,3.0154411792755127,1,0,0,-1.0
+805,,2,Lille,Toulouse,Home,1.55,1.1424891948699951,1,1,0,-1.0
+806,,2,Metz,Nantes,Home,2.9,1.8218859434127808,1,0,1,1.9
+807,,2,Rennes,Lyon,Draw,4.2,4.191394329071045,1,2,0,-1.0
+807,,2,Rennes,Lyon,Away,4.33,1.8155295848846436,1,2,1,3.33
+808,,2,Lens,Marseille,Home,2.25,2.109985828399658,1,0,1,1.25
+808,,2,Lens,Marseille,Draw,3.4,3.336503505706787,1,0,0,-1.0
+809,,2,Monaco,Reims,Draw,4.0,3.910548210144043,1,2,0,-1.0
+810,,2,Rennes,Nice,Home,2.38,2.0060579776763916,1,0,1,1.38
+810,,2,Rennes,Nice,Draw,3.25,2.6662611961364746,1,0,0,-1.0
+811,,2,Strasbourg,Reims,Home,2.55,2.0923006534576416,1,0,1,1.5499999999999998
+811,,2,Strasbourg,Reims,Draw,3.25,2.4635519981384277,1,0,0,-1.0
+812,,2,Rennes,Toulouse,Draw,3.6,3.265805959701538,1,2,0,-1.0
+813,,2,Brest,Lens,Home,4.0,1.4024467468261719,1,0,1,3.0
+814,,2,Clermont,Monaco,Away,2.0,1.5030593872070312,1,2,1,1.0
+815,,2,Nantes,Toulouse,Away,2.75,2.0454294681549072,1,2,1,1.75
+816,,2,Rennes,Metz,Home,1.4,1.1227972507476807,1,0,1,0.3999999999999999
+817,,2,Strasbourg,Lyon,Away,2.55,1.650045394897461,1,0,0,-1.0
+818,,2,Lille,Lorient,Home,1.4,1.1142815351486206,1,0,1,0.3999999999999999
+819,,2,Brest,Montpellier,Home,1.83,1.4646377563476562,1,0,1,0.8300000000000001
+820,,2,Metz,Toulouse,Draw,3.2,3.1155359745025635,1,2,0,-1.0
+820,,2,Metz,Toulouse,Away,2.45,1.7127256393432617,1,2,1,1.4500000000000002
+821,,2,Nantes,Clermont,Home,1.95,1.5777740478515625,1,2,0,-1.0
+822,,2,Le Havre,Lyon,Home,3.25,1.5239675045013428,1,0,1,2.25
+823,,2,Lens,Paris SG,Away,1.85,1.293797492980957,1,2,1,0.8500000000000001
+824,,2,Le Havre,Nantes,Draw,3.0,2.4997518062591553,1,2,0,-1.0
+824,,2,Le Havre,Nantes,Away,3.0,1.9368547201156616,1,2,1,2.0
+825,,2,Clermont,Montpellier,Away,2.15,1.3089370727539062,1,1,0,-1.0
+826,,2,Lyon,Brest,Home,2.2,1.9507447481155396,1,0,1,1.2000000000000002
+827,,2,Toulouse,Lyon,Home,2.88,2.5742902755737305,1,2,0,-1.0
+827,,2,Toulouse,Lyon,Draw,3.2,2.77903413772583,1,2,0,-1.0
+828,,2,Nice,Paris SG,Draw,3.6,2.437589168548584,1,2,0,-1.0
+829,,2,Reims,Marseille,Home,3.25,2.507019281387329,1,0,1,2.25
+829,,2,Reims,Marseille,Draw,3.5,3.1625406742095947,1,0,0,-1.0
+830,,2,Paris SG,Nice,Away,5.5,1.3764457702636719,1,2,1,4.5
+831,,2,Monaco,Lyon,Draw,4.2,1.8696424961090088,1,2,0,-1.0
+832,,2,Lyon,Nice,Draw,3.2,2.275015354156494,1,0,0,-1.0
+832,,2,Lyon,Nice,Away,2.8,2.0599305629730225,1,0,0,-1.0
+833,,2,Nantes,Strasbourg,Away,3.3,1.5408928394317627,1,2,1,2.3
+834,,2,Lens,Nice,Draw,3.4,2.926225185394287,1,2,0,-1.0
+834,,2,Lens,Nice,Away,4.0,2.5220463275909424,1,2,1,3.0
+835,,2,Rennes,Lille,Away,3.3,2.3320024013519287,1,1,0,-1.0
+836,,2,Lens,Metz,Home,1.5,1.413031816482544,1,2,0,-1.0
+837,,2,Le Havre,Nice,Away,1.91,1.7268520593643188,1,0,0,-1.0
+838,,2,Lens,Reims,Draw,3.75,3.7296559810638428,1,0,0,-1.0
+839,,2,Lille,Le Havre,Home,1.53,1.2595837116241455,1,0,1,0.53
+840,,2,Nantes,Paris SG,Home,6.0,1.589547038078308,1,2,0,-1.0
+841,,2,Brest,Lille,Away,3.0,1.4863080978393555,1,1,0,-1.0
+843,,2,Monaco,Lorient,Draw,5.0,4.782473564147949,1,1,1,4.0
+843,,2,Monaco,Lorient,Away,9.0,2.7646138668060303,1,1,0,-1.0
+844,,2,Reims,Metz,Draw,4.0,2.988952398300171,1,0,0,-1.0
+845,,2,Rennes,Marseille,Home,2.5,1.6054855585098267,1,0,1,1.5
+846,,2,Montpellier,Paris SG,Home,6.0,5.164113521575928,1,2,0,-1.0
+847,,2,Lorient,Monaco,Away,1.85,1.5930100679397583,1,1,0,-1.0
+848,,2,Clermont,Nantes,Away,3.6,1.5810836553573608,1,2,1,2.6
+849,,2,Reims,Brest,Home,1.85,1.537963628768921,1,2,0,-1.0
+850,,2,Strasbourg,Montpellier,Home,2.3,1.7373087406158447,1,1,0,-1.0
+851,,2,Marseille,Toulouse,Draw,4.75,3.9038689136505127,1,1,1,3.75
+852,,2,Lyon,Le Havre,Home,1.67,1.2507003545761108,1,1,0,-1.0
+853,,2,Nantes,Brest,Away,2.8,1.7852174043655396,1,2,1,1.7999999999999998
+854,,2,Lorient,Strasbourg,Away,2.88,1.1592378616333008,1,2,1,1.88
+855,,2,Metz,Montpellier,Draw,3.3,3.064049005508423,1,2,0,-1.0
+855,,2,Metz,Montpellier,Away,2.25,2.080904722213745,1,2,1,1.25
+856,,2,Toulouse,Rennes,Home,3.2,3.140331506729126,1,1,0,-1.0
+856,,2,Toulouse,Rennes,Draw,3.5,3.3524105548858643,1,1,1,2.5
+857,,2,Marseille,Clermont,Home,1.4,1.2377374172210693,1,0,1,0.3999999999999999
+858,,2,Lille,Paris SG,Home,3.8,3.3719661235809326,1,1,0,-1.0
+858,,2,Lille,Paris SG,Draw,4.0,2.4136269092559814,1,1,1,3.0
+859,,2,Strasbourg,Lorient,Draw,3.8,3.0252137184143066,1,2,0,-1.0
+859,,2,Strasbourg,Lorient,Away,5.0,2.1062095165252686,1,2,1,4.0
+860,,2,Monaco,Toulouse,Draw,4.33,4.127956390380859,1,2,0,-1.0
+860,,2,Monaco,Toulouse,Away,6.5,1.9932953119277954,1,2,1,5.5
+861,,2,Montpellier,Metz,Draw,3.7,2.8670132160186768,1,0,0,-1.0
+862,,2,Rennes,Clermont,Home,1.53,1.2516236305236816,1,0,1,0.53
+863,,2,Reims,Lens,Draw,3.2,1.9103131294250488,1,1,1,2.2
+864,,2,Brest,Marseille,Home,2.55,1.7700018882751465,1,0,1,1.5499999999999998
+865,,2,Metz,Marseille,Home,5.0,2.8759422302246094,1,1,0,-1.0
+865,,2,Metz,Marseille,Draw,4.0,3.211348056793213,1,1,1,3.0
+866,,2,Nice,Lorient,Home,1.53,1.1868230104446411,1,0,1,0.53
+867,,2,Le Havre,Marseille,Home,4.5,3.375333786010742,1,2,0,-1.0
+868,,2,Lens,Montpellier,Home,1.44,1.1100739240646362,1,1,0,-1.0
+869,,2,Lille,Nice,Draw,4.0,2.8682126998901367,1,1,1,3.0
+869,,2,Lille,Nice,Away,5.0,4.196632385253906,1,1,0,-1.0
+870,,2,Lorient,Clermont,Draw,4.0,2.485987901687622,1,0,0,-1.0
+872,,2,Metz,Paris SG,Away,1.62,1.2581477165222168,1,2,1,0.6200000000000001
+873,,2,Monaco,Nantes,Home,1.38,1.29783296585083,1,0,1,0.3799999999999999
+874,,2,Reims,Rennes,Home,2.88,2.70456600189209,1,0,1,1.88
+875,,2,Toulouse,Brest,Away,1.9,1.3769099712371826,1,2,1,0.8999999999999999
+876,,2,Lyon,Montpellier,Away,4.33,1.4382518529891968,1,2,1,3.33
+877,,2,Toulouse,Paris SG,Home,4.75,4.7150468826293945,1,1,0,-1.0
+877,,2,Toulouse,Paris SG,Draw,4.2,3.1719889640808105,1,1,1,3.2
+878,,2,Nantes,Rennes,Home,3.0,2.7156496047973633,1,2,0,-1.0
+879,,2,Lens,Clermont,Home,1.36,1.346429705619812,1,0,1,0.3600000000000001
+880,,2,Lille,Nantes,Home,1.4,1.269311785697937,1,0,1,0.3999999999999999
+881,,2,Le Havre,Brest,Draw,3.2,2.850736141204834,1,2,0,-1.0
+882,,2,Lorient,Nice,Away,2.15,1.3486140966415405,1,1,0,-1.0
+883,,2,Reims,Clermont,Draw,3.75,2.759833335876465,1,0,0,-1.0
+884,,2,Monaco,Strasbourg,Home,1.8,1.4127894639968872,1,0,1,0.8
+885,,2,Lens,Rennes,Away,2.75,1.7094683647155762,1,1,0,-1.0
+886,,2,Le Havre,Lens,Away,1.83,1.278698205947876,1,1,0,-1.0
+887,,2,Brest,Lorient,Home,1.6,1.262009620666504,1,0,1,0.6000000000000001
+888,,2,Clermont,Rennes,Away,2.2,1.2544435262680054,1,2,1,1.2000000000000002
+889,,2,Lyon,Nantes,Home,1.67,1.0786336660385132,1,0,1,0.6699999999999999
+890,,2,Montpellier,Marseille,Home,3.4,1.6562962532043457,1,1,0,-1.0
+891,,2,Nice,Lens,Home,2.3,1.8334460258483887,1,0,1,1.2999999999999998
+892,,2,Paris SG,Metz,Home,1.14,1.0766404867172241,1,0,1,0.1399999999999999
+893,,2,Reims,Le Havre,Home,1.7,1.45916748046875,1,0,1,0.7
+894,,2,Strasbourg,Lille,Home,4.0,3.3540425300598145,1,0,1,3.0
+894,,2,Strasbourg,Lille,Draw,3.4,2.2824320793151855,1,0,0,-1.0
+895,,2,Toulouse,Monaco,Draw,3.75,2.676345109939575,1,2,0,-1.0
+896,,2,Le Havre,Metz,Draw,3.2,2.6766357421875,1,2,0,-1.0
+897,,2,Lille,Strasbourg,Draw,4.0,2.0363893508911133,1,0,0,-1.0
+898,,2,Reims,Montpellier,Draw,3.75,3.109438180923462,1,2,0,-1.0
+898,,2,Reims,Montpellier,Away,3.6,1.75967276096344,1,2,1,2.6
+899,,2,Brest,Monaco,Draw,3.5,3.0146751403808594,1,2,0,-1.0
+899,,2,Brest,Monaco,Away,2.55,1.8646413087844849,1,2,1,1.5499999999999998
+900,,2,Toulouse,Marseille,Draw,3.3,2.668436050415039,1,1,1,2.3
+901,,2,Paris SG,Lyon,Home,1.44,1.4138154983520508,1,0,1,0.43999999999999995
+902,,2,Paris SG,Strasbourg,Home,1.22,1.0951753854751587,1,0,1,0.21999999999999997
+903,,2,Nice,Marseille,Draw,3.3,2.43807315826416,1,0,0,-1.0
+904,,2,Monaco,Nice,Away,3.2,1.566688895225525,1,2,1,2.2
+905,,2,Lorient,Rennes,Home,3.8,2.420391082763672,1,0,1,2.8
+905,,2,Lorient,Rennes,Draw,3.8,3.4128737449645996,1,0,0,-1.0
+906,,2,Lille,Brest,Home,1.8,1.3660866022109985,1,0,1,0.8
+907,,2,Nantes,Montpellier,Away,2.4,1.8861300945281982,1,0,0,-1.0
+908,,2,Toulouse,Reims,Home,2.8,2.295032024383545,1,1,0,-1.0
+908,,2,Toulouse,Reims,Draw,3.5,2.7456860542297363,1,1,1,2.5
+909,,2,Monaco,Metz,Home,1.33,1.1211276054382324,1,0,1,0.33000000000000007
+910,,2,Lyon,Clermont,Draw,3.75,2.472917079925537,1,2,0,-1.0
+910,,2,Lyon,Clermont,Away,4.5,2.817178726196289,1,2,1,3.5
+911,,2,Metz,Lyon,Away,1.91,1.5915595293045044,1,2,1,0.9099999999999999
+912,,2,Nantes,Lorient,Home,2.38,2.3763256072998047,1,0,1,1.38
+912,,2,Nantes,Lorient,Away,3.0,2.473043441772461,1,0,0,-1.0
+913,,2,Brest,Lyon,Home,2.6,1.4805700778961182,1,0,1,1.6
+914,,2,Lorient,Nantes,Away,2.8,1.2917026281356812,1,2,1,1.7999999999999998
+915,,2,Strasbourg,Brest,Away,2.45,1.5652556419372559,1,2,1,1.4500000000000002
+916,,2,Lorient,Paris SG,Home,7.5,6.194268703460693,1,2,0,-1.0
+917,,2,Marseille,Nice,Draw,3.4,2.6251964569091797,1,1,1,2.4
+918,,2,Monaco,Lille,Draw,3.6,2.820385217666626,1,0,0,-1.0
+919,,2,Metz,Strasbourg,Draw,3.25,3.055206775665283,1,2,0,-1.0
+919,,2,Metz,Strasbourg,Away,2.45,1.564199686050415,1,2,1,1.4500000000000002
+920,,2,Le Havre,Clermont,Home,2.4,2.1598355770111084,1,0,1,1.4
+921,,2,Lens,Toulouse,Draw,3.8,2.7091574668884277,1,0,0,-1.0
+921,,2,Lens,Toulouse,Away,5.0,3.7151639461517334,1,0,0,-1.0
+922,,2,Montpellier,Rennes,Draw,3.5,2.654404640197754,1,1,1,2.5
+923,,2,Paris SG,Marseille,Home,1.62,1.1396434307098389,1,0,1,0.6200000000000001
+924,,2,Paris SG,Monaco,Home,1.45,1.1299439668655396,1,0,1,0.44999999999999996
+925,,2,Lens,Monaco,Home,2.38,1.9939026832580566,1,2,0,-1.0
+925,,2,Lens,Monaco,Away,2.9,2.8717799186706543,1,2,1,1.9
+926,,2,Le Havre,Reims,Draw,3.25,2.2122509479522705,1,2,0,-1.0
+927,,2,Nice,Clermont,Draw,4.33,3.333430290222168,1,1,1,3.33
+927,,2,Nice,Clermont,Away,7.5,2.2965087890625,1,1,0,-1.0
+928,,2,Toulouse,Lille,Home,4.2,2.4760007858276367,1,0,1,3.2
+928,,2,Toulouse,Lille,Draw,3.4,2.424102783203125,1,0,0,-1.0
+929,,2,Paris SG,Rennes,Draw,4.75,3.4378888607025146,1,1,1,3.75
+929,,2,Paris SG,Rennes,Away,7.0,5.7525715827941895,1,1,0,-1.0
+930,,2,Marseille,Montpellier,Draw,4.0,3.5405964851379395,1,0,0,-1.0
+930,,2,Marseille,Montpellier,Away,4.75,4.737627029418945,1,0,0,-1.0
+931,,2,Nantes,Monaco,Draw,3.8,3.101079225540161,1,1,1,2.8
+932,,2,Clermont,Lens,Away,2.0,1.2014762163162231,1,2,1,1.0
+933,,2,Strasbourg,Marseille,Home,3.8,1.5443323850631714,1,1,0,-1.0
+934,,2,Lyon,Rennes,Home,2.5,2.0287251472473145,1,2,0,-1.0
+935,,2,Montpellier,Nantes,Draw,3.6,2.528498411178589,1,1,1,2.6
+935,,2,Montpellier,Nantes,Away,3.75,1.8185901641845703,1,1,0,-1.0
+936,,2,Marseille,Brest,Away,6.0,5.3071608543396,1,0,0,-1.0
+937,,2,Paris SG,Lens,Home,1.6,1.5599069595336914,1,0,1,0.6000000000000001
+938,,2,Lille,Reims,Draw,3.75,2.5027260780334473,1,2,0,-1.0
+938,,2,Lille,Reims,Away,3.75,2.611578941345215,1,2,1,2.75
+939,,2,Nice,Toulouse,Home,1.5,1.4043081998825073,1,0,1,0.5
+940,,2,Lorient,Metz,Home,1.95,1.8502637147903442,1,2,0,-1.0
+941,,2,Montpellier,Brest,Draw,3.4,2.7294228076934814,1,2,0,-1.0
+942,,2,Nantes,Le Havre,Home,2.1,1.8783981800079346,1,1,0,-1.0
+942,,2,Nantes,Le Havre,Draw,3.5,2.316070556640625,1,1,1,2.5
+943,,2,Rennes,Reims,Home,2.0,1.9438639879226685,1,0,1,1.0
+944,,2,Lyon,Lille,Away,2.38,1.640026569366455,1,2,1,1.38
+945,,2,Nice,Metz,Home,1.4,1.0451818704605103,1,0,1,0.3999999999999999
+946,,2,Marseille,Monaco,Home,2.4,1.9597359895706177,1,1,0,-1.0
+947,,2,Paris SG,Le Havre,Draw,5.75,3.9706904888153076,1,1,1,4.75
+947,,2,Paris SG,Le Havre,Away,7.5,3.2448389530181885,1,1,0,-1.0
+948,,2,Rennes,Le Havre,Home,1.4,1.3527348041534424,1,1,0,-1.0
+949,,2,Clermont,Metz,Draw,3.6,3.075411081314087,1,2,0,-1.0
+949,,2,Clermont,Metz,Away,4.0,2.1552672386169434,1,2,1,3.0
+950,,2,Montpellier,Reims,Away,2.9,1.5637797117233276,1,2,1,1.9
+951,,2,Strasbourg,Toulouse,Home,2.15,1.69648277759552,1,0,1,1.15
+951,,2,Strasbourg,Toulouse,Draw,3.5,2.976300001144409,1,0,0,-1.0
+952,,2,Lorient,Lille,Home,4.0,2.5175106525421143,1,0,1,3.0
+953,,2,Nice,Lyon,Draw,3.6,1.9513945579528809,1,1,1,2.6
+954,,2,Clermont,Nice,Away,1.91,1.6924911737442017,1,2,1,0.9099999999999999
+955,,2,Montpellier,Lille,Home,3.6,1.1907119750976562,1,1,0,-1.0
+956,,2,Clermont,Strasbourg,Home,2.75,2.008972644805908,1,1,0,-1.0
+956,,2,Clermont,Strasbourg,Draw,3.2,2.9734485149383545,1,1,1,2.2
+957,,2,Lorient,Le Havre,Home,2.9,2.2247838973999023,1,1,0,-1.0
+958,,2,Reims,Nantes,Away,4.33,1.34502375125885,1,1,0,-1.0
+959,,2,Toulouse,Lens,Away,2.0,1.7200672626495361,1,2,1,1.0
+960,,2,Paris SG,Brest,Away,7.5,2.886591911315918,1,1,0,-1.0
+961,,2,Metz,Lille,Draw,3.75,3.418229579925537,1,2,0,-1.0
+962,,2,Clermont,Reims,Home,3.75,2.426248073577881,1,0,1,2.75
+962,,2,Clermont,Reims,Draw,3.5,2.954725742340088,1,0,0,-1.0
+963,,2,Lorient,Toulouse,Draw,3.4,2.8752994537353516,1,2,0,-1.0
+964,,2,Strasbourg,Nice,Draw,3.3,2.980639934539795,1,2,0,-1.0
+965,,2,Rennes,Brest,Away,3.3,2.491436004638672,1,2,1,2.3
+966,,2,Lyon,Monaco,Draw,3.75,3.3412230014801025,1,0,0,-1.0
+966,,2,Lyon,Monaco,Away,2.55,1.8900474309921265,1,0,0,-1.0
+967,,2,Marseille,Lens,Home,2.4,1.5201603174209595,1,0,1,1.4
+968,,2,Reims,Lorient,Home,1.67,1.265793800354004,1,0,1,0.6699999999999999
+969,,2,Lens,Nantes,Home,1.57,1.1107279062271118,1,0,1,0.5700000000000001
+970,,2,Lille,Lens,Home,2.05,1.8417433500289917,1,0,1,1.0499999999999998
+971,,2,Strasbourg,Lens,Home,3.5,3.1101109981536865,1,2,0,-1.0
+971,,2,Strasbourg,Lens,Draw,3.4,2.915734052658081,1,2,0,-1.0
+972,,2,Brest,Paris SG,Away,1.53,1.1842070817947388,1,2,1,0.53
+973,,2,Lille,Monaco,Home,2.25,1.798628807067871,1,0,1,1.25
+974,,2,Metz,Le Havre,Home,2.5,1.6391749382019043,1,1,0,-1.0
+975,,2,Montpellier,Toulouse,Draw,4.0,3.2038936614990234,1,0,0,-1.0
+976,,2,Rennes,Strasbourg,Draw,4.0,2.8097004890441895,1,1,1,3.0
+976,,2,Rennes,Strasbourg,Away,6.0,5.2309064865112305,1,1,0,-1.0
+977,,2,Montpellier,Clermont,Home,1.91,1.398914098739624,1,1,0,-1.0
+978,,2,Metz,Monaco,Home,5.25,2.453770160675049,1,2,0,-1.0
+979,,2,Lyon,Reims,Draw,3.6,2.0922720432281494,1,1,1,2.6
+979,,2,Lyon,Reims,Away,3.5,2.9040281772613525,1,1,0,-1.0
+980,,2,Clermont,Paris SG,Away,1.44,1.1459439992904663,1,1,0,-1.0
+981,,2,Monaco,Marseille,Home,2.15,1.5304781198501587,1,0,1,1.15
+982,,2,Lorient,Brest,Home,4.2,2.074946641921997,1,2,0,-1.0
+982,,2,Lorient,Brest,Draw,3.3,2.5904455184936523,1,2,0,-1.0
+983,,2,Clermont,Toulouse,Away,2.3,1.8952652215957642,1,2,1,1.2999999999999998
+984,,2,Le Havre,Montpellier,Away,2.8,1.6621387004852295,1,2,1,1.7999999999999998
+985,,2,Nice,Nantes,Draw,3.5,3.194086790084839,1,2,0,-1.0
+985,,2,Nice,Nantes,Away,5.25,3.9697556495666504,1,2,1,4.25
+986,,2,Strasbourg,Rennes,Home,3.1,1.1463267803192139,1,0,1,2.1
+987,,2,Marseille,Paris SG,Home,3.25,1.4511306285858154,1,2,0,-1.0
+988,,3,Lazio,Milan,Draw,3.2,3.0830657482147217,1,2,0,-1.0
+988,,3,Lazio,Milan,Away,2.2,1.9298772811889648,1,2,1,1.2000000000000002
+989,,3,Bologna,Salernitana,Away,10.0,8.16794490814209,1,0,0,-1.0
+990,,3,Cagliari,Verona,Draw,3.2,2.1921439170837402,1,1,1,2.2
+990,,3,Cagliari,Verona,Away,3.6,2.156132221221924,1,1,0,-1.0
+991,,3,Sassuolo,Udinese,Home,2.75,2.392421245574951,1,1,0,-1.0
+991,,3,Sassuolo,Udinese,Draw,3.25,2.9052574634552,1,1,1,2.25
+992,,3,Lecce,Roma,Draw,3.5,2.24114990234375,1,1,1,2.5
+993,,3,Inter,Empoli,Draw,7.0,4.95770788192749,1,0,0,-1.0
+994,,3,Sassuolo,Verona,Home,2.0,1.8527833223342896,1,0,1,1.0
+994,,3,Sassuolo,Verona,Draw,3.6,2.7095725536346436,1,0,0,-1.0
+995,,3,Roma,Milan,Away,2.63,1.575833797454834,1,2,1,1.63
+996,,3,Bologna,Empoli,Home,1.62,1.384195327758789,1,0,1,0.6200000000000001
+997,,3,Udinese,Genoa,Away,3.2,1.500172734260559,1,1,0,-1.0
+998,,3,Atalanta,Juventus,Draw,3.4,3.3791069984436035,1,1,1,2.4
+998,,3,Atalanta,Juventus,Away,2.8,1.6785143613815308,1,1,0,-1.0
+999,,3,Roma,Frosinone,Home,1.44,1.1042264699935913,1,0,1,0.43999999999999995
+1000,,3,Monza,Juventus,Away,1.95,1.1517560482025146,1,2,1,0.95
+1001,,3,Lecce,Fiorentina,Home,3.75,2.272583246231079,1,0,1,2.75
+1001,,3,Lecce,Fiorentina,Draw,3.2,3.1880717277526855,1,0,0,-1.0
+1002,,3,Udinese,Salernitana,Home,1.65,1.3502153158187866,1,1,0,-1.0
+1003,,3,Monza,Roma,Away,2.05,1.6065958738327026,1,2,1,1.0499999999999998
+1004,,3,Torino,Fiorentina,Draw,3.0,2.4281411170959473,1,1,1,2.0
+1005,,3,Atalanta,Fiorentina,Draw,4.75,3.675809860229492,1,2,0,-1.0
+1005,,3,Atalanta,Fiorentina,Away,6.0,3.5923638343811035,1,2,1,5.0
+1006,,3,Bologna,Cagliari,Home,1.7,1.2699756622314453,1,0,1,0.7
+1007,,3,Udinese,Frosinone,Home,1.8,1.449691891670227,1,1,0,-1.0
+1008,,3,Atalanta,Monza,Home,1.62,1.348177194595337,1,0,1,0.6200000000000001
+1009,,3,Napoli,Lazio,Draw,4.0,1.7882695198059082,1,2,0,-1.0
+1010,,3,Sassuolo,Monza,Draw,3.75,3.1402180194854736,1,2,0,-1.0
+1011,,3,Torino,Verona,Draw,3.5,1.8759300708770752,1,1,1,2.5
+1012,,3,Fiorentina,Cagliari,Draw,4.2,2.4818811416625977,1,0,0,-1.0
+1012,,3,Fiorentina,Cagliari,Away,7.0,2.4172911643981934,1,0,0,-1.0
+1013,,3,Genoa,Empoli,Draw,3.6,1.4623017311096191,1,1,1,2.6
+1014,,3,Lazio,Cagliari,Home,1.62,1.4232733249664307,1,0,1,0.6200000000000001
+1015,,3,Milan,Frosinone,Draw,4.5,3.9629433155059814,1,0,0,-1.0
+1016,,3,Empoli,Genoa,Home,3.0,2.925666332244873,1,1,0,-1.0
+1016,,3,Empoli,Genoa,Draw,3.0,2.215704917907715,1,1,1,2.0
+1017,,3,Udinese,Monza,Draw,3.3,2.500725030899048,1,1,1,2.3
+1017,,3,Udinese,Monza,Away,3.3,3.185530185699463,1,1,0,-1.0
+1018,,3,Frosinone,Milan,Home,5.0,4.766048908233643,1,2,0,-1.0
+1019,,3,Bologna,Sassuolo,Draw,3.75,2.587791919708252,1,0,0,-1.0
+1019,,3,Bologna,Sassuolo,Away,5.0,4.226047992706299,1,0,0,-1.0
+1020,,3,Verona,Sassuolo,Home,2.2,1.5057775974273682,1,0,1,1.2000000000000002
+1021,,3,Empoli,Cagliari,Draw,3.25,2.6195051670074463,1,2,0,-1.0
+1021,,3,Empoli,Cagliari,Away,3.6,2.302494525909424,1,2,1,2.6
+1022,,3,Frosinone,Lecce,Home,2.25,1.8284242153167725,1,1,0,-1.0
+1023,,3,Atalanta,Bologna,Away,4.2,1.5238059759140015,1,2,1,3.2
+1024,,3,Napoli,Juventus,Home,2.38,1.3267003297805786,1,0,1,1.38
+1025,,3,Torino,Bologna,Draw,2.8,1.6255797147750854,1,1,1,1.7999999999999998
+1026,,3,Inter,Fiorentina,Home,1.65,1.231366753578186,1,0,1,0.6499999999999999
+1027,,3,Torino,Genoa,Home,2.0,1.973317265510559,1,0,1,1.0
+1027,,3,Torino,Genoa,Draw,3.3,2.923393726348877,1,0,0,-1.0
+1028,,3,Empoli,Juventus,Away,1.67,1.2941838502883911,1,2,1,0.6699999999999999
+1029,,3,Lecce,Salernitana,Draw,3.3,2.118983030319214,1,0,0,-1.0
+1030,,3,Bologna,Lazio,Home,2.63,2.0936367511749268,1,0,1,1.63
+1030,,3,Bologna,Lazio,Draw,3.2,2.542365789413452,1,0,0,-1.0
+1031,,3,Lecce,Bologna,Draw,3.2,2.308893918991089,1,1,1,2.2
+1032,,3,Fiorentina,Salernitana,Home,1.45,1.1245744228363037,1,0,1,0.44999999999999996
+1033,,3,Udinese,Verona,Home,1.7,1.6462345123291016,1,1,0,-1.0
+1034,,3,Sassuolo,Roma,Away,1.91,1.2537202835083008,1,2,1,0.9099999999999999
+1035,,3,Napoli,Inter,Draw,3.5,2.284532308578491,1,2,0,-1.0
+1036,,3,Torino,Salernitana,Draw,4.0,1.6955492496490479,1,1,1,3.0
+1036,,3,Torino,Salernitana,Away,7.5,3.9233834743499756,1,1,0,-1.0
+1037,,3,Napoli,Verona,Home,1.4,1.3915513753890991,1,0,1,0.3999999999999999
+1037,,3,Napoli,Verona,Draw,4.5,3.989042282104492,1,0,0,-1.0
+1038,,3,Atalanta,Lazio,Home,2.05,1.8860933780670166,1,0,1,1.0499999999999998
+1038,,3,Atalanta,Lazio,Draw,3.4,2.9741475582122803,1,0,0,-1.0
+1039,,3,Inter,Juventus,Draw,3.5,2.7119500637054443,1,0,0,-1.0
+1040,,3,Inter,Genoa,Draw,5.75,4.797309398651123,1,0,0,-1.0
+1041,,3,Monza,Lazio,Home,4.33,3.983637809753418,1,1,0,-1.0
+1042,,3,Sassuolo,Inter,Home,6.0,2.0036418437957764,1,0,1,5.0
+1042,,3,Sassuolo,Inter,Draw,4.5,2.7839298248291016,1,0,0,-1.0
+1043,,3,Salernitana,Napoli,Away,1.44,1.2776926755905151,1,2,1,0.43999999999999995
+1044,,3,Atalanta,Inter,Draw,3.5,3.030853509902954,1,2,0,-1.0
+1045,,3,Milan,Udinese,Home,1.45,1.270808219909668,1,2,0,-1.0
+1046,,3,Torino,Atalanta,Home,2.9,2.6816115379333496,1,0,1,1.9
+1046,,3,Torino,Atalanta,Draw,3.2,2.881861925125122,1,0,0,-1.0
+1047,,3,Bologna,Genoa,Home,2.05,1.5495282411575317,1,1,0,-1.0
+1048,,3,Roma,Cagliari,Draw,4.33,3.3420000076293945,1,0,0,-1.0
+1049,,3,Salernitana,Sassuolo,Draw,3.5,2.676586627960205,1,1,1,2.5
+1049,,3,Salernitana,Sassuolo,Away,2.2,1.9342316389083862,1,1,0,-1.0
+1050,,3,Cagliari,Lecce,Home,2.15,1.7086904048919678,1,1,0,-1.0
+1051,,3,Empoli,Frosinone,Draw,3.3,2.438962697982788,1,1,1,2.3
+1051,,3,Empoli,Frosinone,Away,3.1,2.0654635429382324,1,1,0,-1.0
+1052,,3,Verona,Fiorentina,Home,3.1,2.1508216857910156,1,0,1,2.1
+1052,,3,Verona,Fiorentina,Draw,3.3,3.1199262142181396,1,0,0,-1.0
+1053,,3,Milan,Genoa,Draw,4.5,3.0233094692230225,1,1,1,3.5
+1054,,3,Roma,Juventus,Draw,3.1,2.8725528717041016,1,1,1,2.1
+1055,,3,Verona,Monza,Away,2.3,1.4689507484436035,1,2,1,1.2999999999999998
+1056,,3,Cagliari,Genoa,Home,2.7,2.500542402267456,1,0,1,1.7000000000000002
+1056,,3,Cagliari,Genoa,Draw,3.2,2.424807071685791,1,0,0,-1.0
+1057,,3,Roma,Lecce,Draw,3.8,3.7833950519561768,1,0,0,-1.0
+1058,,3,Fiorentina,Juventus,Draw,3.2,1.847357988357544,1,2,0,-1.0
+1059,,3,Inter,Verona,Home,1.17,1.1487609148025513,1,0,1,0.16999999999999993
+1060,,3,Frosinone,Monza,Home,2.63,2.269435405731201,1,2,0,-1.0
+1060,,3,Frosinone,Monza,Draw,3.3,2.9271461963653564,1,2,0,-1.0
+1061,,3,Lecce,Cagliari,Draw,3.25,2.0496320724487305,1,1,1,2.25
+1062,,3,Sassuolo,Fiorentina,Draw,3.5,1.8929980993270874,1,0,0,-1.0
+1063,,3,Milan,Lecce,Away,8.5,3.66760516166687,1,0,0,-1.0
+1064,,3,Roma,Lazio,Home,2.2,2.0343236923217773,1,0,1,1.2000000000000002
+1064,,3,Roma,Lazio,Draw,3.1,2.7491824626922607,1,0,0,-1.0
+1065,,3,Empoli,Torino,Home,3.5,3.010441780090332,1,0,1,2.5
+1065,,3,Empoli,Torino,Draw,3.2,2.707975387573242,1,0,0,-1.0
+1066,,3,Salernitana,Atalanta,Draw,5.5,3.475611686706543,1,2,0,-1.0
+1067,,3,Udinese,Napoli,Away,1.95,1.6374927759170532,1,1,0,-1.0
+1068,,3,Empoli,Udinese,Home,3.1,1.8121141195297241,1,1,0,-1.0
+1068,,3,Empoli,Udinese,Draw,3.25,2.9617276191711426,1,1,1,2.25
+1069,,3,Lecce,Sassuolo,Home,2.55,1.5199031829833984,1,1,0,-1.0
+1070,,3,Frosinone,Empoli,Draw,3.6,2.428697347640991,1,0,0,-1.0
+1071,,3,Torino,Sassuolo,Home,2.15,1.5929546356201172,1,0,1,1.15
+1072,,3,Empoli,Milan,Away,1.67,1.262116551399231,1,2,1,0.6699999999999999
+1073,,3,Torino,Napoli,Home,2.9,2.108738422393799,1,0,1,1.9
+1074,,3,Udinese,Lazio,Draw,3.2,1.9255452156066895,1,2,0,-1.0
+1075,,3,Salernitana,Juventus,Home,7.5,3.563260316848755,1,2,0,-1.0
+1075,,3,Salernitana,Juventus,Draw,4.5,3.0608723163604736,1,2,0,-1.0
+1076,,3,Roma,Atalanta,Home,2.4,1.9237799644470215,1,1,0,-1.0
+1076,,3,Roma,Atalanta,Draw,3.2,2.892385482788086,1,1,1,2.2
+1077,,3,Frosinone,Bologna,Away,1.91,1.7592248916625977,1,1,0,-1.0
+1078,,3,Monza,Napoli,Away,1.85,1.2752094268798828,1,2,1,0.8500000000000001
+1079,,3,Cagliari,Atalanta,Home,4.75,3.4248123168945312,1,0,1,3.75
+1079,,3,Cagliari,Atalanta,Draw,3.8,2.3775248527526855,1,0,0,-1.0
+1080,,3,Verona,Genoa,Away,2.8,1.732851266860962,1,2,1,1.7999999999999998
+1081,,3,Juventus,Fiorentina,Draw,3.4,2.924738645553589,1,0,0,-1.0
+1083,,3,Juventus,Torino,Home,1.91,1.2814067602157593,1,0,1,0.9099999999999999
+1084,,3,Genoa,Milan,Draw,3.5,2.394655227661133,1,2,0,-1.0
+1085,,3,Napoli,Torino,Home,1.75,1.5477125644683838,1,1,0,-1.0
+1086,,3,Udinese,Inter,Draw,4.5,2.0331838130950928,1,2,0,-1.0
+1087,,3,Monza,Salernitana,Away,5.0,2.7901766300201416,1,0,0,-1.0
+1088,,3,Frosinone,Verona,Draw,3.3,2.488250255584717,1,0,0,-1.0
+1088,,3,Frosinone,Verona,Away,3.1,2.53863263130188,1,0,0,-1.0
+1089,,3,Lazio,Atalanta,Draw,3.3,2.710690975189209,1,0,0,-1.0
+1090,,3,Cagliari,Roma,Away,1.83,1.3026745319366455,1,2,1,0.8300000000000001
+1091,,3,Napoli,Fiorentina,Draw,4.2,3.1001317501068115,1,2,0,-1.0
+1092,,3,Juventus,Napoli,Draw,3.25,2.0561254024505615,1,0,0,-1.0
+1093,,3,Salernitana,Empoli,Home,2.38,1.9503313302993774,1,2,0,-1.0
+1093,,3,Salernitana,Empoli,Draw,3.2,2.680349588394165,1,2,0,-1.0
+1094,,3,Cagliari,Salernitana,Home,1.83,1.6113733053207397,1,0,1,0.8300000000000001
+1095,,3,Sassuolo,Frosinone,Home,2.2,1.553495168685913,1,0,1,1.2000000000000002
+1095,,3,Sassuolo,Frosinone,Draw,3.6,3.5851263999938965,1,0,0,-1.0
+1096,,3,Bologna,Inter,Away,2.15,1.5549670457839966,1,2,1,1.15
+1097,,3,Genoa,Monza,Draw,3.2,2.967602252960205,1,2,0,-1.0
+1097,,3,Genoa,Monza,Away,3.5,2.049560546875,1,2,1,2.5
+1098,,3,Verona,Lazio,Away,1.95,1.4337613582611084,1,1,0,-1.0
+1099,,3,Atalanta,Milan,Home,2.5,2.2369375228881836,1,0,1,1.5
+1099,,3,Atalanta,Milan,Draw,3.2,2.8106794357299805,1,0,0,-1.0
+1100,,3,Inter,Udinese,Home,1.29,1.0786113739013672,1,0,1,0.29000000000000004
+1101,,3,Cagliari,Lazio,Home,3.5,3.397639274597168,1,2,0,-1.0
+1101,,3,Cagliari,Lazio,Away,2.15,2.099583625793457,1,2,1,1.15
+1102,,3,Roma,Inter,Away,1.91,1.602104663848877,1,2,1,0.9099999999999999
+1103,,3,Sassuolo,Torino,Home,3.4,2.326164960861206,1,1,0,-1.0
+1103,,3,Sassuolo,Torino,Draw,3.3,2.4081718921661377,1,1,1,2.3
+1104,,3,Lecce,Verona,Draw,3.25,3.066455602645874,1,2,0,-1.0
+1104,,3,Lecce,Verona,Away,3.4,2.3691463470458984,1,2,1,2.4
+1105,,3,Milan,Empoli,Draw,5.0,3.590482711791992,1,0,0,-1.0
+1106,,3,Juventus,Atalanta,Draw,3.3,2.5705642700195312,1,1,1,2.3
+1106,,3,Juventus,Atalanta,Away,3.3,3.0322868824005127,1,1,0,-1.0
+1107,,3,Fiorentina,Roma,Draw,3.3,2.954798460006714,1,1,1,2.3
+1107,,3,Fiorentina,Roma,Away,2.75,2.182307243347168,1,1,0,-1.0
+1108,,3,Frosinone,Inter,Home,4.5,3.0739171504974365,1,2,0,-1.0
+1109,,3,Sassuolo,Salernitana,Home,1.65,1.335436224937439,1,1,0,-1.0
+1110,,3,Genoa,Verona,Home,1.91,1.2691909074783325,1,0,1,0.9099999999999999
+1111,,3,Frosinone,Torino,Home,3.4,1.8063935041427612,1,1,0,-1.0
+1112,,3,Monza,Genoa,Home,2.15,1.184422254562378,1,0,1,1.15
+1113,,3,Salernitana,Bologna,Away,2.05,1.4568456411361694,1,2,1,1.0499999999999998
+1114,,3,Roma,Fiorentina,Away,3.5,1.270917534828186,1,1,0,-1.0
+1115,,3,Fiorentina,Frosinone,Draw,4.33,3.436950922012329,1,0,0,-1.0
+1116,,3,Bologna,Lecce,Home,1.73,1.5118898153305054,1,0,1,0.73
+1117,,3,Monza,Verona,Draw,3.4,2.0322813987731934,1,1,1,2.4
+1118,,3,Genoa,Atalanta,Away,2.05,1.4790321588516235,1,2,1,1.0499999999999998
+1119,,3,Milan,Napoli,Home,1.95,1.3370035886764526,1,0,1,0.95
+1120,,3,Lazio,Udinese,Draw,3.5,2.8497467041015625,1,2,0,-1.0
+1121,,3,Napoli,Bologna,Draw,3.4,3.000553846359253,1,2,0,-1.0
+1123,,3,Lecce,Milan,Away,1.75,1.5510540008544922,1,1,0,-1.0
+1124,,3,Juventus,Cagliari,Draw,5.0,2.7431764602661133,1,0,0,-1.0
+1127,,3,Cagliari,Sassuolo,Draw,3.5,3.035330295562744,1,0,0,-1.0
+1127,,3,Cagliari,Sassuolo,Away,3.0,2.7045671939849854,1,0,0,-1.0
+1128,,3,Juventus,Udinese,Home,1.44,1.0983492136001587,1,2,0,-1.0
+1129,,3,Lazio,Salernitana,Draw,5.0,4.410315036773682,1,0,0,-1.0
+1129,,3,Lazio,Salernitana,Away,9.5,3.453662157058716,1,0,0,-1.0
+1130,,3,Lazio,Empoli,Home,1.57,1.3516392707824707,1,0,1,0.5700000000000001
+1131,,3,Genoa,Sassuolo,Draw,3.5,3.3222689628601074,1,0,0,-1.0
+1131,,3,Genoa,Sassuolo,Away,3.2,2.6777148246765137,1,0,0,-1.0
+1132,,3,Verona,Torino,Home,3.0,2.0936594009399414,1,2,0,-1.0
+1133,,3,Juventus,Salernitana,Draw,8.5,4.177793979644775,1,1,1,7.5
+1133,,3,Juventus,Salernitana,Away,17.0,9.897414207458496,1,1,0,-1.0
+1134,,3,Atalanta,Roma,Away,3.6,1.6885085105895996,1,0,0,-1.0
+1136,,3,Fiorentina,Bologna,Draw,3.4,2.5425920486450195,1,0,0,-1.0
+1137,,3,Udinese,Atalanta,Home,3.75,2.695101737976074,1,1,0,-1.0
+1137,,3,Udinese,Atalanta,Draw,3.5,2.4266018867492676,1,1,1,2.5
+1138,,3,Lazio,Roma,Draw,3.0,2.1094717979431152,1,1,1,2.0
+1139,,3,Inter,Frosinone,Draw,8.0,5.956187725067139,1,0,0,-1.0
+1139,,3,Inter,Frosinone,Away,13.0,9.37272834777832,1,0,0,-1.0
+1140,,3,Genoa,Torino,Home,2.9,1.5358786582946777,1,1,0,-1.0
+1142,,3,Verona,Empoli,Home,2.15,1.297542929649353,1,0,1,1.15
+1143,,3,Monza,Inter,Away,1.5,1.280819296836853,1,2,1,0.5
+1144,,3,Lecce,Empoli,Home,2.25,1.1612458229064941,1,0,1,1.25
+1145,,3,Torino,Juventus,Away,2.2,1.6757843494415283,1,1,0,-1.0
+1146,,3,Bologna,Monza,Home,1.55,1.1656956672668457,1,1,0,-1.0
+1147,,3,Lecce,Udinese,Home,2.63,2.3596768379211426,1,2,0,-1.0
+1147,,3,Lecce,Udinese,Draw,3.1,2.5126230716705322,1,2,0,-1.0
+1148,,3,Fiorentina,Monza,Home,1.55,1.1581670045852661,1,0,1,0.55
+1149,,3,Lazio,Lecce,Draw,3.6,3.475389003753662,1,0,0,-1.0
+1149,,3,Lazio,Lecce,Away,5.75,3.7918567657470703,1,0,0,-1.0
+1150,,3,Cagliari,Bologna,Home,3.0,2.857175350189209,1,0,1,2.0
+1150,,3,Cagliari,Bologna,Draw,3.1,2.919342279434204,1,0,0,-1.0
+1151,,3,Fiorentina,Udinese,Draw,3.75,3.2102396488189697,1,1,1,2.75
+1151,,3,Fiorentina,Udinese,Away,5.5,2.2970988750457764,1,1,0,-1.0
+1152,,3,Milan,Roma,Draw,3.2,2.941751480102539,1,0,0,-1.0
+1152,,3,Milan,Roma,Away,3.5,2.699315071105957,1,0,0,-1.0
+1153,,3,Bologna,Fiorentina,Home,2.3,1.9355629682540894,1,0,1,1.2999999999999998
+1153,,3,Bologna,Fiorentina,Draw,3.2,3.1458425521850586,1,0,0,-1.0
+1154,,3,Napoli,Frosinone,Away,8.0,5.567055702209473,1,1,0,-1.0
+1155,,3,Sassuolo,Milan,Home,4.5,3.635464906692505,1,1,0,-1.0
+1156,,3,Inter,Cagliari,Away,12.0,8.382594108581543,1,1,0,-1.0
+1158,,3,Empoli,Bologna,Away,2.0,1.105506420135498,1,2,1,1.0
+1159,,3,Fiorentina,Genoa,Draw,3.5,2.0155181884765625,1,1,1,2.5
+1159,,3,Fiorentina,Genoa,Away,4.33,3.514620304107666,1,1,0,-1.0
+1160,,3,Atalanta,Verona,Home,1.45,1.2621910572052002,1,1,0,-1.0
+1161,,3,Genoa,Juventus,Home,4.75,3.649345874786377,1,1,0,-1.0
+1161,,3,Genoa,Juventus,Draw,3.2,2.830702304840088,1,1,1,2.2
+1162,,3,Juventus,Sassuolo,Home,1.4,1.3180917501449585,1,0,1,0.3999999999999999
+1163,,3,Torino,Lecce,Away,4.75,4.220324993133545,1,0,0,-1.0
+1164,,3,Inter,Salernitana,Home,1.14,1.0287744998931885,1,0,1,0.1399999999999999
+1165,,3,Monza,Cagliari,Home,2.05,1.8622397184371948,1,0,1,1.0499999999999998
+1165,,3,Monza,Cagliari,Draw,3.5,2.2598414421081543,1,0,0,-1.0
+1166,,3,Udinese,Torino,Away,2.8,1.4984327554702759,1,2,1,1.7999999999999998
+1167,,3,Salernitana,Lecce,Home,2.9,1.9315404891967773,1,2,0,-1.0
+1168,,3,Frosinone,Lazio,Away,2.15,1.542140007019043,1,2,1,1.15
+1169,,3,Juventus,Lazio,Home,1.91,1.7130197286605835,1,0,1,0.9099999999999999
+1170,,3,Inter,Milan,Home,2.15,1.2838966846466064,1,0,1,1.15
+1171,,3,Genoa,Napoli,Home,5.5,5.200131893157959,1,1,0,-1.0
+1171,,3,Genoa,Napoli,Draw,3.8,3.0060245990753174,1,1,1,2.8
+1172,,3,Lecce,Frosinone,Draw,3.3,2.8157131671905518,1,0,0,-1.0
+1172,,3,Lecce,Frosinone,Away,3.5,3.3477022647857666,1,0,0,-1.0
+1173,,3,Napoli,Cagliari,Draw,5.0,2.9576189517974854,1,0,0,-1.0
+1173,,3,Napoli,Cagliari,Away,9.5,8.100752830505371,1,0,0,-1.0
+1174,,3,Torino,Empoli,Draw,3.8,2.6432790756225586,1,0,0,-1.0
+1175,,3,Napoli,Genoa,Draw,3.75,2.205146551132202,1,1,1,2.75
+1175,,3,Napoli,Genoa,Away,6.0,3.58505916595459,1,1,0,-1.0
+1176,,3,Verona,Juventus,Home,5.75,1.6237043142318726,1,1,0,-1.0
+1177,,3,Atalanta,Sassuolo,Home,1.36,1.233526587486267,1,0,1,0.3600000000000001
+1178,,3,Juventus,Genoa,Draw,4.0,1.9835201501846313,1,1,1,3.0
+1178,,3,Juventus,Genoa,Away,7.0,4.551268100738525,1,1,0,-1.0
+1179,,3,Verona,Milan,Draw,3.75,3.122933864593506,1,2,0,-1.0
+1180,,3,Roma,Sassuolo,Home,1.36,1.2234340906143188,1,0,1,0.3600000000000001
+1181,,3,Inter,Napoli,Draw,4.0,3.76522159576416,1,1,1,3.0
+1182,,3,Fiorentina,Napoli,Home,2.25,1.7367103099822998,1,1,0,-1.0
+1183,,3,Cagliari,Udinese,Draw,3.3,1.647595763206482,1,1,1,2.3
+1184,,3,Frosinone,Sassuolo,Away,2.5,2.1775662899017334,1,0,0,-1.0
+1185,,3,Monza,Lecce,Draw,3.4,2.7071731090545654,1,1,1,2.4
+1185,,3,Monza,Lecce,Away,3.5,2.6693620681762695,1,1,0,-1.0
+1186,,3,Fiorentina,Atalanta,Home,2.38,1.9306241273880005,1,0,1,1.38
+1187,,3,Roma,Empoli,Home,1.44,1.096964955329895,1,0,1,0.43999999999999995
+1188,,3,Milan,Monza,Home,1.62,1.2897639274597168,1,0,1,0.6200000000000001
+1189,,3,Fiorentina,Verona,Draw,5.0,3.696953296661377,1,0,0,-1.0
+1189,,3,Fiorentina,Verona,Away,7.0,3.700951337814331,1,0,0,-1.0
+1190,,3,Udinese,Sassuolo,Home,2.25,1.5866901874542236,1,1,0,-1.0
+1191,,3,Bologna,Roma,Draw,3.0,2.4152159690856934,1,0,0,-1.0
+1191,,3,Bologna,Roma,Away,3.25,2.783054828643799,1,0,0,-1.0
+1192,,3,Lazio,Inter,Home,4.75,4.3363800048828125,1,2,0,-1.0
+1192,,3,Lazio,Inter,Draw,3.8,3.0808348655700684,1,2,0,-1.0
+1193,,3,Lazio,Bologna,Home,2.3,1.3497645854949951,1,2,0,-1.0
+1194,,3,Empoli,Fiorentina,Home,3.75,2.692244291305542,1,1,0,-1.0
+1195,,3,Udinese,Cagliari,Draw,3.6,1.8702385425567627,1,1,1,2.6
+1196,,3,Frosinone,Roma,Draw,3.75,2.679394245147705,1,2,0,-1.0
+1197,,3,Monza,Milan,Home,4.75,3.220712184906006,1,0,1,3.75
+1197,,3,Monza,Milan,Draw,3.5,2.6275484561920166,1,0,0,-1.0
+1198,,3,Lecce,Atalanta,Away,1.75,1.3434561491012573,1,2,1,0.75
+1199,,3,Torino,Milan,Home,2.8,2.0406596660614014,1,0,1,1.7999999999999998
+1199,,3,Torino,Milan,Draw,3.2,2.7656564712524414,1,0,0,-1.0
+1200,,3,Salernitana,Torino,Home,3.6,2.487393856048584,1,2,0,-1.0
+1200,,3,Salernitana,Torino,Draw,3.25,2.8168280124664307,1,2,0,-1.0
+1201,,3,Verona,Bologna,Draw,3.3,2.40751576423645,1,1,1,2.3
+1201,,3,Verona,Bologna,Away,2.38,1.8962733745574951,1,1,0,-1.0
+1202,,3,Atalanta,Salernitana,Home,1.3,1.1215981245040894,1,0,1,0.30000000000000004
+1203,,3,Genoa,Lazio,Home,3.1,2.1475720405578613,1,2,0,-1.0
+1203,,3,Genoa,Lazio,Draw,3.1,2.3800506591796875,1,2,0,-1.0
+1204,,3,Cagliari,Juventus,Home,5.0,2.136904239654541,1,1,0,-1.0
+1205,,3,Sassuolo,Cagliari,Draw,3.3,3.061903238296509,1,2,0,-1.0
+1205,,3,Sassuolo,Cagliari,Away,3.1,1.5604056119918823,1,2,1,2.1
+1206,,3,Monza,Frosinone,Draw,3.4,3.098973035812378,1,2,0,-1.0
+1206,,3,Monza,Frosinone,Away,2.3,1.6905847787857056,1,2,1,1.2999999999999998
+1207,,3,Udinese,Empoli,Draw,3.4,2.2544426918029785,1,1,1,2.4
+1208,,3,Inter,Lazio,Home,1.62,1.473905086517334,1,1,0,-1.0
+1209,,3,Roma,Genoa,Draw,4.2,2.0929157733917236,1,0,0,-1.0
+1210,,3,Empoli,Verona,Draw,3.2,2.2376697063446045,1,2,0,-1.0
+1211,,3,Frosinone,Napoli,Away,1.36,1.0994794368743896,1,2,1,0.3600000000000001
+1212,,3,Genoa,Fiorentina,Away,2.2,1.6334538459777832,1,2,1,1.2000000000000002
+1213,,3,Inter,Monza,Draw,5.0,2.2926125526428223,1,0,0,-1.0
+1214,,3,Roma,Verona,Home,1.44,1.4324697256088257,1,0,1,0.43999999999999995
+1216,,3,Empoli,Napoli,Draw,4.0,1.930530071258545,1,0,0,-1.0
+1217,,3,Verona,Udinese,Home,2.55,1.188950538635254,1,0,1,1.5499999999999998
+1218,,3,Salernitana,Verona,Away,1.7,1.4201093912124634,1,2,1,0.7
+1219,,3,Bologna,Juventus,Home,2.45,1.921484112739563,1,1,0,-1.0
+1220,,3,Roma,Salernitana,Draw,4.0,2.1147851943969727,1,1,1,3.0
+1221,,3,Sassuolo,Atalanta,Draw,3.4,2.598153829574585,1,2,0,-1.0
+1222,,3,Lecce,Lazio,Draw,3.3,2.4125149250030518,1,0,0,-1.0
+1223,,3,Udinese,Juventus,Draw,3.6,3.075955390930176,1,2,0,-1.0
+1224,,3,Frosinone,Cagliari,Draw,3.4,2.9444193840026855,1,0,0,-1.0
+1225,,3,Empoli,Monza,Home,2.8,2.456967830657959,1,0,1,1.7999999999999998
+1226,,3,Salernitana,Genoa,Away,2.15,1.3040390014648438,1,2,1,1.15
+1227,,3,Lecce,Juventus,Away,1.65,1.155503511428833,1,2,1,0.6499999999999999
+1228,,3,Sassuolo,Lecce,Away,3.2,1.428965449333191,1,2,1,2.2
+1229,,3,Torino,Frosinone,Draw,3.8,2.3274612426757812,1,1,1,2.8
+1229,,3,Torino,Frosinone,Away,5.25,2.956623077392578,1,1,0,-1.0
+1230,,3,Salernitana,Fiorentina,Away,1.67,1.1987621784210205,1,2,1,0.6699999999999999
+1231,,3,Monza,Atalanta,Away,1.85,1.2401373386383057,1,2,1,0.8500000000000001
+1232,,3,Torino,Cagliari,Draw,3.75,2.0877203941345215,1,1,1,2.75
+1232,,3,Torino,Cagliari,Away,5.25,4.1288275718688965,1,1,0,-1.0
+1233,,3,Bologna,Milan,Away,1.95,1.504176139831543,1,2,1,0.95
+1234,,3,Verona,Napoli,Home,5.5,3.6649904251098633,1,2,0,-1.0
+1235,,3,Torino,Inter,Home,5.5,4.430822849273682,1,2,0,-1.0
+1235,,3,Torino,Inter,Draw,3.6,3.077341318130493,1,2,0,-1.0
+1236,,3,Sassuolo,Lazio,Away,2.5,1.7738094329833984,1,2,1,1.5
+1237,,3,Torino,Lazio,Away,3.25,1.8903082609176636,1,2,1,2.25
+1238,,3,Roma,Bologna,Home,2.4,1.6759003400802612,1,2,0,-1.0
+1239,,3,Milan,Inter,Home,3.75,2.4271836280822754,1,2,0,-1.0
+1239,,3,Milan,Inter,Draw,3.6,3.0058138370513916,1,2,0,-1.0
+1241,,3,Lecce,Genoa,Home,2.45,2.4437832832336426,1,0,1,1.4500000000000002
+1241,,3,Lecce,Genoa,Draw,3.2,2.3692595958709717,1,0,0,-1.0
+1242,,3,Roma,Monza,Draw,3.6,2.3488950729370117,1,0,0,-1.0
+1242,,3,Roma,Monza,Away,5.25,3.7806851863861084,1,0,0,-1.0
+1243,,3,Bologna,Frosinone,Home,1.73,1.6982414722442627,1,0,1,0.73
+1243,,3,Bologna,Frosinone,Draw,3.75,3.607330799102783,1,0,0,-1.0
+1244,,3,Salernitana,Cagliari,Draw,3.2,2.51714825630188,1,1,1,2.2
+1244,,3,Salernitana,Cagliari,Away,3.5,1.8841910362243652,1,1,0,-1.0
+1245,,3,Atalanta,Genoa,Home,1.55,1.247438669204712,1,0,1,0.55
+1246,,3,Milan,Juventus,Draw,3.4,3.0076136589050293,1,2,0,-1.0
+1246,,3,Milan,Juventus,Away,3.2,1.761344075202942,1,2,1,2.2
+1247,,3,Empoli,Lazio,Away,1.91,1.3763372898101807,1,2,1,0.9099999999999999
+1248,,3,Sassuolo,Genoa,Away,3.25,2.0549933910369873,1,2,1,2.25
+1249,,3,Monza,Fiorentina,Draw,3.2,3.1058576107025146,1,2,0,-1.0
+1249,,3,Monza,Fiorentina,Away,2.55,2.0698564052581787,1,2,1,1.5499999999999998
+1251,,3,Bologna,Verona,Draw,3.8,3.637382984161377,1,0,0,-1.0
+1251,,3,Bologna,Verona,Away,7.0,5.2335662841796875,1,0,0,-1.0
+1252,,3,Cagliari,Fiorentina,Home,4.2,4.100568771362305,1,2,0,-1.0
+1253,,3,Milan,Verona,Home,1.36,1.2165157794952393,1,0,1,0.3600000000000001
+1254,,3,Sassuolo,Juventus,Home,4.0,2.1908957958221436,1,0,1,3.0
+1254,,3,Sassuolo,Juventus,Draw,4.0,2.999281883239746,1,0,0,-1.0
+1255,,3,Lazio,Monza,Draw,3.8,2.5635547637939453,1,1,1,2.8
+1255,,3,Lazio,Monza,Away,4.2,2.2238264083862305,1,1,0,-1.0
+1256,,3,Udinese,Lecce,Home,2.2,1.3011293411254883,1,1,0,-1.0
+1257,,3,Fiorentina,Empoli,Draw,4.33,3.962185859680176,1,2,0,-1.0
+1258,,3,Frosinone,Juventus,Draw,3.75,2.8777894973754883,1,2,0,-1.0
+1259,,3,Bologna,Atalanta,Draw,3.2,1.6935125589370728,1,0,0,-1.0
+1260,,3,Torino,Udinese,Draw,3.5,3.252916097640991,1,1,1,2.5
+1260,,3,Torino,Udinese,Away,5.0,4.993236064910889,1,1,0,-1.0
+1261,,3,Inter,Lecce,Away,11.0,4.06815242767334,1,0,0,-1.0
+1262,,3,Verona,Cagliari,Home,2.38,2.001051187515259,1,0,1,1.38
+1262,,3,Verona,Cagliari,Draw,3.25,3.1790895462036133,1,0,0,-1.0
+1263,,3,Roma,Napoli,Draw,3.1,2.45116925239563,1,0,0,-1.0
+1264,,3,Sassuolo,Empoli,Draw,3.4,3.245682954788208,1,2,0,-1.0
+1264,,3,Sassuolo,Empoli,Away,3.3,2.0186448097229004,1,2,1,2.3
+1265,,3,Salernitana,Monza,Away,2.5,1.681294322013855,1,2,1,1.5
+1266,,3,Genoa,Udinese,Home,2.25,1.8786884546279907,1,0,1,1.25
+1266,,3,Genoa,Udinese,Draw,3.0,2.912670612335205,1,0,0,-1.0
+1267,,3,Genoa,Bologna,Home,3.4,2.4925084114074707,1,0,1,2.4
+1267,,3,Genoa,Bologna,Draw,3.4,2.1966969966888428,1,0,0,-1.0
+1268,,3,Empoli,Inter,Draw,5.25,3.158095598220825,1,2,0,-1.0
+1269,,3,Atalanta,Cagliari,Home,1.4,1.1328226327896118,1,0,1,0.3999999999999999
+1270,,3,Udinese,Fiorentina,Home,3.2,2.576214551925659,1,2,0,-1.0
+1270,,3,Udinese,Fiorentina,Draw,3.5,2.5359599590301514,1,2,0,-1.0
+1272,,3,Torino,Roma,Home,3.1,2.528935194015503,1,1,0,-1.0
+1272,,3,Torino,Roma,Draw,2.9,2.7212331295013428,1,1,1,1.9
+1273,,3,Juventus,Frosinone,Draw,5.5,2.8597426414489746,1,0,0,-1.0
+1273,,3,Juventus,Frosinone,Away,10.0,5.661708354949951,1,0,0,-1.0
+1275,,3,Lecce,Inter,Away,1.44,1.0952733755111694,1,2,1,0.43999999999999995
+1276,,3,Milan,Atalanta,Draw,3.4,3.173344612121582,1,1,1,2.4
+1276,,3,Milan,Atalanta,Away,3.0,2.821791887283325,1,1,0,-1.0
+1277,,3,Udinese,Roma,Home,3.3,3.0479230880737305,1,2,0,-1.0
+1277,,3,Udinese,Roma,Draw,3.4,2.495474338531494,1,2,0,-1.0
+1278,,3,Juventus,Monza,Draw,5.5,4.658364295959473,1,0,0,-1.0
+1278,,3,Juventus,Monza,Away,8.5,7.6460442543029785,1,0,0,-1.0
+1279,,3,Milan,Salernitana,Home,1.18,1.1650714874267578,1,1,0,-1.0
+1280,,3,Salernitana,Lazio,Home,4.75,1.9290703535079956,1,0,1,3.75
+1280,,3,Salernitana,Lazio,Draw,3.75,2.8732340335845947,1,0,0,-1.0
+1281,,3,Atalanta,Napoli,Draw,3.4,2.724684953689575,1,2,0,-1.0
+1282,,3,Milan,Fiorentina,Home,2.1,1.5082581043243408,1,0,1,1.1
+1283,,3,Cagliari,Torino,Home,3.5,1.9777603149414062,1,2,0,-1.0
+1284,,3,Roma,Torino,Away,4.5,2.914522647857666,1,0,0,-1.0
+1285,,3,Fiorentina,Lazio,Home,2.25,1.9011436700820923,1,0,1,1.25
+1285,,3,Fiorentina,Lazio,Draw,3.1,2.748725175857544,1,0,0,-1.0
+1286,,3,Frosinone,Salernitana,Home,1.4,1.2790112495422363,1,0,1,0.3999999999999999
+1287,,3,Atalanta,Torino,Home,3.3,2.0641026496887207,1,0,1,2.3
+1287,,3,Atalanta,Torino,Draw,3.5,2.382777452468872,1,0,0,-1.0
+1288,,3,Napoli,Lecce,Home,1.42,1.2378023862838745,1,1,0,-1.0
+1289,,3,Empoli,Roma,Home,1.95,1.4321712255477905,1,0,1,0.95
+1290,,3,Frosinone,Udinese,Draw,3.25,2.9844167232513428,1,2,0,-1.0
+1290,,3,Frosinone,Udinese,Away,3.0,2.1532232761383057,1,2,1,2.0
+1291,,3,Lazio,Sassuolo,Home,1.36,1.1958892345428467,1,1,0,-1.0
+1292,,3,Verona,Inter,Away,1.53,1.254749059677124,1,1,0,-1.0
+1293,,3,Frosinone,Atalanta,Draw,4.0,2.7902114391326904,1,0,0,-1.0
+1294,,3,Monza,Empoli,Draw,3.5,3.151116132736206,1,0,0,-1.0
+1294,,3,Monza,Empoli,Away,4.2,3.6077001094818115,1,0,0,-1.0
+1295,,3,Milan,Torino,Home,1.65,1.2395973205566406,1,0,1,0.6499999999999999
+1296,,3,Verona,Roma,Home,4.33,4.3284196853637695,1,0,1,3.33
+1297,,3,Juventus,Lecce,Home,1.5,1.13669753074646,1,0,1,0.5
+1298,,3,Cagliari,Monza,Draw,3.25,2.494239330291748,1,1,1,2.25
+1299,,3,Empoli,Sassuolo,Home,2.75,2.136957883834839,1,2,0,-1.0
+1300,,3,Frosinone,Genoa,Home,2.5,1.8829545974731445,1,0,1,1.5
+1301,,3,Roma,Udinese,Home,1.62,1.4214497804641724,1,0,1,0.6200000000000001
+1302,,3,Juventus,Inter,Draw,3.25,3.1928412914276123,1,1,1,2.25
+1302,,3,Juventus,Inter,Away,2.25,1.5327359437942505,1,1,0,-1.0
+1303,,3,Atalanta,Udinese,Home,1.5,1.1133099794387817,1,0,1,0.5
+1304,,3,Juventus,Empoli,Draw,5.5,5.440582752227783,1,1,1,4.5
+1304,,3,Juventus,Empoli,Away,10.0,5.348174571990967,1,1,0,-1.0
+1305,,3,Milan,Bologna,Draw,3.75,3.3577969074249268,1,1,1,2.75
+1305,,3,Milan,Bologna,Away,5.25,4.813892841339111,1,1,0,-1.0
+1306,,3,Lecce,Monza,Home,2.0,1.5214976072311401,1,1,0,-1.0
+1307,,3,Juventus,Milan,Home,2.1,1.3833996057510376,1,1,0,-1.0
+1308,,3,Lazio,Verona,Home,1.62,1.3469929695129395,1,0,1,0.6200000000000001
+1309,,3,Fiorentina,Lecce,Home,1.57,1.2842175960540771,1,1,0,-1.0
+1310,,3,Juventus,Bologna,Draw,4.5,2.920675277709961,1,1,1,3.5
+1310,,3,Juventus,Bologna,Away,6.0,4.406093120574951,1,1,0,-1.0
+1311,,3,Lazio,Genoa,Draw,4.0,2.0340023040771484,1,2,0,-1.0
+1311,,3,Lazio,Genoa,Away,6.0,2.836606025695801,1,2,1,5.0
+1312,,3,Napoli,Sassuolo,Draw,5.5,4.629456520080566,1,0,0,-1.0
+1313,,3,Cagliari,Milan,Home,5.25,3.760059118270874,1,2,0,-1.0
+1313,,3,Cagliari,Milan,Draw,3.8,3.1277151107788086,1,2,0,-1.0
+1314,,3,Empoli,Salernitana,Home,2.3,1.613422155380249,1,0,1,1.2999999999999998
+1315,,3,Verona,Atalanta,Draw,3.75,2.531106472015381,1,2,0,-1.0
+1316,,3,Inter,Sassuolo,Draw,5.5,4.467629909515381,1,2,0,-1.0
+1316,,3,Inter,Sassuolo,Away,8.0,2.254887819290161,1,2,1,7.0
+1317,,3,Lazio,Torino,Home,2.15,1.9308708906173706,1,0,1,1.15
+1317,,3,Lazio,Torino,Draw,3.25,2.881962776184082,1,0,0,-1.0
+1318,,3,Napoli,Udinese,Home,1.36,1.141136646270752,1,0,1,0.3600000000000001
+1319,,3,Genoa,Salernitana,Home,1.73,1.3687061071395874,1,0,1,0.73
+1320,,3,Verona,Lecce,Home,2.75,1.3660043478012085,1,1,0,-1.0
+1321,,3,Bologna,Torino,Draw,3.25,2.8212995529174805,1,0,0,-1.0
+1321,,3,Bologna,Torino,Away,3.2,2.030165910720825,1,0,0,-1.0
+1322,,3,Genoa,Lecce,Home,2.1,1.8554421663284302,1,0,1,1.1
+1323,,3,Monza,Sassuolo,Draw,3.4,2.5522797107696533,1,0,0,-1.0
+1323,,3,Monza,Sassuolo,Away,3.2,1.7879364490509033,1,0,0,-1.0
+1324,,3,Verona,Frosinone,Away,2.9,1.9731173515319824,1,1,0,-1.0
+1325,,3,Lazio,Napoli,Draw,3.3,1.5175026655197144,1,1,1,2.3
+1326,,3,Fiorentina,Inter,Draw,3.6,2.9723563194274902,1,2,0,-1.0
+1327,,3,Sassuolo,Napoli,Away,1.8,1.3158619403839111,1,2,1,0.8
+1328,,3,Inter,Atalanta,Home,1.62,1.1943005323410034,1,0,1,0.6200000000000001
+1329,,3,Inter,Torino,Draw,3.8,3.1405391693115234,1,0,0,-1.0
+1330,,3,Bologna,Udinese,Draw,3.8,2.6315457820892334,1,1,1,2.8
+1330,,3,Bologna,Udinese,Away,6.0,5.445598125457764,1,1,0,-1.0
+1331,,3,Atalanta,Empoli,Draw,4.5,3.6771771907806396,1,0,0,-1.0
+1332,,3,Napoli,Roma,Home,1.95,1.6940370798110962,1,1,0,-1.0
+1332,,3,Napoli,Roma,Draw,3.6,3.263223171234131,1,1,1,2.6
+1333,,3,Fiorentina,Sassuolo,Home,1.7,1.3386932611465454,1,0,1,0.7
+1335,,3,Cagliari,Inter,Draw,4.5,3.3297126293182373,1,2,0,-1.0
+1336,,3,Frosinone,Fiorentina,Draw,3.6,2.6359634399414062,1,1,1,2.6
+1337,,3,Monza,Bologna,Away,3.0,1.5256457328796387,1,1,0,-1.0
+1338,,3,Genoa,Roma,Home,3.8,2.7309298515319824,1,0,1,2.8
+1338,,3,Genoa,Roma,Draw,3.25,2.730839252471924,1,0,0,-1.0
+1339,,3,Sassuolo,Bologna,Draw,3.4,3.3597841262817383,1,1,1,2.4
+1339,,3,Sassuolo,Bologna,Away,2.63,2.2835915088653564,1,1,0,-1.0
+1340,,3,Lecce,Torino,Home,2.75,1.6878838539123535,1,2,0,-1.0
+1341,,3,Juventus,Verona,Draw,5.0,3.5333967208862305,1,0,0,-1.0
+1342,,3,Salernitana,Roma,Home,5.25,2.0796473026275635,1,2,0,-1.0
+1343,,3,Genoa,Cagliari,Home,2.25,1.348402500152588,1,0,1,1.25
+1344,,3,Cagliari,Frosinone,Draw,3.3,2.927356481552124,1,0,0,-1.0
+1344,,3,Cagliari,Frosinone,Away,3.2,2.0312747955322266,1,0,0,-1.0
+1345,,3,Monza,Udinese,Home,2.0,1.9119962453842163,1,1,0,-1.0
+1345,,3,Monza,Udinese,Draw,3.6,3.5743610858917236,1,1,1,2.6
+1346,,3,Inter,Roma,Draw,4.0,1.7104055881500244,1,0,0,-1.0
+1347,,3,Napoli,Milan,Draw,3.4,2.9307756423950195,1,1,1,2.4
+1347,,3,Napoli,Milan,Away,3.3,2.641087055206299,1,1,0,-1.0
+1348,,3,Fiorentina,Torino,Draw,3.2,2.8354532718658447,1,0,0,-1.0
+1348,,3,Fiorentina,Torino,Away,3.6,3.2071328163146973,1,0,0,-1.0
+1349,,3,Napoli,Monza,Home,1.62,1.3692041635513306,1,1,0,-1.0
+1350,,3,Genoa,Inter,Draw,3.8,2.6360089778900146,1,1,1,2.8
+1351,,3,Lazio,Frosinone,Home,1.67,1.398179292678833,1,0,1,0.6699999999999999
+1352,,3,Napoli,Atalanta,Draw,3.6,3.274341344833374,1,2,0,-1.0
+1352,,3,Napoli,Atalanta,Away,3.4,2.367051839828491,1,2,1,2.4
+1353,,3,Genoa,Frosinone,Draw,3.6,2.5786619186401367,1,1,1,2.6
+1354,,3,Torino,Monza,Home,1.83,1.4437379837036133,1,0,1,0.8300000000000001
+1355,,3,Lazio,Juventus,Draw,3.1,2.8719379901885986,1,0,0,-1.0
+1356,,3,Fiorentina,Milan,Away,2.5,1.5143500566482544,1,2,1,1.5
+1358,,3,Milan,Lazio,Home,1.73,1.3254156112670898,1,0,1,0.73
+1359,,3,Salernitana,Inter,Draw,4.75,3.791858434677124,1,2,0,-1.0
+1360,,3,Empoli,Atalanta,Draw,3.75,3.488786458969116,1,2,0,-1.0
+1360,,3,Empoli,Atalanta,Away,1.67,1.5302343368530273,1,2,1,0.6699999999999999
+1361,,3,Lazio,Fiorentina,Away,3.25,2.3280181884765625,1,0,0,-1.0
+1362,,3,Atalanta,Lecce,Draw,4.6,3.8930680751800537,1,0,0,-1.0
+1363,,3,Cagliari,Empoli,Draw,3.4,2.389523506164551,1,1,1,2.4
+1364,,3,Udinese,Bologna,Home,3.5,3.0459039211273193,1,0,1,2.5
+1365,,3,Milan,Sassuolo,Draw,4.75,3.5850536823272705,1,0,0,-1.0
+1365,,3,Milan,Sassuolo,Away,6.5,1.635913372039795,1,0,0,-1.0
+1366,,3,Verona,Salernitana,Draw,3.4,3.384056806564331,1,2,0,-1.0
+1366,,3,Verona,Salernitana,Away,4.2,1.4876399040222168,1,2,1,3.2
+1367,,3,Juventus,Roma,Home,2.05,1.578748345375061,1,0,1,1.0499999999999998
+1368,,4,Getafe,Real Madrid,Away,1.55,1.1075032949447632,1,2,1,0.55
+1369,,4,Celta,Almeria,Home,1.85,1.1358990669250488,1,0,1,0.8500000000000001
+1370,,4,Villarreal,Ath Madrid,Away,2.25,1.4143304824829102,1,2,1,1.25
+1371,,4,Cadiz,Villarreal,Draw,3.4,3.0788934230804443,1,0,0,-1.0
+1372,,4,Almeria,Celta,Away,2.5,1.3509294986724854,1,2,1,1.5
+1373,,4,Almeria,Granada,Draw,3.6,2.53013277053833,1,1,1,2.6
+1374,,4,Alaves,Osasuna,Draw,3.0,2.477177381515503,1,2,0,-1.0
+1374,,4,Alaves,Osasuna,Away,2.8,2.5582566261291504,1,2,1,1.7999999999999998
+1375,,4,Ath Madrid,Cadiz,Home,1.33,1.2840598821640015,1,0,1,0.33000000000000007
+1376,,4,Betis,Valencia,Home,2.3,1.4660465717315674,1,0,1,1.2999999999999998
+1377,,4,Las Palmas,Getafe,Home,2.38,2.0846545696258545,1,0,1,1.38
+1377,,4,Las Palmas,Getafe,Draw,2.9,2.6269607543945312,1,0,0,-1.0
+1378,,4,Getafe,Vallecano,Away,3.3,1.140491008758545,1,2,1,2.3
+1379,,4,Sociedad,Alaves,Home,1.6,1.311399221420288,1,1,0,-1.0
+1380,,4,Valencia,Villarreal,Home,2.05,1.558445692062378,1,0,1,1.0499999999999998
+1381,,4,Ath Bilbao,Mallorca,Home,1.53,1.2634719610214233,1,0,1,0.53
+1382,,4,Sevilla,Sociedad,Home,2.6,2.16459321975708,1,0,1,1.6
+1383,,4,Vallecano,Cadiz,Home,1.8,1.713529348373413,1,1,0,-1.0
+1384,,4,Getafe,Las Palmas,Away,4.33,3.1806445121765137,1,1,0,-1.0
+1385,,4,Valencia,Real Madrid,Home,5.25,4.488779544830322,1,1,0,-1.0
+1385,,4,Valencia,Real Madrid,Draw,3.8,3.511765956878662,1,1,1,2.8
+1386,,4,Sociedad,Granada,Away,7.0,5.388637065887451,1,0,0,-1.0
+1387,,4,Real Madrid,Getafe,Home,1.33,1.0958468914031982,1,0,1,0.33000000000000007
+1388,,4,Alaves,Valencia,Away,2.75,1.421601414680481,1,0,0,-1.0
+1389,,4,Betis,Vallecano,Home,1.95,1.9447615146636963,1,0,1,0.95
+1389,,4,Betis,Vallecano,Away,4.0,3.7400248050689697,1,0,0,-1.0
+1390,,4,Las Palmas,Celta,Draw,3.2,2.469787836074829,1,0,0,-1.0
+1391,,4,Girona,Valencia,Home,1.7,1.5529911518096924,1,0,1,0.7
+1392,,4,Ath Bilbao,Vallecano,Home,1.57,1.3372366428375244,1,0,1,0.5700000000000001
+1393,,4,Real Madrid,Granada,Home,1.17,1.0792299509048462,1,0,1,0.16999999999999993
+1394,,4,Osasuna,Sociedad,Home,3.4,3.0880556106567383,1,1,0,-1.0
+1394,,4,Osasuna,Sociedad,Draw,3.25,2.955847978591919,1,1,1,2.25
+1395,,4,Granada,Cadiz,Home,2.25,1.4358173608779907,1,0,1,1.25
+1396,,4,Celta,Betis,Home,2.4,2.2855536937713623,1,0,1,1.4
+1396,,4,Celta,Betis,Draw,3.3,2.760575532913208,1,0,0,-1.0
+1397,,4,Real Madrid,Mallorca,Home,1.2,1.1217378377914429,1,0,1,0.19999999999999996
+1398,,4,Girona,Ath Madrid,Away,2.63,1.7827759981155396,1,0,0,-1.0
+1399,,4,Valencia,Almeria,Draw,3.75,2.7207791805267334,1,0,0,-1.0
+1399,,4,Valencia,Almeria,Away,5.5,3.133331060409546,1,0,0,-1.0
+1400,,4,Granada,Las Palmas,Draw,3.2,2.462761640548706,1,1,1,2.2
+1400,,4,Granada,Las Palmas,Away,3.3,2.7224998474121094,1,1,0,-1.0
+1401,,4,Alaves,Barcelona,Away,1.85,1.2584086656570435,1,2,1,0.8500000000000001
+1402,,4,Girona,Sociedad,Home,2.1,1.6601827144622803,1,1,0,-1.0
+1403,,4,Villarreal,Granada,Home,1.65,1.1568851470947266,1,0,1,0.6499999999999999
+1404,,4,Ath Madrid,Betis,Home,1.57,1.1838668584823608,1,0,1,0.5700000000000001
+1405,,4,Mallorca,Girona,Draw,3.2,2.558760643005371,1,0,0,-1.0
+1405,,4,Mallorca,Girona,Away,2.3,2.225970983505249,1,0,0,-1.0
+1406,,4,Ath Bilbao,Barcelona,Draw,3.5,2.287020444869995,1,1,1,2.5
+1407,,4,Getafe,Ath Bilbao,Home,4.0,3.2539749145507812,1,2,0,-1.0
+1407,,4,Getafe,Ath Bilbao,Draw,3.2,1.9391521215438843,1,2,0,-1.0
+1408,,4,Girona,Las Palmas,Home,1.67,1.5949304103851318,1,0,1,0.6699999999999999
+1409,,4,Mallorca,Ath Bilbao,Draw,3.0,2.3540616035461426,1,1,1,2.0
+1410,,4,Osasuna,Barcelona,Draw,4.0,2.954012155532837,1,2,0,-1.0
+1411,,4,Las Palmas,Ath Madrid,Away,1.65,1.5904783010482788,1,0,0,-1.0
+1412,,4,Mallorca,Alaves,Away,3.25,2.5354740619659424,1,1,0,-1.0
+1413,,4,Almeria,Betis,Home,3.2,1.6359939575195312,1,1,0,-1.0
+1414,,4,Sevilla,Villarreal,Draw,3.6,3.3098275661468506,1,1,1,2.6
+1414,,4,Sevilla,Villarreal,Away,3.6,2.0490188598632812,1,1,0,-1.0
+1415,,4,Barcelona,Ath Madrid,Draw,3.75,3.6365838050842285,1,0,0,-1.0
+1415,,4,Barcelona,Ath Madrid,Away,3.5,1.7950009107589722,1,0,0,-1.0
+1416,,4,Osasuna,Almeria,Draw,4.0,1.8586747646331787,1,0,0,-1.0
+1417,,4,Sevilla,Ath Bilbao,Away,2.38,1.611830711364746,1,2,1,1.38
+1418,,4,Las Palmas,Barcelona,Draw,4.33,4.0383758544921875,1,2,0,-1.0
+1419,,4,Villarreal,Cadiz,Draw,4.0,1.9405150413513184,1,1,1,3.0
+1420,,4,Osasuna,Celta,Away,3.3,1.3353749513626099,1,2,1,2.3
+1421,,4,Betis,Getafe,Home,1.91,1.5721067190170288,1,1,0,-1.0
+1422,,4,Real Madrid,Ath Madrid,Draw,4.0,3.069786310195923,1,1,1,3.0
+1422,,4,Real Madrid,Ath Madrid,Away,4.5,2.3715667724609375,1,1,0,-1.0
+1423,,4,Osasuna,Alaves,Away,3.25,2.0664737224578857,1,0,0,-1.0
+1424,,4,Granada,Valencia,Draw,3.1,2.4049906730651855,1,2,0,-1.0
+1425,,4,Sociedad,Las Palmas,Home,1.33,1.115586757659912,1,0,1,0.33000000000000007
+1426,,4,Real Madrid,Cadiz,Home,1.33,1.155532717704773,1,0,1,0.33000000000000007
+1427,,4,Girona,Barcelona,Home,2.7,2.0120604038238525,1,0,1,1.7000000000000002
+1428,,4,Mallorca,Ath Madrid,Home,3.75,2.671381950378418,1,2,0,-1.0
+1429,,4,Osasuna,Girona,Draw,3.4,2.536486864089966,1,2,0,-1.0
+1430,,4,Betis,Mallorca,Draw,3.3,1.6115220785140991,1,0,0,-1.0
+1431,,4,Celta,Sevilla,Draw,3.4,3.302311420440674,1,1,1,2.4
+1431,,4,Celta,Sevilla,Away,2.7,1.7507649660110474,1,1,0,-1.0
+1432,,4,Sociedad,Barcelona,Home,3.1,2.40337872505188,1,2,0,-1.0
+1432,,4,Sociedad,Barcelona,Draw,3.5,2.949922561645508,1,2,0,-1.0
+1433,,4,Celta,Cadiz,Draw,3.8,2.6721622943878174,1,1,1,2.8
+1434,,4,Vallecano,Sevilla,Away,3.5,1.2740017175674438,1,2,1,2.5
+1435,,4,Osasuna,Betis,Away,2.38,1.536825180053711,1,2,1,1.38
+1436,,4,Celta,Villarreal,Home,2.3,2.247647762298584,1,0,1,1.2999999999999998
+1436,,4,Celta,Villarreal,Draw,3.6,2.8168230056762695,1,0,0,-1.0
+1437,,4,Valencia,Alaves,Draw,3.0,2.75673508644104,1,2,0,-1.0
+1437,,4,Valencia,Alaves,Away,4.0,1.7347426414489746,1,2,1,3.0
+1438,,4,Sevilla,Granada,Home,1.65,1.62195885181427,1,0,1,0.6499999999999999
+1439,,4,Vallecano,Almeria,Home,1.57,1.366760492324829,1,2,0,-1.0
+1440,,4,Alaves,Almeria,Draw,3.75,2.0243477821350098,1,0,0,-1.0
+1440,,4,Alaves,Almeria,Away,4.75,3.519632339477539,1,0,0,-1.0
+1441,,4,Valencia,Granada,Draw,4.0,2.1564722061157227,1,0,0,-1.0
+1442,,4,Villarreal,Ath Bilbao,Draw,3.6,3.384943723678589,1,2,0,-1.0
+1442,,4,Villarreal,Ath Bilbao,Away,2.4,2.0989816188812256,1,2,1,1.4
+1443,,4,Real Madrid,Vallecano,Home,1.29,1.1573857069015503,1,1,0,-1.0
+1444,,4,Ath Bilbao,Almeria,Home,1.36,1.144377589225769,1,0,1,0.3600000000000001
+1445,,4,Getafe,Cadiz,Home,1.91,1.8910548686981201,1,0,1,0.9099999999999999
+1446,,4,Cadiz,Girona,Away,2.25,1.7461756467819214,1,2,1,1.25
+1447,,4,Real Madrid,Osasuna,Home,1.29,1.0767546892166138,1,0,1,0.29000000000000004
+1448,,4,Mallorca,Valencia,Home,2.5,1.7043781280517578,1,1,0,-1.0
+1449,,4,Sevilla,Vallecano,Draw,3.6,2.3629157543182373,1,1,1,2.6
+1449,,4,Sevilla,Vallecano,Away,4.2,3.5289764404296875,1,1,0,-1.0
+1450,,4,Barcelona,Mallorca,Draw,4.75,4.5860795974731445,1,0,0,-1.0
+1451,,4,Villarreal,Las Palmas,Away,5.75,2.6354141235351562,1,2,1,4.75
+1452,,4,Ath Madrid,Sociedad,Home,1.83,1.6337878704071045,1,0,1,0.8300000000000001
+1453,,4,Alaves,Betis,Home,2.8,1.9988950490951538,1,1,0,-1.0
+1454,,4,Celta,Getafe,Home,2.05,1.287122368812561,1,1,0,-1.0
+1455,,4,Granada,Barcelona,Away,1.4,1.1943658590316772,1,1,0,-1.0
+1456,,4,Getafe,Valencia,Home,2.6,1.288571834564209,1,0,1,1.6
+1457,,4,Cadiz,Betis,Away,2.6,2.3198423385620117,1,2,1,1.6
+1458,,4,Valencia,Getafe,Draw,3.2,2.395291805267334,1,0,0,-1.0
+1459,,4,Cadiz,Ath Madrid,Home,4.75,3.4707326889038086,1,0,1,3.75
+1460,,4,Granada,Sociedad,Away,1.85,1.45442533493042,1,2,1,0.8500000000000001
+1461,,4,Girona,Osasuna,Home,1.62,1.233624815940857,1,0,1,0.6200000000000001
+1462,,4,Alaves,Las Palmas,Home,2.1,1.9671252965927124,1,2,0,-1.0
+1462,,4,Alaves,Las Palmas,Draw,3.0,2.7665748596191406,1,2,0,-1.0
+1463,,4,Betis,Real Madrid,Home,4.2,1.8867990970611572,1,1,0,-1.0
+1463,,4,Betis,Real Madrid,Draw,3.8,2.9279651641845703,1,1,1,2.8
+1464,,4,Villarreal,Sociedad,Away,2.1,1.7392141819000244,1,2,1,1.1
+1465,,4,Mallorca,Sevilla,Home,2.75,2.1024739742279053,1,0,1,1.75
+1465,,4,Mallorca,Sevilla,Draw,3.1,2.977881908416748,1,0,0,-1.0
+1466,,4,Alaves,Villarreal,Away,3.3,2.8433759212493896,1,1,0,-1.0
+1467,,4,Sociedad,Osasuna,Draw,3.2,1.7423198223114014,1,2,0,-1.0
+1468,,4,Real Madrid,Girona,Home,1.45,1.1462351083755493,1,0,1,0.44999999999999996
+1469,,4,Las Palmas,Valencia,Home,2.75,1.778097152709961,1,0,1,1.75
+1469,,4,Las Palmas,Valencia,Draw,3.0,2.792734146118164,1,0,0,-1.0
+1470,,4,Alaves,Vallecano,Home,2.15,1.7337422370910645,1,0,1,1.15
+1471,,4,Las Palmas,Ath Bilbao,Draw,3.3,1.9255917072296143,1,2,0,-1.0
+1472,,4,Real Madrid,Celta,Home,1.3,1.0634030103683472,1,0,1,0.30000000000000004
+1473,,4,Betis,Villarreal,Draw,3.5,3.3226680755615234,1,2,0,-1.0
+1473,,4,Betis,Villarreal,Away,3.4,2.3806710243225098,1,2,1,2.4
+1474,,4,Alaves,Girona,Home,3.5,1.5176498889923096,1,1,0,-1.0
+1475,,4,Ath Bilbao,Celta,Home,1.67,1.12982976436615,1,0,1,0.6699999999999999
+1476,,4,Ath Madrid,Almeria,Away,12.0,5.475873947143555,1,0,0,-1.0
+1477,,4,Cadiz,Osasuna,Away,2.55,2.475950002670288,1,1,0,-1.0
+1478,,4,Barcelona,Girona,Home,1.53,1.3310165405273438,1,2,0,-1.0
+1479,,4,Getafe,Celta,Draw,3.1,3.0841422080993652,1,0,0,-1.0
+1479,,4,Getafe,Celta,Away,3.6,3.2689120769500732,1,0,0,-1.0
+1480,,4,Mallorca,Vallecano,Home,2.3,2.1946303844451904,1,0,1,1.2999999999999998
+1481,,4,Sevilla,Ath Madrid,Home,3.5,2.4290013313293457,1,0,1,2.5
+1481,,4,Sevilla,Ath Madrid,Draw,3.5,3.335240602493286,1,0,0,-1.0
+1482,,4,Barcelona,Granada,Home,1.22,1.193094253540039,1,1,0,-1.0
+1483,,4,Almeria,Sevilla,Home,3.1,2.813481330871582,1,1,0,-1.0
+1483,,4,Almeria,Sevilla,Draw,3.3,3.2149696350097656,1,1,1,2.3
+1485,,4,Villarreal,Sevilla,Draw,4.0,2.532604455947876,1,0,0,-1.0
+1486,,4,Granada,Real Madrid,Away,1.53,1.1158174276351929,1,2,1,0.53
+1487,,4,Ath Bilbao,Osasuna,Home,1.44,1.331850290298462,1,1,0,-1.0
+1489,,4,Sevilla,Valencia,Home,1.91,1.7278131246566772,1,2,0,-1.0
+1489,,4,Sevilla,Valencia,Draw,3.5,3.398712158203125,1,2,0,-1.0
+1490,,4,Vallecano,Girona,Home,2.88,1.9203686714172363,1,2,0,-1.0
+1491,,4,Almeria,Sociedad,Draw,3.8,3.7026679515838623,1,2,0,-1.0
+1491,,4,Almeria,Sociedad,Away,1.73,1.6069413423538208,1,2,1,0.73
+1492,,4,Granada,Getafe,Home,2.5,2.3156843185424805,1,1,0,-1.0
+1493,,4,Osasuna,Las Palmas,Home,1.95,1.573001742362976,1,1,0,-1.0
+1494,,4,Real Madrid,Valencia,Home,1.33,1.2578961849212646,1,0,1,0.33000000000000007
+1495,,4,Granada,Ath Bilbao,Home,5.0,1.9589356184005737,1,1,0,-1.0
+1495,,4,Granada,Ath Bilbao,Draw,4.0,3.236924886703491,1,1,1,3.0
+1496,,4,Vallecano,Celta,Draw,3.1,2.1924209594726562,1,1,1,2.1
+1497,,4,Sevilla,Alaves,Away,4.2,1.6017651557922363,1,2,1,3.2
+1498,,4,Almeria,Ath Bilbao,Home,4.33,2.1805155277252197,1,1,0,-1.0
+1499,,4,Betis,Celta,Draw,3.4,3.2310118675231934,1,0,0,-1.0
+1499,,4,Betis,Celta,Away,3.5,1.7767218351364136,1,0,0,-1.0
+1500,,4,Cadiz,Getafe,Home,2.1,2.0569162368774414,1,0,1,1.1
+1500,,4,Cadiz,Getafe,Draw,3.2,2.9295361042022705,1,0,0,-1.0
+1501,,4,Ath Madrid,Celta,Home,1.42,1.3275256156921387,1,0,1,0.41999999999999993
+1502,,4,Valencia,Vallecano,Home,2.25,1.3579223155975342,1,1,0,-1.0
+1503,,4,Betis,Almeria,Away,8.5,6.862110137939453,1,0,0,-1.0
+1504,,4,Sociedad,Girona,Draw,4.0,2.3099167346954346,1,1,1,3.0
+1504,,4,Sociedad,Girona,Away,5.25,4.444592475891113,1,1,0,-1.0
+1505,,4,Ath Bilbao,Real Madrid,Away,2.15,1.125159502029419,1,2,1,1.15
+1506,,4,Barcelona,Alaves,Home,1.25,1.076483964920044,1,0,1,0.25
+1507,,4,Sevilla,Betis,Draw,3.5,3.1797821521759033,1,1,1,2.5
+1507,,4,Sevilla,Betis,Away,3.6,2.2223846912384033,1,1,0,-1.0
+1508,,4,Ath Madrid,Villarreal,Away,7.5,3.635676383972168,1,0,0,-1.0
+1509,,4,Las Palmas,Villarreal,Home,2.5,1.6065808534622192,1,0,1,1.5
+1510,,4,Mallorca,Celta,Home,2.5,1.8148252964019775,1,1,0,-1.0
+1510,,4,Mallorca,Celta,Draw,3.1,2.962451457977295,1,1,1,2.1
+1511,,4,Ath Bilbao,Sociedad,Home,2.0,1.7086355686187744,1,0,1,1.0
+1511,,4,Ath Bilbao,Sociedad,Draw,3.4,3.2148513793945312,1,0,0,-1.0
+1512,,4,Betis,Granada,Draw,4.2,1.8750317096710205,1,0,0,-1.0
+1513,,4,Ath Madrid,Girona,Draw,3.6,2.524460792541504,1,0,0,-1.0
+1513,,4,Ath Madrid,Girona,Away,3.8,2.3209149837493896,1,0,0,-1.0
+1514,,4,Vallecano,Getafe,Home,2.2,2.1657485961914062,1,1,0,-1.0
+1514,,4,Vallecano,Getafe,Draw,3.0,1.963180661201477,1,1,1,2.0
+1515,,4,Mallorca,Real Madrid,Away,1.75,1.2260515689849854,1,2,1,0.75
+1516,,4,Cadiz,Barcelona,Home,4.33,3.780207395553589,1,2,0,-1.0
+1516,,4,Cadiz,Barcelona,Draw,3.6,2.103546619415283,1,2,0,-1.0
+1517,,4,Barcelona,Sociedad,Home,1.8,1.623034954071045,1,0,1,0.8
+1518,,4,Celta,Osasuna,Away,3.9,1.5579122304916382,1,2,1,2.9
+1519,,4,Villarreal,Betis,Away,4.2,1.7427594661712646,1,2,1,3.2
+1521,,4,Almeria,Girona,Home,4.5,2.422957181930542,1,1,0,-1.0
+1521,,4,Almeria,Girona,Draw,4.0,3.0465118885040283,1,1,1,3.0
+1522,,4,Cadiz,Valencia,Draw,3.0,2.607426404953003,1,2,0,-1.0
+1522,,4,Cadiz,Valencia,Away,2.7,1.9427965879440308,1,2,1,1.7000000000000002
+1523,,4,Las Palmas,Sevilla,Draw,3.2,2.616751194000244,1,2,0,-1.0
+1524,,4,Granada,Alaves,Home,3.0,2.883070945739746,1,0,1,2.0
+1524,,4,Granada,Alaves,Away,2.55,2.460947036743164,1,0,0,-1.0
+1525,,4,Ath Bilbao,Villarreal,Home,1.75,1.2343528270721436,1,1,0,-1.0
+1526,,4,Sociedad,Almeria,Draw,5.0,4.66353178024292,1,1,1,4.0
+1526,,4,Sociedad,Almeria,Away,10.0,4.399560928344727,1,1,0,-1.0
+1527,,4,Osasuna,Mallorca,Home,2.8,2.628683090209961,1,1,0,-1.0
+1528,,4,Real Madrid,Alaves,Away,11.0,5.076627731323242,1,0,0,-1.0
+1529,,4,Girona,Villarreal,Draw,4.5,2.712646484375,1,2,0,-1.0
+1530,,4,Cadiz,Alaves,Home,2.2,1.5592595338821411,1,0,1,1.2000000000000002
+1532,,4,Sociedad,Cadiz,Home,1.5,1.2734978199005127,1,0,1,0.5
+1533,,4,Osasuna,Valencia,Draw,3.1,2.7420032024383545,1,2,0,-1.0
+1533,,4,Osasuna,Valencia,Away,3.75,2.0016672611236572,1,2,1,2.75
+1534,,4,Sevilla,Cadiz,Away,4.0,2.137904644012451,1,2,1,3.0
+1535,,4,Vallecano,Granada,Home,1.65,1.0965520143508911,1,0,1,0.6499999999999999
+1536,,4,Celta,Ath Bilbao,Home,2.63,2.1861886978149414,1,0,1,1.63
+1536,,4,Celta,Ath Bilbao,Draw,3.3,2.7765862941741943,1,0,0,-1.0
+1537,,4,Getafe,Ath Madrid,Home,4.75,4.0345563888549805,1,2,0,-1.0
+1537,,4,Getafe,Ath Madrid,Draw,3.4,3.1041016578674316,1,2,0,-1.0
+1538,,4,Vallecano,Alaves,Home,2.0,1.181107521057129,1,0,1,1.0
+1539,,4,Osasuna,Vallecano,Away,3.5,3.3970227241516113,1,0,0,-1.0
+1540,,4,Villarreal,Getafe,Home,1.95,1.9138150215148926,1,1,0,-1.0
+1540,,4,Villarreal,Getafe,Draw,3.5,2.8489928245544434,1,1,1,2.5
+1541,,4,Mallorca,Granada,Home,1.83,1.450286626815796,1,0,1,0.8300000000000001
+1542,,4,Osasuna,Real Madrid,Away,1.55,1.283261775970459,1,2,1,0.55
+1543,,4,Getafe,Girona,Home,3.1,2.9516122341156006,1,0,1,2.1
+1543,,4,Getafe,Girona,Draw,3.5,3.1671347618103027,1,0,0,-1.0
+1544,,4,Ath Bilbao,Alaves,Draw,3.75,3.248994827270508,1,0,0,-1.0
+1544,,4,Ath Bilbao,Alaves,Away,7.0,3.9656336307525635,1,0,0,-1.0
+1545,,4,Las Palmas,Betis,Home,4.0,2.181270122528076,1,1,0,-1.0
+1546,,4,Almeria,Barcelona,Away,1.44,1.2782769203186035,1,2,1,0.43999999999999995
+1548,,4,Ath Bilbao,Cadiz,Home,1.53,1.501223087310791,1,0,1,0.53
+1549,,4,Valencia,Ath Madrid,Home,3.8,1.7472279071807861,1,0,1,2.8
+1550,,4,Celta,Mallorca,Away,4.33,2.1425201892852783,1,2,1,3.33
+1551,,4,Barcelona,Betis,Home,1.36,1.1048136949539185,1,0,1,0.3600000000000001
+1552,,4,Celta,Granada,Home,1.67,1.6056995391845703,1,0,1,0.6699999999999999
+1552,,4,Celta,Granada,Draw,4.0,3.49470591545105,1,0,0,-1.0
+1553,,4,Ath Bilbao,Ath Madrid,Home,2.45,1.909909963607788,1,0,1,1.4500000000000002
+1554,,4,Sevilla,Getafe,Away,4.2,2.41357159614563,1,2,1,3.2
+1555,,4,Valencia,Barcelona,Away,1.67,1.5475616455078125,1,1,0,-1.0
+1556,,4,Ath Madrid,Las Palmas,Home,1.5,1.1193480491638184,1,0,1,0.5
+1557,,4,Osasuna,Cadiz,Home,1.75,1.4430749416351318,1,0,1,0.75
+1558,,4,Celta,Barcelona,Home,3.8,3.5650601387023926,1,2,0,-1.0
+1558,,4,Celta,Barcelona,Draw,3.8,3.211958885192871,1,2,0,-1.0
+1559,,4,Valencia,Sevilla,Home,2.25,1.7557569742202759,1,1,0,-1.0
+1560,,4,Sevilla,Celta,Home,2.0,1.8275023698806763,1,2,0,-1.0
+1561,,4,Las Palmas,Almeria,Draw,3.5,3.0430638790130615,1,2,0,-1.0
+1561,,4,Las Palmas,Almeria,Away,4.0,3.624800682067871,1,2,1,3.0
+1562,,4,Villarreal,Valencia,Home,2.05,1.6683483123779297,1,0,1,1.0499999999999998
+1563,,4,Vallecano,Betis,Home,2.5,1.3792753219604492,1,0,1,1.5
+1564,,4,Ath Madrid,Barcelona,Away,2.8,1.6508116722106934,1,2,1,1.7999999999999998
+1565,,4,Getafe,Osasuna,Home,2.63,2.028136968612671,1,0,1,1.63
+1566,,4,Villarreal,Almeria,Away,7.0,4.161984920501709,1,0,0,-1.0
+1567,,4,Sevilla,Las Palmas,Home,1.62,1.313274621963501,1,0,1,0.6200000000000001
+1568,,4,Real Madrid,Sociedad,Home,1.65,1.3784465789794922,1,0,1,0.6499999999999999
+1569,,4,Almeria,Mallorca,Draw,3.2,2.2437973022460938,1,1,1,2.2
+1570,,4,Sociedad,Betis,Home,1.7,1.666333556175232,1,1,0,-1.0
+1570,,4,Sociedad,Betis,Draw,4.0,3.8766045570373535,1,1,1,3.0
+1571,,4,Las Palmas,Cadiz,Draw,3.3,3.1943519115448,1,1,1,2.3
+1571,,4,Las Palmas,Cadiz,Away,4.33,2.387454032897949,1,1,0,-1.0
+1572,,4,Real Madrid,Villarreal,Home,1.29,1.1126211881637573,1,0,1,0.29000000000000004
+1573,,4,Vallecano,Real Madrid,Home,6.0,5.940932750701904,1,1,0,-1.0
+1574,,4,Granada,Almeria,Home,2.1,1.812706470489502,1,1,0,-1.0
+1574,,4,Granada,Almeria,Draw,3.5,3.1491153240203857,1,1,1,2.5
+1575,,4,Mallorca,Sociedad,Draw,2.8,1.6671253442764282,1,2,0,-1.0
+1576,,4,Betis,Alaves,Draw,3.3,3.2839503288269043,1,1,1,2.3
+1576,,4,Betis,Alaves,Away,3.75,1.913934588432312,1,1,0,-1.0
+1577,,4,Alaves,Getafe,Away,4.1,2.8154501914978027,1,0,0,-1.0
+1578,,4,Mallorca,Villarreal,Draw,3.2,1.881527304649353,1,2,0,-1.0
+1579,,4,Valencia,Las Palmas,Home,1.57,1.3533066511154175,1,0,1,0.5700000000000001
+1580,,4,Granada,Girona,Away,2.6,1.7660781145095825,1,2,1,1.6
+1581,,4,Girona,Alaves,Home,1.53,1.1904292106628418,1,0,1,0.53
+1582,,4,Alaves,Cadiz,Home,1.7,1.5440473556518555,1,0,1,0.7
+1583,,4,Ath Bilbao,Girona,Home,1.91,1.5621591806411743,1,0,1,0.9099999999999999
+1584,,4,Ath Bilbao,Granada,Home,1.25,1.1108863353729248,1,1,0,-1.0
+1585,,4,Ath Bilbao,Sevilla,Draw,3.9,3.770582914352417,1,0,0,-1.0
+1586,,4,Ath Madrid,Osasuna,Away,8.0,2.4114255905151367,1,2,1,7.0
+1587,,4,Barcelona,Vallecano,Home,1.25,1.1731858253479004,1,0,1,0.25
+1588,,4,Betis,Sociedad,Home,2.55,1.2904248237609863,1,2,0,-1.0
+1589,,4,Cadiz,Las Palmas,Home,1.8,1.7064183950424194,1,1,0,-1.0
+1589,,4,Cadiz,Las Palmas,Draw,3.5,3.2535743713378906,1,1,1,2.5
+1590,,4,Granada,Celta,Away,2.0,1.564215898513794,1,2,1,1.0
+1591,,4,Mallorca,Almeria,Draw,4.1,3.9876718521118164,1,1,1,3.0999999999999996
+1591,,4,Mallorca,Almeria,Away,7.0,5.196499824523926,1,1,0,-1.0
+1592,,4,Valencia,Girona,Home,3.0,2.772604465484619,1,2,0,-1.0
+1592,,4,Valencia,Girona,Draw,3.5,2.2107951641082764,1,2,0,-1.0
+1593,,4,Villarreal,Real Madrid,Draw,3.75,3.7431111335754395,1,1,1,2.75
+1593,,4,Villarreal,Real Madrid,Away,2.05,1.6150867938995361,1,1,0,-1.0
+1594,,4,Sociedad,Celta,Draw,3.4,2.4698524475097656,1,1,1,2.4
+1594,,4,Sociedad,Celta,Away,5.5,2.373295783996582,1,1,0,-1.0
+1595,,4,Almeria,Real Madrid,Home,8.0,5.400353908538818,1,2,0,-1.0
+1595,,4,Almeria,Real Madrid,Draw,4.75,4.066112995147705,1,2,0,-1.0
+1596,,4,Osasuna,Ath Bilbao,Home,2.9,1.9656058549880981,1,2,0,-1.0
+1596,,4,Osasuna,Ath Bilbao,Draw,3.0,2.730579137802124,1,2,0,-1.0
+1597,,4,Vallecano,Valencia,Draw,3.2,2.4048163890838623,1,2,0,-1.0
+1597,,4,Vallecano,Valencia,Away,3.5,1.97957181930542,1,2,1,2.5
+1598,,4,Ath Madrid,Getafe,Away,7.5,4.776943206787109,1,1,0,-1.0
+1599,,4,Granada,Sevilla,Away,2.5,1.6822295188903809,1,2,1,1.5
+1600,,4,Vallecano,Las Palmas,Away,4.5,1.9149725437164307,1,2,1,3.5
+1601,,4,Villarreal,Mallorca,Draw,3.5,2.215714693069458,1,1,1,2.5
+1602,,4,Valencia,Ath Bilbao,Draw,3.3,2.0185112953186035,1,0,0,-1.0
+1602,,4,Valencia,Ath Bilbao,Away,2.25,2.0811073780059814,1,0,0,-1.0
+1603,,4,Celta,Sociedad,Draw,3.0,1.873022198677063,1,2,0,-1.0
+1604,,4,Celta,Las Palmas,Home,1.73,1.1814961433410645,1,0,1,0.73
+1605,,4,Vallecano,Osasuna,Home,2.2,1.9165270328521729,1,0,1,1.2000000000000002
+1605,,4,Vallecano,Osasuna,Draw,3.1,3.0294620990753174,1,0,0,-1.0
+1606,,4,Valencia,Betis,Home,2.2,1.9597811698913574,1,2,0,-1.0
+1607,,4,Girona,Cadiz,Away,8.0,6.834405422210693,1,0,0,-1.0
+1608,,4,Girona,Getafe,Home,2.05,1.412951111793518,1,0,1,1.0499999999999998
+1609,,4,Barcelona,Cadiz,Home,1.2,1.151473045349121,1,0,1,0.19999999999999996
+1610,,4,Betis,Ath Madrid,Draw,3.4,1.6742312908172607,1,1,1,2.4
+1611,,4,Osasuna,Granada,Home,1.73,1.4326179027557373,1,0,1,0.73
+1612,,4,Barcelona,Almeria,Home,1.14,1.1326628923416138,1,0,1,0.1399999999999999
+1613,,4,Ath Bilbao,Las Palmas,Home,1.36,1.0718495845794678,1,0,1,0.3600000000000001
+1614,,4,Villarreal,Celta,Home,2.4,1.55354642868042,1,0,1,1.4
+1615,,4,Osasuna,Getafe,Home,2.15,1.6581394672393799,1,0,1,1.15
+1616,,4,Real Madrid,Almeria,Home,1.13,1.1211673021316528,1,0,1,0.1299999999999999
+1617,,4,Betis,Barcelona,Home,4.33,3.3744983673095703,1,2,0,-1.0
+1617,,4,Betis,Barcelona,Draw,3.8,3.2121262550354004,1,2,0,-1.0
+1618,,4,Girona,Sevilla,Home,1.73,1.1783628463745117,1,0,1,0.73
+1619,,4,Getafe,Sociedad,Home,3.8,2.912127733230591,1,1,0,-1.0
+1619,,4,Getafe,Sociedad,Draw,3.1,2.733598232269287,1,1,1,2.1
+1620,,4,Almeria,Villarreal,Home,3.4,2.642397165298462,1,2,0,-1.0
+1620,,4,Almeria,Villarreal,Draw,3.8,3.3145930767059326,1,2,0,-1.0
+1621,,4,Alaves,Ath Madrid,Home,4.0,2.7509024143218994,1,0,1,3.0
+1622,,4,Real Madrid,Barcelona,Home,1.85,1.5647432804107666,1,0,1,0.8500000000000001
+1623,,4,Alaves,Sevilla,Home,3.3,1.4318108558654785,1,0,1,2.3
+1624,,4,Granada,Vallecano,Home,2.75,2.2660439014434814,1,2,0,-1.0
+1625,,4,Sociedad,Mallorca,Home,1.55,1.434432864189148,1,0,1,0.55
+1625,,4,Sociedad,Mallorca,Away,7.0,6.074318885803223,1,0,0,-1.0
+1626,,4,Getafe,Betis,Home,2.5,2.260035753250122,1,1,0,-1.0
+1627,,4,Sevilla,Real Madrid,Home,4.2,3.1020896434783936,1,1,0,-1.0
+1628,,4,Celta,Ath Madrid,Away,2.1,1.197213053703308,1,2,1,1.1
+1629,,4,Betis,Girona,Draw,3.5,2.2205653190612793,1,1,1,2.5
+1630,,4,Cadiz,Sociedad,Home,4.75,4.007508754730225,1,1,0,-1.0
+1630,,4,Cadiz,Sociedad,Draw,3.1,1.9742246866226196,1,1,1,2.1
+1631,,4,Alaves,Real Madrid,Away,1.53,1.243806004524231,1,2,1,0.53
+1632,,4,Mallorca,Osasuna,Home,2.3,2.1526193618774414,1,0,1,1.2999999999999998
+1633,,4,Granada,Ath Madrid,Away,1.7,1.232406735420227,1,2,1,0.7
+1634,,4,Sevilla,Mallorca,Away,4.5,2.669372320175171,1,0,0,-1.0
+1635,,4,Alaves,Ath Bilbao,Home,4.2,2.4396276473999023,1,2,0,-1.0
+1635,,4,Alaves,Ath Bilbao,Draw,3.0,2.944859266281128,1,2,0,-1.0
+1636,,4,Las Palmas,Vallecano,Home,2.63,2.22213077545166,1,2,0,-1.0
+1636,,4,Las Palmas,Vallecano,Draw,3.1,2.574920654296875,1,2,0,-1.0
+1637,,4,Girona,Almeria,Away,7.0,4.952438831329346,1,0,0,-1.0
+1638,,4,Villarreal,Alaves,Draw,3.75,3.316962242126465,1,1,1,2.75
+1638,,4,Villarreal,Alaves,Away,5.0,2.393913745880127,1,1,0,-1.0
+1639,,4,Barcelona,Ath Bilbao,Home,1.62,1.1970044374465942,1,0,1,0.6200000000000001
+1640,,4,Sociedad,Villarreal,Away,5.0,3.981186628341675,1,2,1,4.0
+1641,,4,Girona,Mallorca,Home,1.85,1.226507306098938,1,0,1,0.8500000000000001
+1642,,4,Osasuna,Sevilla,Draw,3.1,2.646949052810669,1,1,1,2.1
+1642,,4,Osasuna,Sevilla,Away,2.88,2.259248733520508,1,1,0,-1.0
+1643,,4,Barcelona,Celta,Away,9.0,5.015220642089844,1,0,0,-1.0
+1644,,4,Almeria,Valencia,Home,3.0,1.9680757522583008,1,1,0,-1.0
+1645,,4,Valencia,Cadiz,Draw,3.6,2.788358449935913,1,0,0,-1.0
+1645,,4,Valencia,Cadiz,Away,5.0,3.8594038486480713,1,0,0,-1.0
+1646,,4,Ath Madrid,Sevilla,Home,1.53,1.3131623268127441,1,0,1,0.53
+1647,,4,Barcelona,Getafe,Home,1.4,1.2086626291275024,1,0,1,0.3999999999999999
+1648,,4,Alaves,Mallorca,Away,5.0,1.3363008499145508,1,1,0,-1.0
+1649,,4,Almeria,Ath Madrid,Home,4.75,4.024270534515381,1,1,0,-1.0
+1649,,4,Almeria,Ath Madrid,Away,1.7,1.5816402435302734,1,1,0,-1.0
+1650,,4,Girona,Granada,Home,1.22,1.0890964269638062,1,0,1,0.21999999999999997
+1651,,4,Sociedad,Getafe,Away,7.0,4.595236778259277,1,0,0,-1.0
+1652,,4,Vallecano,Villarreal,Away,2.63,2.49385666847229,1,1,0,-1.0
+1653,,4,Betis,Cadiz,Home,1.8,1.6272655725479126,1,1,0,-1.0
+1653,,4,Betis,Cadiz,Draw,3.5,3.3751792907714844,1,1,1,2.5
+1654,,4,Las Palmas,Granada,Draw,3.5,2.022406816482544,1,0,0,-1.0
+1655,,4,Ath Madrid,Real Madrid,Home,2.7,1.9446223974227905,1,0,1,1.7000000000000002
+1656,,4,Alaves,Granada,Home,1.7,1.3842697143554688,1,0,1,0.7
+1657,,4,Cadiz,Celta,Draw,3.0,2.848954200744629,1,1,1,2.0
+1658,,4,Betis,Ath Bilbao,Home,3.6,1.8568934202194214,1,0,1,2.6
+1658,,4,Betis,Ath Bilbao,Draw,3.1,3.044754981994629,1,0,0,-1.0
+1659,,4,Las Palmas,Osasuna,Home,2.38,1.9979585409164429,1,1,0,-1.0
+1660,,4,Real Madrid,Sevilla,Home,1.29,1.125667691230774,1,0,1,0.29000000000000004
+1661,,4,Osasuna,Villarreal,Home,2.9,1.9807724952697754,1,1,0,-1.0
+1661,,4,Osasuna,Villarreal,Draw,3.6,3.440258026123047,1,1,1,2.6
+1662,,4,Sociedad,Ath Madrid,Draw,3.3,3.0727341175079346,1,2,0,-1.0
+1662,,4,Sociedad,Ath Madrid,Away,3.0,2.5585684776306152,1,2,1,2.0
+1663,,4,Almeria,Cadiz,Home,2.05,1.3286139965057373,1,0,1,1.0499999999999998
+1664,,4,Vallecano,Ath Bilbao,Home,2.88,2.179542064666748,1,2,0,-1.0
+1664,,4,Vallecano,Ath Bilbao,Draw,3.5,2.3298072814941406,1,2,0,-1.0
+1665,,4,Real Madrid,Betis,Home,1.33,1.2946562767028809,1,1,0,-1.0
+1666,,4,Las Palmas,Sociedad,Home,4.33,1.6430683135986328,1,1,0,-1.0
+1667,,4,Celta,Real Madrid,Home,4.75,3.3008980751037598,1,2,0,-1.0
+1667,,4,Celta,Real Madrid,Draw,3.9,2.6468124389648438,1,2,0,-1.0
+1668,,4,Vallecano,Barcelona,Home,5.25,2.631387233734131,1,1,0,-1.0
+1668,,4,Vallecano,Barcelona,Draw,4.0,3.291318655014038,1,1,1,3.0
+1669,,4,Valencia,Celta,Draw,3.25,1.7162185907363892,1,1,1,2.25
+1669,,4,Valencia,Celta,Away,3.5,3.3689470291137695,1,1,0,-1.0
+1670,,4,Getafe,Almeria,Draw,3.75,2.567241668701172,1,0,0,-1.0
+1670,,4,Getafe,Almeria,Away,5.5,4.932232856750488,1,0,0,-1.0
+1671,,4,Ath Madrid,Mallorca,Draw,5.0,2.5862932205200195,1,0,0,-1.0
+1671,,4,Ath Madrid,Mallorca,Away,9.5,7.277801513671875,1,0,0,-1.0
+1672,,4,Almeria,Alaves,Home,2.6,1.8890104293823242,1,2,0,-1.0
+1673,,4,Girona,Vallecano,Home,1.65,1.070064902305603,1,0,1,0.6499999999999999
+1674,,4,Sociedad,Real Madrid,Draw,3.25,2.8633527755737305,1,2,0,-1.0
+1674,,4,Sociedad,Real Madrid,Away,2.9,2.243272304534912,1,2,1,1.9
+1675,,4,Getafe,Mallorca,Away,3.2,2.783799409866333,1,2,1,2.2
+1676,,4,Celta,Valencia,Home,1.95,1.6346768140792847,1,1,0,-1.0
+1676,,4,Celta,Valencia,Draw,3.5,3.1560592651367188,1,1,1,2.5
+1677,,4,Las Palmas,Alaves,Home,2.4,2.0631141662597656,1,1,0,-1.0
+1678,,4,Sevilla,Barcelona,Away,1.8,1.694609522819519,1,2,1,0.8
+1679,,4,Cadiz,Almeria,Home,2.25,2.131649971008301,1,1,0,-1.0
+1679,,4,Cadiz,Almeria,Draw,3.2,2.8636488914489746,1,1,1,2.2
+1680,,4,Granada,Mallorca,Away,3.0,2.6577234268188477,1,0,0,-1.0
+1681,,4,Sevilla,Girona,Draw,3.4,2.1130788326263428,1,2,0,-1.0
+1681,,4,Sevilla,Girona,Away,3.6,3.0800845623016357,1,2,1,2.6
+1682,,4,Sevilla,Almeria,Home,1.67,1.1004796028137207,1,0,1,0.6699999999999999
+1683,,4,Mallorca,Barcelona,Home,7.5,6.743378162384033,1,1,0,-1.0
+1684,,4,Villarreal,Osasuna,Away,3.3,1.4586524963378906,1,0,0,-1.0
+1685,,4,Sociedad,Sevilla,Home,1.75,1.1988213062286377,1,0,1,0.75
+1686,,4,Cadiz,Real Madrid,Away,1.5,1.266024112701416,1,2,1,0.5
+1687,,4,Betis,Las Palmas,Home,1.7,1.3972951173782349,1,0,1,0.7
+1688,,4,Sociedad,Vallecano,Home,1.67,1.1227798461914062,1,1,0,-1.0
+1689,,4,Las Palmas,Real Madrid,Away,1.45,1.3750810623168945,1,2,1,0.44999999999999996
+1690,,4,Barcelona,Villarreal,Away,8.0,3.5226943492889404,1,2,1,7.0
+1691,,4,Mallorca,Betis,Draw,3.2,1.9712376594543457,1,2,0,-1.0
+1691,,4,Mallorca,Betis,Away,3.2,2.4530153274536133,1,2,1,2.2
+1692,,4,Las Palmas,Girona,Home,4.5,2.8233144283294678,1,2,0,-1.0
+1692,,4,Las Palmas,Girona,Draw,3.8,3.272245168685913,1,2,0,-1.0
+1693,,4,Almeria,Getafe,Home,2.7,1.3572450876235962,1,2,0,-1.0
+1694,,4,Alaves,Celta,Home,2.75,1.16707444190979,1,0,1,1.75
+1695,,4,Ath Madrid,Ath Bilbao,Home,1.95,1.5321730375289917,1,0,1,0.95
+1696,,4,Villarreal,Barcelona,Away,2.0,1.417544960975647,1,2,1,1.0
+1697,,4,Valencia,Osasuna,Draw,3.4,2.478867292404175,1,2,0,-1.0
+1698,,4,Ath Bilbao,Betis,Home,1.85,1.590640902519226,1,0,1,0.8500000000000001
+1699,,4,Ath Bilbao,Getafe,Away,6.5,4.960189342498779,1,1,0,-1.0
+1700,,4,Real Madrid,Las Palmas,Home,1.2,1.0817281007766724,1,0,1,0.19999999999999996
+1701,,4,Villarreal,Girona,Draw,3.5,2.050976037979126,1,2,0,-1.0
+1701,,4,Villarreal,Girona,Away,3.1,3.0987179279327393,1,2,1,2.1
+1702,,4,Cadiz,Vallecano,Away,2.88,2.022376298904419,1,1,0,-1.0
+1703,,4,Valencia,Sociedad,Draw,3.1,2.0596916675567627,1,2,0,-1.0
+1704,,4,Girona,Celta,Draw,4.2,2.76924991607666,1,0,0,-1.0
+1704,,4,Girona,Celta,Away,4.5,2.877352237701416,1,0,0,-1.0
+1705,,4,Girona,Ath Bilbao,Draw,3.5,2.9978857040405273,1,1,1,2.5
+1705,,4,Girona,Ath Bilbao,Away,3.1,1.7626299858093262,1,1,0,-1.0
+1706,,4,Celta,Girona,Draw,3.4,2.919776439666748,1,2,0,-1.0
+1706,,4,Celta,Girona,Away,2.5,2.355847120285034,1,2,1,1.5
+1707,,4,Cadiz,Ath Bilbao,Home,5.5,2.501572608947754,1,1,0,-1.0
+1707,,4,Cadiz,Ath Bilbao,Draw,3.4,1.9323800802230835,1,1,1,2.4
+1708,,4,Sevilla,Osasuna,Draw,3.4,2.5811092853546143,1,1,1,2.4
+1709,,4,Ath Madrid,Valencia,Home,1.45,1.1264774799346924,1,0,1,0.44999999999999996
+1710,,4,Cadiz,Mallorca,Draw,2.9,2.0483908653259277,1,1,1,1.9
+1711,,4,Granada,Osasuna,Home,2.55,1.9524680376052856,1,0,1,1.5499999999999998
+1711,,4,Granada,Osasuna,Draw,3.1,3.050905227661133,1,0,0,-1.0
+1712,,4,Villarreal,Vallecano,Home,1.65,1.2263954877853394,1,0,1,0.6499999999999999
+1713,,4,Betis,Sevilla,Home,2.05,1.5461750030517578,1,1,0,-1.0
+1714,,4,Getafe,Alaves,Home,2.2,2.135847330093384,1,0,1,1.2000000000000002
+1714,,4,Getafe,Alaves,Draw,2.88,2.563253402709961,1,0,0,-1.0
+1715,,4,Vallecano,Ath Madrid,Away,1.95,1.2498400211334229,1,2,1,0.95
+1716,,4,Celta,Alaves,Away,5.25,1.22087562084198,1,1,0,-1.0
+1717,,4,Granada,Betis,Home,3.0,2.771115303039551,1,1,0,-1.0
+1717,,4,Granada,Betis,Draw,3.3,3.1654562950134277,1,1,1,2.3
+1718,,4,Osasuna,Ath Madrid,Draw,3.4,3.366387367248535,1,2,0,-1.0
+1718,,4,Osasuna,Ath Madrid,Away,2.15,1.586837887763977,1,2,1,1.15
+1719,,4,Almeria,Las Palmas,Home,2.25,1.6701148748397827,1,2,0,-1.0
+1720,,4,Barcelona,Real Madrid,Draw,3.6,3.0048367977142334,1,2,0,-1.0
+1720,,4,Barcelona,Real Madrid,Away,2.6,2.4241981506347656,1,2,1,1.6
+1721,,4,Mallorca,Getafe,Home,2.25,1.3690025806427002,1,1,0,-1.0
+1722,,4,Cadiz,Sevilla,Away,2.25,1.5478750467300415,1,1,0,-1.0
+1723,,4,Getafe,Granada,Home,1.8,1.389358639717102,1,0,1,0.8
+1724,,4,Cadiz,Granada,Home,2.0,1.5056530237197876,1,0,1,1.0
+1725,,4,Barcelona,Valencia,Home,1.36,1.2051771879196167,1,0,1,0.3600000000000001
+1726,,4,Barcelona,Sevilla,Draw,5.25,3.321127414703369,1,0,0,-1.0
+1727,,4,Betis,Osasuna,Draw,3.5,2.328684091567993,1,0,0,-1.0
+1728,,4,Vallecano,Sociedad,Home,3.1,1.623219609260559,1,1,0,-1.0
+1729,,4,Ath Bilbao,Valencia,Home,1.62,1.3253052234649658,1,1,0,-1.0
+1730,,4,Ath Madrid,Alaves,Home,1.4,1.0595414638519287,1,0,1,0.3999999999999999
+1731,,4,Mallorca,Cadiz,Draw,3.2,2.9896793365478516,1,1,1,2.2
+1731,,4,Mallorca,Cadiz,Away,4.33,2.9733591079711914,1,1,0,-1.0
+1732,,4,Getafe,Sevilla,Draw,3.1,2.9064524173736572,1,2,0,-1.0
+1733,,4,Almeria,Osasuna,Home,2.63,2.0048959255218506,1,2,0,-1.0
+1734,,4,Valencia,Mallorca,Home,2.05,1.6417653560638428,1,1,0,-1.0
+1735,,4,Barcelona,Las Palmas,Draw,6.5,5.8438591957092285,1,0,0,-1.0
+1736,,4,Getafe,Villarreal,Home,2.9,1.441820740699768,1,1,0,-1.0
+1737,,4,Vallecano,Mallorca,Away,4.0,2.8955912590026855,1,1,0,-1.0
+1738,,4,Girona,Real Madrid,Away,1.95,1.2547262907028198,1,2,1,0.95
+1739,,4,Sociedad,Ath Bilbao,Home,2.2,1.501899003982544,1,0,1,1.2000000000000002
+1740,,4,Granada,Villarreal,Away,2.25,1.7029703855514526,1,2,1,1.25
+1741,,4,Barcelona,Osasuna,Home,1.33,1.3088291883468628,1,0,1,0.33000000000000007
+1742,,4,Ath Madrid,Vallecano,Home,1.5,1.3268064260482788,1,0,1,0.5
+1743,,4,Celta,Vallecano,Draw,3.3,2.8586785793304443,1,1,1,2.3
+1743,,4,Celta,Vallecano,Away,4.0,1.7996772527694702,1,1,0,-1.0
+1744,,4,Girona,Betis,Away,4.75,4.623605728149414,1,0,0,-1.0
+1745,,4,Alaves,Sociedad,Draw,2.9,1.8018378019332886,1,2,0,-1.0
+1746,,4,Real Madrid,Ath Bilbao,Home,1.53,1.303584337234497,1,0,1,0.53
